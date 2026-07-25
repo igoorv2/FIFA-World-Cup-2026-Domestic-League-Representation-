@@ -6,7 +6,7 @@ Serie A, Ligue 1) przekłada się na wynik reprezentacji na Mistrzostwach Świat
 
 Projekt konkursowy: Data Acolyte x KajoDataSpace.
 
-**Dashboard (Power BI):** 3 strony — Overview, Team Explorer, TOP 5.
+**Dashboard (Power BI):** 3 strony - Overview, Team Explorer, TOP 5.
 **Post na LinkedIn:** [https://www.linkedin.com/feed/update/urn:li:activity:7486152453487443968/]
 
 ## Kluczowe wnioski
