@@ -1,0 +1,164 @@
+---
+title: "Word Cup Data"
+author: "Igor Kozak"
+format:
+  html:
+    embed-resources: true
+    theme: cosmo
+    toc: true
+    toc-title: "Spis treści:"
+    toc-depth: 3
+    toc-location: right
+    toc-expand: true
+    smooth-scroll: true
+    anchor-sections: true
+editor: visual
+---
+
+### 0. Biblioteki:
+
+```{r}
+library(httr)
+library(jsonlite)
+library(rvest)
+library(dplyr)
+library(stringr)
+library(readr)
+library(purrr)
+library(janitor)
+library(xml2)
+```
+
+## 1. Zawodnicy - dane:
+
+```{r}
+url <- "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads"
+strona <- read_html(url)
+
+tabele <- strona %>% html_elements("table.wikitable")
+
+pobierz_naglowek <- function(wezel_tabeli){
+  naglowek <- xml_find_first(wezel_tabeli, "preceding::*[self::h2 or self::h3][1]")
+  if (inherits(naglowek, "xml_missing")) return(NA_character_)
+  tekst <- html_text2(naglowek)
+  tekst <- str_remove(tekst, regex("\\[edit\\]", ignore_case = TRUE))
+  str_squish(tekst)
+}
+
+lista_skladow <- list()
+
+for(wezel_tabeli in tabele) {
+  reprezentacja <- pobierz_naglowek(wezel_tabeli)
+  if(is.na(reprezentacja)) next
+  if(str_detect(reprezentacja, regex("group|see also|reference|note|confederation|external link|footnote|contents", ignore_case = TRUE))) next
+
+  tabela <- tryCatch(html_table(wezel_tabeli, fill = TRUE), error = function(e) NULL)
+  if (is.null(tabela)) next
+  tabela_czysta <- clean_names(tabela)
+  if ("player" %in% names(tabela_czysta)){
+    tabela_czysta$reprezentacja <- reprezentacja
+    lista_skladow[[length(lista_skladow) + 1]] <- tabela_czysta
+  }
+}
+
+wszystkie_sklady <- bind_rows(lista_skladow)
+
+sklady_czyste <- wszystkie_sklady %>%
+  select(reprezentacja, any_of(c("no", "pos", "player", "date_of_birth_age", "caps", "goals", "club"))) %>%
+  rename(
+    numer = no,
+    pozycja = pos,
+    zawodnik = player,
+    data_urodzenia_wiek = date_of_birth_age,
+    mecze = caps,
+    gole = goals,
+    klub = club
+  ) %>%
+  mutate(
+    zawodnik = str_squish(zawodnik),
+    pozycja = str_extract(pozycja, "[A-Z]+")
+  )
+
+write_csv(sklady_czyste, "C:/Users/igork/Desktop/VI_SEMESTR/word_cup/sklady_mundial_2026.csv")
+```
+
+```{r}
+dane1 <- read.csv("C:/Users/igork/Desktop/VI_SEMESTR/word_cup/sklady_mundial_2026.csv")
+dane1
+```
+
+## 2. Klub/Liga - dane:
+
+```{r}
+kluby <- dane1 %>%
+  distinct(klub) %>%
+  filter(!is.na(klub), klub != "")
+
+naglowek_zapytania <- user_agent("MundialDataProject/1.0 (kontakt@example.com)")
+
+znajdz_id_strony_klubu <- function(klub) {
+  zapytanie <- paste(klub, "football club")
+  odpowiedz <- tryCatch(
+    GET("https://en.wikipedia.org/w/api.php", naglowek_zapytania, query = list(
+      action = "query", list = "search", srsearch = zapytanie,
+      format = "json", srlimit = 1
+    )),
+    error = function(e) NULL
+  )
+  if (is.null(odpowiedz) || status_code(odpowiedz) != 200) return(NA_integer_)
+
+  wynik <- tryCatch(content(odpowiedz, as = "parsed", type = "application/json"),
+                     error = function(e) NULL)
+  if (is.null(wynik) || length(wynik$query$search) == 0) return(NA_integer_)
+
+  wynik$query$search[[1]]$pageid
+}
+
+pobierz_kraj_klubu_surowy <- function(id_strony) {
+  if (is.na(id_strony)) return(NA_character_)
+
+  odpowiedz <- tryCatch(
+    GET("https://en.wikipedia.org/w/api.php", naglowek_zapytania, query = list(
+      action = "parse", pageid = id_strony, prop = "text", format = "json"
+    )),
+    error = function(e) NULL
+  )
+  if (is.null(odpowiedz) || status_code(odpowiedz) != 200) return(NA_character_)
+
+  wynik <- tryCatch(content(odpowiedz, as = "parsed", type = "application/json"),
+                     error = function(e) NULL)
+  html_surowy <- wynik$parse$text$`*`
+  if (is.null(html_surowy)) return(NA_character_)
+
+  strona_html <- read_html(html_surowy)
+  infobox <- strona_html %>% html_element(".infobox")
+  if (is.na(infobox)) return(NA_character_)
+
+  wiersze <- infobox %>% html_elements("tr")
+  szukane_pola <- c("^country$", "^ground$", "^league$")
+
+  for (wzorzec in szukane_pola) {
+    for (wiersz in wiersze) {
+      tekst_naglowka <- wiersz %>% html_element("th") %>% html_text2()
+      if (!is.na(tekst_naglowka) && str_detect(tekst_naglowka, regex(wzorzec, ignore_case = TRUE))) {
+        komorka <- wiersz %>% html_element("td")
+        if (!is.na(komorka)) return(html_text2(komorka))
+      }
+    }
+  }
+  NA_character_
+}
+
+pobierz_kraj_klubu <- function(klub) {
+  id_strony <- znajdz_id_strony_klubu(klub)
+  Sys.sleep(0.3)
+  kraj <- pobierz_kraj_klubu_surowy(id_strony)
+  Sys.sleep(0.3)
+  kraj
+}
+
+kluby_kraje <- kluby %>%
+  mutate(kraj_klubu_surowy = map_chr(klub, pobierz_kraj_klubu))
+
+write_csv(kluby_kraje, "C:/Users/igork/Desktop/VI_SEMESTR/word_cup/kluby_kraje.csv")
+```
