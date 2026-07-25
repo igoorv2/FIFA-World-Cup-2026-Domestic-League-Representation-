@@ -21,13 +21,13 @@ Projekt konkursowy: Data Acolyte x KajoDataSpace.
 ## Dashboard (Power BI)
 
 **Overview**
-![Overview](screenshots/01_overview.png)
+![Overview](dashboard/01_overview.png)
 
 **Team Explorer**
-![Team Explorer](screenshots/02_team_explorer.png)
+![Team Explorer](dashboard/02_team_explorer.png)
 
 **TOP 5**
-![TOP 5](screenshots/03_top5.png)
+![TOP 5](dashboard/03_top5.png)
 
 1. **Overview** - KPI ogólne (48 drużyn, 1248 zawodników, 339/909 w rodzimej lidze/za granicą),
    wykres udziału rodzimej ligi wg etapu turnieju, diagram Sankey przepływu zawodników między
