@@ -48,7 +48,7 @@ danych korzystano ze wsparcia modelu językowego Claude Sonnet 5 (Anthropic).
 
 | Dane | Źródło | Sposób pozyskania |
 |---|---|---|
-| Składy 48 reprezentacji (zawodnik, pozycja, klub, liczba meczów/goli) | [Wikipedia — 2026 FIFA World Cup squads](https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads) | Web scraping (R, pakiet `rvest`) |
+| Składy 48 reprezentacji (zawodnik, pozycja, klub, liczba meczów/goli) | [Wikipedia - 2026 FIFA World Cup squads](https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads) | Web scraping (R, pakiet `rvest`) |
 | Kraj przynależności klubu | Infoboxy stron klubów na Wikipedii | Wikipedia API (`action=parse`), pole `Country`/`Ground`/`League` z infoboxu |
 | Wynik reprezentacji w turnieju | SofaScore | Uzupełnione ręcznie na podstawie wyników turnieju |
 
