@@ -1,0 +1,1249 @@
+reprezentacja;numer;pozycja;zawodnik;data_urodzenia_wiek;mecze;gole;klub;kraj_klubu;gra_w_rodzimej_lidze
+Czech Republic;1;GK;Matěj Kovář;(2000-05-17)17 May 2000 (aged 26);20;0;PSV Eindhoven;Netherlands;FALSE
+Czech Republic;2;DF;David Zima;(2000-11-08)8 November 2000 (aged 25);25;1;Slavia Prague;Czech Republic;TRUE
+Czech Republic;3;DF;Tomáš Holeš;(1993-03-31)31 March 1993 (aged 33);41;2;Slavia Prague;Czech Republic;TRUE
+Czech Republic;4;DF;Robin Hranáč;(2000-01-29)29 January 2000 (aged 26);14;1;TSG Hoffenheim;Germany;FALSE
+Czech Republic;5;DF;Vladimír Coufal;(1992-08-22)22 August 1992 (aged 33);62;2;TSG Hoffenheim;Germany;FALSE
+Czech Republic;6;DF;Štěpán Chaloupek;(2003-03-08)8 March 2003 (aged 23);5;0;Slavia Prague;Czech Republic;TRUE
+Czech Republic;7;DF;Ladislav Krejčí (captain);(1999-04-20)20 April 1999 (aged 27);27;5;Wolverhampton Wanderers;England;FALSE
+Czech Republic;8;MF;Vladimír Darida;(1990-08-08)8 August 1990 (aged 35);79;8;Hradec Králové;Czech Republic;TRUE
+Czech Republic;9;FW;Adam Hložek;(2002-07-25)25 July 2002 (aged 23);43;5;TSG Hoffenheim;Germany;FALSE
+Czech Republic;10;FW;Patrik Schick;(1996-01-24)24 January 1996 (aged 30);53;26;Bayer Leverkusen;Germany;FALSE
+Czech Republic;11;FW;Jan Kuchta;(1997-01-08)8 January 1997 (aged 29);31;3;Sparta Prague;Czech Republic;TRUE
+Czech Republic;12;MF;Lukáš Červ;(2001-04-10)10 April 2001 (aged 25);17;2;Viktoria Plzeň;Czech Republic;TRUE
+Czech Republic;13;FW;Mojmír Chytil;(1999-04-29)29 April 1999 (aged 27);22;6;Slavia Prague;Czech Republic;TRUE
+Czech Republic;14;DF;David Jurásek;(2000-08-07)7 August 2000 (aged 25);18;1;Slavia Prague;Czech Republic;TRUE
+Czech Republic;15;FW;Pavel Šulc;(2000-12-29)29 December 2000 (aged 25);21;5;Lyon;France;FALSE
+Czech Republic;16;GK;Jindřich Staněk;(1996-04-27)27 April 1996 (aged 30);14;0;Slavia Prague;Czech Republic;TRUE
+Czech Republic;17;MF;Lukáš Provod;(1996-10-23)23 October 1996 (aged 29);38;3;Slavia Prague;Czech Republic;TRUE
+Czech Republic;18;MF;Michal Sadílek;(1999-05-31)31 May 1999 (aged 27);35;1;Slavia Prague;Czech Republic;TRUE
+Czech Republic;19;FW;Tomáš Chorý;(1995-01-26)26 January 1995 (aged 31);22;7;Slavia Prague;Czech Republic;TRUE
+Czech Republic;20;DF;Jaroslav Zelený;(1992-08-20)20 August 1992 (aged 33);23;0;Sparta Prague;Czech Republic;TRUE
+Czech Republic;21;DF;David Douděra;(1998-05-31)31 May 1998 (aged 28);17;2;Slavia Prague;Czech Republic;TRUE
+Czech Republic;22;MF;Tomáš Souček;(1995-02-27)27 February 1995 (aged 31);90;17;West Ham United;England;FALSE
+Czech Republic;23;GK;Lukáš Horníček;(2002-07-13)13 July 2002 (aged 23);1;0;Braga;Portugal;FALSE
+Czech Republic;24;MF;Alexandr Sojka;(2003-04-02)2 April 2003 (aged 23);2;0;Viktoria Plzeň;Czech Republic;TRUE
+Czech Republic;25;MF;Hugo Sochůrek;(2008-06-07)7 June 2008 (aged 18);1;0;Sparta Prague;Czech Republic;TRUE
+Czech Republic;26;FW;Denis Višinský;(2003-03-21)21 March 2003 (aged 23);2;1;Viktoria Plzeň;Czech Republic;TRUE
+Mexico;1;GK;Raúl Rangel;(2000-02-25)25 February 2000 (aged 26);14;0;Guadalajara;Mexico;TRUE
+Mexico;2;DF;Jorge Sánchez;(1997-12-10)10 December 1997 (aged 28);59;3;PAOK;Greece;FALSE
+Mexico;3;DF;César Montes;(1997-02-24)24 February 1997 (aged 29);67;4;Lokomotiv Moscow;Russia;FALSE
+Mexico;4;DF;Edson Álvarez (captain);(1997-10-24)24 October 1997 (aged 28);98;7;Fenerbahçe;Turkey;FALSE
+Mexico;5;DF;Johan Vásquez;(1998-10-22)22 October 1998 (aged 27);46;3;Genoa;Italy;FALSE
+Mexico;6;MF;Érik Lira;(2000-05-08)8 May 2000 (aged 26);25;0;Cruz Azul;Mexico;TRUE
+Mexico;7;MF;Luis Romo;(1995-06-05)5 June 1995 (aged 31);63;4;Guadalajara;Mexico;TRUE
+Mexico;8;MF;Álvaro Fidalgo;(1997-04-09)9 April 1997 (aged 29);4;0;Real Betis;Spain;FALSE
+Mexico;9;FW;Raúl Jiménez;(1991-05-05)5 May 1991 (aged 35);124;44;Fulham;England;FALSE
+Mexico;10;FW;Alexis Vega;(1997-11-25)25 November 1997 (aged 28);52;7;Toluca;Mexico;TRUE
+Mexico;11;FW;Santiago Giménez;(2001-04-18)18 April 2001 (aged 25);47;6;Milan;Italy;FALSE
+Mexico;12;GK;Carlos Acevedo;(1996-04-19)19 April 1996 (aged 30);7;0;Santos Laguna;Mexico;TRUE
+Mexico;13;GK;Guillermo Ochoa;(1985-07-13)13 July 1985 (aged 40);152;0;AEL Limassol;Cyprus;FALSE
+Mexico;14;FW;Armando González;(2003-04-20)20 April 2003 (aged 23);7;1;Guadalajara;Mexico;TRUE
+Mexico;15;DF;Israel Reyes;(2000-05-23)23 May 2000 (aged 26);34;2;América;Mexico;TRUE
+Mexico;16;FW;Julián Quiñones;(1997-03-24)24 March 1997 (aged 29);22;2;Al-Qadsiah;Saudi Arabia;FALSE
+Mexico;17;MF;Orbelín Pineda;(1996-03-24)24 March 1996 (aged 30);92;12;AEK Athens;Greece;FALSE
+Mexico;18;MF;Obed Vargas;(2005-08-05)5 August 2005 (aged 20);6;0;Atlético Madrid;Spain;FALSE
+Mexico;19;MF;Gilberto Mora;(2008-10-14)14 October 2008 (aged 17);8;0;Tijuana;Mexico;TRUE
+Mexico;20;DF;Mateo Chávez;(2004-05-12)12 May 2004 (aged 22);10;0;AZ;Netherlands;FALSE
+Mexico;21;FW;César Huerta;(2000-12-03)3 December 2000 (aged 25);26;3;Anderlecht;Belgium;FALSE
+Mexico;22;FW;Guillermo Martínez;(1995-03-15)15 March 1995 (aged 31);12;3;Pumas UNAM;Mexico;TRUE
+Mexico;23;DF;Jesús Gallardo;(1994-08-15)15 August 1994 (aged 31);121;3;Toluca;Mexico;TRUE
+Mexico;24;MF;Luis Chávez;(1996-01-15)15 January 1996 (aged 30);45;5;Dynamo Moscow;Russia;FALSE
+Mexico;25;FW;Roberto Alvarado;(1998-09-07)7 September 1998 (aged 27);67;5;Guadalajara;Mexico;TRUE
+Mexico;26;MF;Brian Gutiérrez;(2003-06-17)17 June 2003 (aged 22);7;2;Guadalajara;Mexico;TRUE
+South Africa;1;GK;Ronwen Williams (captain);(1992-01-21)21 January 1992 (aged 34);62;0;Mamelodi Sundowns;South Africa;TRUE
+South Africa;2;DF;Thabang Matuludi;(1999-01-14)14 January 1999 (aged 27);3;0;Polokwane City;South Africa;TRUE
+South Africa;3;DF;Khulumani Ndamane;(2004-02-05)5 February 2004 (aged 22);5;0;Mamelodi Sundowns;South Africa;TRUE
+South Africa;4;MF;Teboho Mokoena;(1997-01-24)24 January 1997 (aged 29);51;9;Mamelodi Sundowns;South Africa;TRUE
+South Africa;5;MF;Thalente Mbatha;(2000-03-06)6 March 2000 (aged 26);15;3;Orlando Pirates;South Africa;TRUE
+South Africa;6;DF;Aubrey Modiba;(1995-07-22)22 July 1995 (aged 30);44;3;Mamelodi Sundowns;South Africa;TRUE
+South Africa;7;FW;Oswin Appollis;(2001-08-25)25 August 2001 (aged 24);26;8;Orlando Pirates;South Africa;TRUE
+South Africa;8;FW;Tshepang Moremi;(2000-10-02)2 October 2000 (aged 25);10;1;Orlando Pirates;South Africa;TRUE
+South Africa;9;FW;Lyle Foster;(2000-09-03)3 September 2000 (aged 25);27;10;Burnley;England;FALSE
+South Africa;10;FW;Relebohile Mofokeng;(2004-10-23)23 October 2004 (aged 21);13;0;Orlando Pirates;South Africa;TRUE
+South Africa;11;MF;Themba Zwane;(1989-08-03)3 August 1989 (aged 36);54;12;Mamelodi Sundowns;South Africa;TRUE
+South Africa;12;FW;Thapelo Maseko;(2003-11-11)11 November 2003 (aged 22);10;1;AEL Limassol;Cyprus;FALSE
+South Africa;13;MF;Sphephelo Sithole;(1999-03-03)3 March 1999 (aged 27);28;1;Tondela;Portugal;FALSE
+South Africa;14;DF;Mbekezeli Mbokazi;(2005-09-19)19 September 2005 (aged 20);10;1;Chicago Fire FC;United States;FALSE
+South Africa;15;FW;Iqraam Rayners;(1995-12-19)19 December 1995 (aged 30);14;4;Mamelodi Sundowns;South Africa;TRUE
+South Africa;16;GK;Sipho Chaine;(1996-12-14)14 December 1996 (aged 29);4;0;Orlando Pirates;South Africa;TRUE
+South Africa;17;FW;Evidence Makgopa;(2000-06-05)5 June 2000 (aged 26);26;6;Orlando Pirates;South Africa;TRUE
+South Africa;18;DF;Samukele Kabini;(2004-03-15)15 March 2004 (aged 22);6;0;Molde;Norway;FALSE
+South Africa;19;DF;Nkosinathi Sibisi;(1995-09-22)22 September 1995 (aged 30);20;0;Orlando Pirates;South Africa;TRUE
+South Africa;20;DF;Khuliso Mudau;(1995-04-26)26 April 1995 (aged 31);32;1;Mamelodi Sundowns;South Africa;TRUE
+South Africa;21;DF;Ime Okon;(2004-02-20)20 February 2004 (aged 22);8;1;Hannover 96;Germany;FALSE
+South Africa;22;GK;Ricardo Goss;(1994-04-02)2 April 1994 (aged 32);5;0;Siwelele;South Africa;TRUE
+South Africa;23;MF;Jayden Adams;(2001-05-05)5 May 2001 (aged 25);5;0;Mamelodi Sundowns;South Africa;TRUE
+South Africa;24;DF;Olwethu Makhanya;(2004-04-30)30 April 2004 (aged 22);1;0;Philadelphia Union;United States;FALSE
+South Africa;25;FW;Kamogelo Sebelebele;(2002-07-21)21 July 2002 (aged 23);3;0;Orlando Pirates;South Africa;TRUE
+South Africa;26;DF;Bradley Cross;(2001-01-30)30 January 2001 (aged 25);1;0;Kaizer Chiefs;South Africa;TRUE
+South Korea;1;GK;Kim Seung-gyu;(1990-09-30)30 September 1990 (aged 35);87;0;FC Tokyo;Japan;FALSE
+South Korea;2;DF;Lee Han-beom;(2002-06-17)17 June 2002 (aged 23);8;0;Midtjylland;Denmark;FALSE
+South Korea;3;MF;Lee Gi-hyuk;(2000-07-07)7 July 2000 (aged 25);3;0;Gangwon FC;South Korea;TRUE
+South Korea;4;DF;Kim Min-jae;(1996-11-15)15 November 1996 (aged 29);79;4;Bayern Munich;Germany;FALSE
+South Korea;5;DF;Kim Tae-hyeon;(2000-09-17)17 September 2000 (aged 25);7;0;Kashima Antlers;Japan;FALSE
+South Korea;6;MF;Hwang In-beom;(1996-09-20)20 September 1996 (aged 29);73;6;Feyenoord;Netherlands;FALSE
+South Korea;7;FW;Son Heung-min (captain);(1992-07-08)8 July 1992 (aged 33);144;56;Los Angeles FC;United States;FALSE
+South Korea;8;MF;Paik Seung-ho;(1997-03-17)17 March 1997 (aged 29);27;3;Birmingham City;England;FALSE
+South Korea;9;FW;Cho Gue-sung;(1998-01-25)25 January 1998 (aged 28);44;12;Midtjylland;Denmark;FALSE
+South Korea;10;MF;Lee Jae-sung;(1992-08-10)10 August 1992 (aged 33);105;15;Mainz 05;Germany;FALSE
+South Korea;11;MF;Hwang Hee-chan;(1996-01-26)26 January 1996 (aged 30);79;17;Wolverhampton Wanderers;England;FALSE
+South Korea;12;GK;Song Bum-keun;(1997-10-15)15 October 1997 (aged 28);3;0;Jeonbuk Hyundai Motors;South Korea;TRUE
+South Korea;13;DF;Lee Tae-seok;(2002-07-28)28 July 2002 (aged 23);15;1;Austria Wien;Austria;FALSE
+South Korea;14;DF;Cho Wi-je;(2001-08-25)25 August 2001 (aged 24);1;0;Jeonbuk Hyundai Motors;South Korea;TRUE
+South Korea;15;DF;Kim Moon-hwan;(1995-08-01)1 August 1995 (aged 30);35;0;Daejeon Hana Citizen;South Korea;TRUE
+South Korea;16;DF;Park Jin-seob;(1995-10-23)23 October 1995 (aged 30);14;1;Zhejiang;China;FALSE
+South Korea;17;MF;Bae Jun-ho;(2003-08-21)21 August 2003 (aged 22);13;2;Stoke City;England;FALSE
+South Korea;18;FW;Oh Hyeon-gyu;(2001-04-12)12 April 2001 (aged 25);27;6;Beşiktaş;Turkey;FALSE
+South Korea;19;MF;Lee Kang-in;(2001-02-19)19 February 2001 (aged 25);47;11;Paris Saint-Germain;France;FALSE
+South Korea;20;MF;Yang Hyun-jun;(2002-05-25)25 May 2002 (aged 24);9;0;Celtic;Scotland;FALSE
+South Korea;21;GK;Jo Hyeon-woo;(1991-09-25)25 September 1991 (aged 34);48;0;Ulsan HD;South Korea;TRUE
+South Korea;22;DF;Seol Young-woo;(1998-12-05)5 December 1998 (aged 27);34;0;Red Star Belgrade;Serbia;FALSE
+South Korea;23;DF;Jens Castrop;(2003-07-29)29 July 2003 (aged 22);7;0;Borussia Mönchengladbach;Germany;FALSE
+South Korea;24;MF;Kim Jin-gyu;(1997-02-24)24 February 1997 (aged 29);22;3;Jeonbuk Hyundai Motors;South Korea;TRUE
+South Korea;25;MF;Eom Ji-sung;(2002-05-09)9 May 2002 (aged 24);9;2;Swansea City;Wales;FALSE
+South Korea;26;MF;Lee Dong-gyeong;(1997-09-20)20 September 1997 (aged 28);18;4;Ulsan HD;South Korea;TRUE
+Bosnia and Herzegovina;1;GK;Nikola Vasilj;(1995-12-02)2 December 1995 (aged 30);26;0;FC St. Pauli;Germany;FALSE
+Bosnia and Herzegovina;2;DF;Nihad Mujakić;(1998-04-15)15 April 1998 (aged 28);12;1;Gaziantep;Turkey;FALSE
+Bosnia and Herzegovina;3;DF;Dennis Hadžikadunić;(1998-07-09)9 July 1998 (aged 27);32;0;Sampdoria;Italy;FALSE
+Bosnia and Herzegovina;4;DF;Tarik Muharemović;(2003-02-28)28 February 2003 (aged 23);14;1;Sassuolo;Italy;FALSE
+Bosnia and Herzegovina;5;DF;Sead Kolašinac;(1993-06-20)20 June 1993 (aged 32);65;0;Atalanta;Italy;FALSE
+Bosnia and Herzegovina;6;MF;Benjamin Tahirović;(2003-03-03)3 March 2003 (aged 23);28;2;Brøndby;Denmark;FALSE
+Bosnia and Herzegovina;7;DF;Amar Dedić;(2002-08-18)18 August 2002 (aged 23);28;1;Benfica;Portugal;FALSE
+Bosnia and Herzegovina;8;MF;Armin Gigović;(2002-04-06)6 April 2002 (aged 24);20;1;Young Boys;Switzerland;FALSE
+Bosnia and Herzegovina;9;FW;Samed Baždar;(2004-01-31)31 January 2004 (aged 22);13;1;Jagiellonia Białystok;Poland;FALSE
+Bosnia and Herzegovina;10;FW;Ermedin Demirović;(1998-03-25)25 March 1998 (aged 28);40;4;VfB Stuttgart;Germany;FALSE
+Bosnia and Herzegovina;11;FW;Edin Džeko (captain);(1986-03-17)17 March 1986 (aged 40);148;73;Schalke 04;Germany;FALSE
+Bosnia and Herzegovina;12;GK;Mladen Jurkas;(2007-10-07)7 October 2007 (aged 18);0;0;Borac Banja Luka;Bosnia and Herzegovina;TRUE
+Bosnia and Herzegovina;13;MF;Ivan Bašić;(2002-04-30)30 April 2002 (aged 24);17;0;Astana;Kazakhstan;FALSE
+Bosnia and Herzegovina;14;MF;Ivan Šunjić;(1996-10-09)9 October 1996 (aged 29);11;0;Pafos;Cyprus;FALSE
+Bosnia and Herzegovina;15;MF;Amar Memić;(2001-01-20)20 January 2001 (aged 25);13;1;Viktoria Plzeň;Czech Republic;FALSE
+Bosnia and Herzegovina;16;MF;Amir Hadžiahmetović;(1997-03-08)8 March 1997 (aged 29);36;0;Hull City;England;FALSE
+Bosnia and Herzegovina;17;MF;Dženis Burnić;(1998-05-22)22 May 1998 (aged 28);20;0;Karlsruher SC;Germany;FALSE
+Bosnia and Herzegovina;18;DF;Nikola Katić;(1996-10-10)10 October 1996 (aged 29);17;2;Schalke 04;Germany;FALSE
+Bosnia and Herzegovina;19;FW;Kerim Alajbegović;(2007-09-21)21 September 2007 (aged 18);10;1;Red Bull Salzburg;Austria;FALSE
+Bosnia and Herzegovina;20;FW;Esmir Bajraktarević;(2005-03-10)10 March 2005 (aged 21);16;1;PSV Eindhoven;Netherlands;FALSE
+Bosnia and Herzegovina;21;DF;Stjepan Radeljić;(1997-09-05)5 September 1997 (aged 28);5;0;Rijeka;Croatia;FALSE
+Bosnia and Herzegovina;22;GK;Martin Zlomislić;(1998-08-16)16 August 1998 (aged 27);3;0;Rijeka;Croatia;FALSE
+Bosnia and Herzegovina;23;FW;Haris Tabaković;(1994-06-20)20 June 1994 (aged 31);10;4;Borussia Mönchengladbach;Germany;FALSE
+Bosnia and Herzegovina;24;DF;Arjan Malić;(2005-08-28)28 August 2005 (aged 20);8;0;Sturm Graz;Austria;FALSE
+Bosnia and Herzegovina;25;FW;Jovo Lukić;(1998-11-28)28 November 1998 (aged 27);3;0;Universitatea Cluj;Romania;FALSE
+Bosnia and Herzegovina;26;MF;Ermin Mahmić;(2005-03-14)14 March 2005 (aged 21);2;0;Slovan Liberec;Czech Republic;FALSE
+Canada;1;GK;Dayne St. Clair;(1997-05-09)9 May 1997 (aged 29);20;0;Inter Miami CF;United States;FALSE
+Canada;2;DF;Alistair Johnston;(1998-10-08)8 October 1998 (aged 27);58;1;Celtic;Scotland;FALSE
+Canada;3;DF;Alfie Jones;(1997-10-07)7 October 1997 (aged 28);2;0;Middlesbrough;England;FALSE
+Canada;4;DF;Luc de Fougerolles;(2005-10-12)12 October 2005 (aged 20);13;0;Dender EH;Belgium;FALSE
+Canada;5;DF;Joel Waterman;(1996-01-24)24 January 1996 (aged 30);17;0;Chicago Fire FC;United States;FALSE
+Canada;6;MF;Mathieu Choinière;(1999-02-07)7 February 1999 (aged 27);23;0;Los Angeles FC;United States;FALSE
+Canada;7;MF;Stephen Eustáquio;(1996-12-21)21 December 1996 (aged 29);56;4;Los Angeles FC;United States;FALSE
+Canada;8;MF;Ismaël Koné;(2002-06-16)16 June 2002 (aged 23);40;4;Sassuolo;Italy;FALSE
+Canada;9;FW;Cyle Larin;(1995-04-17)17 April 1995 (aged 31);90;30;Southampton;England;FALSE
+Canada;10;FW;Jonathan David;(2000-01-14)14 January 2000 (aged 26);77;39;Juventus;Italy;FALSE
+Canada;11;MF;Liam Millar;(1999-09-27)27 September 1999 (aged 26);41;1;Hull City;England;FALSE
+Canada;12;FW;Tani Oluwaseyi;(2000-05-15)15 May 2000 (aged 26);24;2;Villarreal;Spain;FALSE
+Canada;13;DF;Derek Cornelius;(1997-11-25)25 November 1997 (aged 28);44;1;Rangers;Scotland;FALSE
+Canada;14;MF;Jacob Shaffelburg;(1999-11-26)26 November 1999 (aged 26);31;6;Los Angeles FC;United States;FALSE
+Canada;15;DF;Moïse Bombito;(2000-03-30)30 March 2000 (aged 26);20;0;Nice;France;FALSE
+Canada;16;GK;Maxime Crépeau;(1994-05-11)11 May 1994 (aged 32);32;0;Orlando City SC;United States;FALSE
+Canada;17;FW;Tajon Buchanan;(1999-02-08)8 February 1999 (aged 27);60;8;Villarreal;Spain;FALSE
+Canada;18;GK;Owen Goodman;(2003-11-27)27 November 2003 (aged 22);0;0;Barnsley;England;FALSE
+Canada;19;DF;Alphonso Davies (captain);(2000-11-02)2 November 2000 (aged 25);58;15;Bayern Munich;Germany;FALSE
+Canada;20;FW;Ali Ahmed;(2000-10-10)10 October 2000 (aged 25);24;1;Norwich City;England;FALSE
+Canada;21;MF;Jonathan Osorio;(1992-06-12)12 June 1992 (aged 33);90;10;Toronto FC;Canada;TRUE
+Canada;22;DF;Richie Laryea;(1995-01-07)7 January 1995 (aged 31);75;1;Toronto FC;Canada;TRUE
+Canada;23;DF;Niko Sigur;(2003-09-09)9 September 2003 (aged 22);19;2;Hajduk Split;Croatia;FALSE
+Canada;24;FW;Promise David;(2001-07-03)3 July 2001 (aged 24);10;3;Union Saint-Gilloise;Belgium;FALSE
+Canada;25;MF;Nathan Saliba;(2004-02-07)7 February 2004 (aged 22);15;2;Anderlecht;Belgium;FALSE
+Canada;26;FW;Jayden Nelson;(2002-09-26)26 September 2002 (aged 23);14;3;Austin FC;United States;FALSE
+Qatar;1;GK;Mahmud Abunada;(2000-02-05)5 February 2000 (aged 26);6;0;Al-Rayyan;Qatar;TRUE
+Qatar;2;DF;Pedro Miguel;(1990-08-06)6 August 1990 (aged 35);105;3;Al-Sadd;Qatar;TRUE
+Qatar;3;DF;Lucas Mendes;(1990-07-03)3 July 1990 (aged 35);25;1;Al-Wakrah;Qatar;TRUE
+Qatar;4;DF;Issa Laye;(1997-12-22)22 December 1997 (aged 28);4;0;Al-Arabi;Qatar;TRUE
+Qatar;5;DF;Jassem Gaber;(2002-02-20)20 February 2002 (aged 24);32;1;Al-Rayyan;Qatar;TRUE
+Qatar;6;MF;Abdulaziz Hatem;(1990-01-01)1 January 1990 (aged 36);119;11;Al-Rayyan;Qatar;TRUE
+Qatar;7;FW;Ahmed Alaaeldin;(1993-01-31)31 January 1993 (aged 33);68;9;Al-Rayyan;Qatar;TRUE
+Qatar;8;FW;Edmilson Junior;(1994-08-19)19 August 1994 (aged 31);16;0;Al-Duhail;Qatar;TRUE
+Qatar;9;FW;Mohammed Muntari;(1993-12-20)20 December 1993 (aged 32);67;16;Al-Gharafa;Qatar;TRUE
+Qatar;10;FW;Hassan Al-Haydos (captain);(1990-12-11)11 December 1990 (aged 35);186;41;Al-Sadd;Qatar;TRUE
+Qatar;11;FW;Akram Afif;(1996-11-18)18 November 1996 (aged 29);125;39;Al-Sadd;Qatar;TRUE
+Qatar;12;MF;Karim Boudiaf;(1990-09-16)16 September 1990 (aged 35);118;5;Al-Duhail;Qatar;TRUE
+Qatar;13;DF;Ayoub Al-Oui;(2005-03-11)11 March 2005 (aged 21);6;0;Al-Gharafa;Qatar;TRUE
+Qatar;14;DF;Homam Ahmed;(1999-08-25)25 August 1999 (aged 26);68;3;Cultural Leonesa;Spain;FALSE
+Qatar;15;FW;Yusuf Abdurisag;(1999-08-06)6 August 1999 (aged 26);39;3;Al-Wakrah;Qatar;TRUE
+Qatar;16;DF;Boualem Khoukhi;(1990-07-09)9 July 1990 (aged 35);116;20;Al-Sadd;Qatar;TRUE
+Qatar;17;MF;Ahmed Al-Ganehi;(2000-09-22)22 September 2000 (aged 25);13;1;Al-Gharafa;Qatar;TRUE
+Qatar;18;DF;Sultan Al-Brake;(1996-04-07)7 April 1996 (aged 30);17;0;Al-Duhail;Qatar;TRUE
+Qatar;19;FW;Almoez Ali;(1996-08-19)19 August 1996 (aged 29);115;55;Al-Duhail;Qatar;TRUE
+Qatar;20;MF;Ahmed Fathy;(1993-01-25)25 January 1993 (aged 33);48;0;Al-Arabi;Qatar;TRUE
+Qatar;21;GK;Salah Zakaria;(1999-04-24)24 April 1999 (aged 27);8;0;Al-Duhail;Qatar;TRUE
+Qatar;22;GK;Meshaal Barsham;(1998-02-14)14 February 1998 (aged 28);52;0;Al-Sadd;Qatar;TRUE
+Qatar;23;MF;Assim Madibo;(1996-10-22)22 October 1996 (aged 29);51;0;Al-Wakrah;Qatar;TRUE
+Qatar;24;FW;Tahsin Jamshid;(2006-06-16)16 June 2006 (aged 19);3;0;Al-Duhail;Qatar;TRUE
+Qatar;25;DF;Al-Hashmi Al-Hussain;(2003-08-15)15 August 2003 (aged 22);8;0;Al-Arabi;Qatar;TRUE
+Qatar;26;FW;Mohamed Manai;(2002-10-25)25 October 2002 (aged 23);10;0;Al-Shamal;Qatar;TRUE
+Switzerland;1;GK;Gregor Kobel;(1997-12-06)6 December 1997 (aged 28);21;0;Borussia Dortmund;Germany;FALSE
+Switzerland;2;DF;Miro Muheim;(1998-03-24)24 March 1998 (aged 28);10;0;Hamburger SV;Germany;FALSE
+Switzerland;3;DF;Silvan Widmer;(1993-03-05)5 March 1993 (aged 33);60;5;Mainz 05;Germany;FALSE
+Switzerland;4;DF;Nico Elvedi;(1996-09-30)30 September 1996 (aged 29);67;3;Borussia Mönchengladbach;Germany;FALSE
+Switzerland;5;DF;Manuel Akanji;(1995-07-19)19 July 1995 (aged 30);81;4;Inter Milan;Italy;FALSE
+Switzerland;6;MF;Denis Zakaria;(1996-11-20)20 November 1996 (aged 29);65;3;Monaco;Monaco;FALSE
+Switzerland;7;FW;Breel Embolo;(1997-02-14)14 February 1997 (aged 29);86;24;Rennes;France;FALSE
+Switzerland;8;MF;Remo Freuler;(1992-04-15)15 April 1992 (aged 34);88;11;Bologna;Italy;FALSE
+Switzerland;9;MF;Johan Manzambi;(2005-10-14)14 October 2005 (aged 20);12;3;SC Freiburg;Germany;FALSE
+Switzerland;10;MF;Granit Xhaka (captain);(1992-09-27)27 September 1992 (aged 33);146;17;Sunderland;England;FALSE
+Switzerland;11;FW;Dan Ndoye;(2000-10-25)25 October 2000 (aged 25);31;8;Nottingham Forest;England;FALSE
+Switzerland;12;GK;Yvon Mvogo;(1994-06-06)6 June 1994 (aged 32);13;0;Lorient;France;FALSE
+Switzerland;13;DF;Ricardo Rodriguez;(1992-08-25)25 August 1992 (aged 33);138;9;Real Betis;Spain;FALSE
+Switzerland;14;MF;Ardon Jashari;(2002-07-30)30 July 2002 (aged 23);8;0;Milan;Italy;FALSE
+Switzerland;15;MF;Djibril Sow;(1997-02-06)6 February 1997 (aged 29);52;0;Sevilla;Spain;FALSE
+Switzerland;16;FW;Christian Fassnacht;(1993-11-11)11 November 1993 (aged 32);23;5;Young Boys;Switzerland;TRUE
+Switzerland;17;FW;Rubén Vargas;(1998-08-05)5 August 1998 (aged 27);61;11;Sevilla;Spain;FALSE
+Switzerland;18;DF;Eray Cömert;(1998-02-04)4 February 1998 (aged 28);22;0;Valencia;Spain;FALSE
+Switzerland;19;FW;Noah Okafor;(2000-05-24)24 May 2000 (aged 26);25;2;Leeds United;England;FALSE
+Switzerland;20;MF;Michel Aebischer;(1997-01-06)6 January 1997 (aged 29);40;2;Pisa;Italy;FALSE
+Switzerland;21;GK;Marvin Keller;(2002-07-03)3 July 2002 (aged 23);1;0;Young Boys;Switzerland;TRUE
+Switzerland;22;MF;Fabian Rieder;(2002-02-16)16 February 2002 (aged 24);28;1;FC Augsburg;Germany;FALSE
+Switzerland;23;FW;Zeki Amdouni;(2000-12-04)4 December 2000 (aged 25);29;11;Burnley;England;FALSE
+Switzerland;24;DF;Aurèle Amenda;(2003-07-31)31 July 2003 (aged 22);7;0;Eintracht Frankfurt;Germany;FALSE
+Switzerland;25;DF;Luca Jaquez;(2003-06-02)2 June 2003 (aged 23);3;0;VfB Stuttgart;Germany;FALSE
+Switzerland;26;FW;Cedric Itten;(1996-12-27)27 December 1996 (aged 29);15;5;Fortuna Düsseldorf;Germany;FALSE
+Brazil;1;GK;Alisson;(1992-10-02)2 October 1992 (aged 33);78;0;Liverpool;England;FALSE
+Brazil;2;MF;Éderson Silva;(1999-07-07)7 July 1999 (aged 26);3;0;Atalanta;Italy;FALSE
+Brazil;3;DF;Gabriel Magalhães;(1997-12-19)19 December 1997 (aged 28);17;1;Arsenal;England;FALSE
+Brazil;4;DF;Marquinhos (captain);(1994-05-14)14 May 1994 (aged 32);105;7;Paris Saint-Germain;France;FALSE
+Brazil;5;MF;Casemiro;(1992-02-23)23 February 1992 (aged 34);86;9;Manchester United;England;FALSE
+Brazil;6;DF;Alex Sandro;(1991-01-26)26 January 1991 (aged 35);45;2;Flamengo;Brazil;TRUE
+Brazil;7;FW;Vinícius Júnior;(2000-07-12)12 July 2000 (aged 25);49;9;Real Madrid;Spain;FALSE
+Brazil;8;MF;Bruno Guimarães;(1997-11-16)16 November 1997 (aged 28);43;3;Newcastle United;England;FALSE
+Brazil;9;FW;Matheus Cunha;(1999-05-27)27 May 1999 (aged 27);23;1;Manchester United;England;FALSE
+Brazil;10;FW;Neymar;(1992-02-05)5 February 1992 (aged 34);128;79;Santos;Brazil;TRUE
+Brazil;11;FW;Raphinha;(1996-12-14)14 December 1996 (aged 29);39;11;Barcelona;Spain;FALSE
+Brazil;12;GK;Weverton;(1987-12-13)13 December 1987 (aged 38);11;0;Grêmio;Brazil;TRUE
+Brazil;13;DF;Danilo Luiz;(1991-07-15)15 July 1991 (aged 34);70;1;Flamengo;Brazil;TRUE
+Brazil;14;DF;Bremer;(1997-03-18)18 March 1997 (aged 29);8;1;Juventus;Italy;FALSE
+Brazil;15;DF;Léo Pereira;(1996-01-31)31 January 1996 (aged 30);4;0;Flamengo;Brazil;TRUE
+Brazil;16;DF;Douglas Santos;(1994-03-22)22 March 1994 (aged 32);7;0;Zenit Saint Petersburg;Russia;FALSE
+Brazil;17;MF;Fabinho;(1993-10-23)23 October 1993 (aged 32);33;0;Al-Ittihad;Saudi Arabia;FALSE
+Brazil;18;MF;Danilo Santos;(2001-04-29)29 April 2001 (aged 25);4;2;Botafogo;Brazil;TRUE
+Brazil;19;FW;Endrick;(2006-07-21)21 July 2006 (aged 19);17;4;Lyon;France;FALSE
+Brazil;20;MF;Lucas Paquetá;(1997-08-27)27 August 1997 (aged 28);63;13;Flamengo;Brazil;TRUE
+Brazil;21;FW;Luiz Henrique;(2001-01-02)2 January 2001 (aged 25);15;2;Zenit Saint Petersburg;Russia;FALSE
+Brazil;22;FW;Gabriel Martinelli;(2001-06-18)18 June 2001 (aged 24);23;4;Arsenal;England;FALSE
+Brazil;23;GK;Ederson Moraes;(1993-08-17)17 August 1993 (aged 32);32;0;Fenerbahçe;Turkey;FALSE
+Brazil;24;DF;Roger Ibañez;(1998-11-23)23 November 1998 (aged 27);7;0;Al-Ahli;United Arab Emirates;FALSE
+Brazil;25;FW;Igor Thiago;(2001-06-26)26 June 2001 (aged 24);4;2;Brentford;England;FALSE
+Brazil;26;FW;Rayan;(2006-08-03)3 August 2006 (aged 19);2;1;Bournemouth;England;FALSE
+Haiti;1;GK;Johny Placide (captain);(1988-01-29)29 January 1988 (aged 38);82;0;Bastia;France;FALSE
+Haiti;2;DF;Carlens Arcus;(1996-06-28)28 June 1996 (aged 29);56;1;Angers;France;FALSE
+Haiti;3;DF;Keeto Thermoncy;(2006-03-29)29 March 2006 (aged 20);1;0;Young Boys;Switzerland;FALSE
+Haiti;4;DF;Ricardo Adé;(1990-05-21)21 May 1990 (aged 36);59;2;LDU Quito;Ecuador;FALSE
+Haiti;5;DF;Hannes Delcroix;(1999-02-28)28 February 1999 (aged 27);7;0;Lugano;Switzerland;FALSE
+Haiti;6;MF;Carl Sainté;(2002-08-09)9 August 2002 (aged 23);26;0;El Paso Locomotive FC;United States;FALSE
+Haiti;7;FW;Derrick Etienne Jr.;(1996-11-25)25 November 1996 (aged 29);51;8;Toronto FC;Canada;FALSE
+Haiti;8;DF;Martin Expérience;(1999-03-09)9 March 1999 (aged 27);21;0;Nancy;France;FALSE
+Haiti;9;FW;Duckens Nazon;(1994-04-07)7 April 1994 (aged 32);82;44;Esteghlal;Iran;FALSE
+Haiti;10;MF;Jean-Ricner Bellegarde;(1998-06-27)27 June 1998 (aged 27);10;0;Wolverhampton Wanderers;England;FALSE
+Haiti;11;FW;Louicius Deedson;(2001-02-11)11 February 2001 (aged 25);32;10;FC Dallas;United States;FALSE
+Haiti;12;GK;Alexandre Pierre;(2001-02-25)25 February 2001 (aged 25);16;0;Sochaux;France;FALSE
+Haiti;13;DF;Duke Lacroix;(1993-10-14)14 October 1993 (aged 32);16;3;Colorado Springs Switchbacks FC;United States;FALSE
+Haiti;14;DF;Garven Metusala;(1999-12-31)31 December 1999 (aged 26);16;0;Colorado Springs Switchbacks FC;United States;FALSE
+Haiti;15;FW;Ruben Providence;(2001-07-07)7 July 2001 (aged 24);15;3;Almere City;Netherlands;FALSE
+Haiti;16;FW;Lenny Joseph;(2000-10-12)12 October 2000 (aged 25);2;1;Ferencváros;Hungary;FALSE
+Haiti;17;MF;Danley Jean Jacques;(2000-05-20)20 May 2000 (aged 26);31;6;Philadelphia Union;United States;FALSE
+Haiti;18;FW;Wilson Isidor;(2000-08-27)27 August 2000 (aged 25);4;2;Sunderland;England;FALSE
+Haiti;19;FW;Yassin Fortuné;(1999-01-30)30 January 1999 (aged 27);4;0;Vizela;Portugal;FALSE
+Haiti;20;FW;Frantzdy Pierrot;(1995-03-29)29 March 1995 (aged 31);51;34;Çaykur Rizespor;Turkey;FALSE
+Haiti;21;FW;Josué Casimir;(2001-09-24)24 September 2001 (aged 24);7;0;Auxerre;France;FALSE
+Haiti;22;DF;Jean-Kévin Duverne;(1997-07-12)12 July 1997 (aged 28);17;1;Gent;Belgium;FALSE
+Haiti;23;GK;Josué Duverger;(2000-04-27)27 April 2000 (aged 26);7;0;Cosmos Koblenz;Germany;FALSE
+Haiti;24;DF;Wilguens Paugain;(2001-08-24)24 August 2001 (aged 24);8;0;Zulte Waregem;Belgium;FALSE
+Haiti;25;MF;Dominique Simon;(2000-07-29)29 July 2000 (aged 25);2;0;Tatran Prešov;Slovakia;FALSE
+Haiti;26;MF;Woodensky Pierre;(2004-12-30)30 December 2004 (aged 21);1;0;Violette;Haiti;TRUE
+Morocco;1;GK;Yassine Bounou;(1991-04-05)5 April 1991 (aged 35);90;0;Al-Hilal;Saudi Arabia;FALSE
+Morocco;2;DF;Achraf Hakimi (captain);(1998-11-04)4 November 1998 (aged 27);96;11;Paris Saint-Germain;France;FALSE
+Morocco;3;DF;Noussair Mazraoui;(1997-11-14)14 November 1997 (aged 28);45;2;Manchester United;England;FALSE
+Morocco;4;MF;Sofyan Amrabat;(1996-08-21)21 August 1996 (aged 29);75;0;Real Betis;Spain;FALSE
+Morocco;5;DF;Marwane Saâdane;(1992-01-17)17 January 1992 (aged 34);8;0;Al-Fateh;Saudi Arabia;FALSE
+Morocco;6;MF;Ayyoub Bouaddi;(2007-10-02)2 October 2007 (aged 18);3;0;Lille;France;FALSE
+Morocco;7;MF;Chemsdine Talbi;(2005-05-09)9 May 2005 (aged 21);5;0;Sunderland;England;FALSE
+Morocco;8;MF;Azzedine Ounahi;(2000-04-19)19 April 2000 (aged 26);49;9;Girona;Spain;FALSE
+Morocco;9;FW;Soufiane Rahimi;(1996-06-02)2 June 1996 (aged 30);37;12;Al Ain;United Arab Emirates;FALSE
+Morocco;10;FW;Brahim Díaz;(1999-08-03)3 August 1999 (aged 26);26;14;Real Madrid;Spain;FALSE
+Morocco;11;MF;Ismael Saibari;(2001-01-28)28 January 2001 (aged 25);30;9;PSV Eindhoven;Netherlands;FALSE
+Morocco;12;GK;Munir Mohamedi;(1989-05-10)10 May 1989 (aged 37);52;0;RS Berkane;Morocco;TRUE
+Morocco;13;DF;Zakaria El Ouahdi;(2001-12-31)31 December 2001 (aged 24);3;0;Genk;Belgium;FALSE
+Morocco;14;DF;Issa Diop;(1997-01-09)9 January 1997 (aged 29);4;0;Fulham;England;FALSE
+Morocco;15;MF;Samir El Mourabet;(2005-10-06)6 October 2005 (aged 20);4;0;Strasbourg;France;FALSE
+Morocco;16;MF;Gessime Yassine;(2005-11-22)22 November 2005 (aged 20);4;0;Strasbourg;France;FALSE
+Morocco;17;FW;Amine Sbaï;(2000-11-05)5 November 2000 (aged 25);2;0;Angers;France;FALSE
+Morocco;18;DF;Chadi Riad;(2003-06-17)17 June 2003 (aged 22);6;1;Crystal Palace;England;FALSE
+Morocco;19;DF;Youssef Belammari;(1998-09-20)20 September 1998 (aged 27);18;0;Al Ahly;Egypt;FALSE
+Morocco;20;FW;Ayoub El Kaabi;(1993-06-25)25 June 1993 (aged 32);71;35;Olympiacos;Greece;FALSE
+Morocco;21;FW;Ayoube Amaimouni;(2004-11-30)30 November 2004 (aged 21);2;0;Eintracht Frankfurt;Germany;FALSE
+Morocco;22;GK;Ahmed Reda Tagnaouti;(1996-04-05)5 April 1996 (aged 30);3;0;AS FAR;Morocco;TRUE
+Morocco;23;MF;Bilal El Khannouss;(2004-05-10)10 May 2004 (aged 22);37;3;VfB Stuttgart;Germany;FALSE
+Morocco;24;MF;Neil El Aynaoui;(2001-07-02)2 July 2001 (aged 24);16;2;Roma;Italy;FALSE
+Morocco;25;DF;Redouane Halhal;(2003-03-05)5 March 2003 (aged 23);3;0;Mechelen;Belgium;FALSE
+Morocco;26;DF;Anass Salah-Eddine;(2002-01-18)18 January 2002 (aged 24);9;0;PSV Eindhoven;Netherlands;FALSE
+Scotland;1;GK;Angus Gunn;(1996-01-22)22 January 1996 (aged 30);22;0;Nottingham Forest;England;FALSE
+Scotland;2;DF;Aaron Hickey;(2002-06-10)10 June 2002 (aged 24);21;0;Brentford;England;FALSE
+Scotland;3;DF;Andy Robertson (captain);(1994-03-11)11 March 1994 (aged 32);94;4;Liverpool;England;FALSE
+Scotland;4;MF;Scott McTominay;(1996-12-08)8 December 1996 (aged 29);70;15;Napoli;Italy;FALSE
+Scotland;5;DF;Grant Hanley;(1991-11-20)20 November 1991 (aged 34);68;2;Hibernian;Scotland;TRUE
+Scotland;6;DF;Kieran Tierney;(1997-06-05)5 June 1997 (aged 29);56;2;Celtic;Scotland;TRUE
+Scotland;7;MF;John McGinn;(1994-10-18)18 October 1994 (aged 31);86;20;Aston Villa;England;FALSE
+Scotland;8;MF;Tyler Fletcher;(2007-03-19)19 March 2007 (aged 19);2;0;Manchester United;England;FALSE
+Scotland;9;FW;Lyndon Dykes;(1995-10-07)7 October 1995 (aged 30);51;10;Charlton Athletic;England;FALSE
+Scotland;10;FW;Ché Adams;(1996-07-13)13 July 1996 (aged 29);47;13;Torino;Italy;FALSE
+Scotland;11;MF;Ryan Christie;(1995-02-22)22 February 1995 (aged 31);68;10;Bournemouth;England;FALSE
+Scotland;12;GK;Liam Kelly;(1996-01-23)23 January 1996 (aged 30);3;0;Rangers;Scotland;TRUE
+Scotland;13;DF;Jack Hendry;(1995-05-07)7 May 1995 (aged 31);38;3;Al-Ettifaq;Saudi Arabia;FALSE
+Scotland;14;FW;Ross Stewart;(1996-07-11)11 July 1996 (aged 29);3;0;Southampton;England;FALSE
+Scotland;15;DF;John Souttar;(1996-09-25)25 September 1996 (aged 29);24;2;Rangers;Scotland;TRUE
+Scotland;16;DF;Dominic Hyam;(1995-12-20)20 December 1995 (aged 30);4;0;Wrexham;Wales;FALSE
+Scotland;17;FW;Ben Gannon-Doak;(2005-11-11)11 November 2005 (aged 20);14;1;Bournemouth;England;FALSE
+Scotland;18;FW;George Hirst;(1999-02-15)15 February 1999 (aged 27);10;1;Ipswich Town;England;FALSE
+Scotland;19;MF;Lewis Ferguson;(1999-08-24)24 August 1999 (aged 26);24;1;Bologna;Italy;FALSE
+Scotland;20;FW;Lawrence Shankland;(1995-08-10)10 August 1995 (aged 30);20;7;Heart of Midlothian;Scotland;TRUE
+Scotland;21;GK;Craig Gordon;(1982-12-31)31 December 1982 (aged 43);84;0;Heart of Midlothian;Scotland;TRUE
+Scotland;22;DF;Nathan Patterson;(2001-10-16)16 October 2001 (aged 24);26;1;Everton;England;FALSE
+Scotland;23;MF;Kenny McLean;(1992-01-08)8 January 1992 (aged 34);58;3;Norwich City;England;FALSE
+Scotland;24;DF;Anthony Ralston;(1998-11-16)16 November 1998 (aged 27);27;1;Celtic;Scotland;TRUE
+Scotland;25;FW;Findlay Curtis;(2006-06-09)9 June 2006 (aged 20);3;1;Kilmarnock;Scotland;TRUE
+Scotland;26;DF;Scott McKenna;(1996-11-12)12 November 1996 (aged 29);50;1;Dinamo Zagreb;Croatia;FALSE
+Australia;1;GK;Mathew Ryan (captain);(1992-04-08)8 April 1992 (aged 34);104;0;Levante;Spain;FALSE
+Australia;2;DF;Miloš Degenek;(1994-04-28)28 April 1994 (aged 32);57;1;APOEL;Cyprus;FALSE
+Australia;3;DF;Alessandro Circati;(2003-10-10)10 October 2003 (aged 22);13;1;Parma;Italy;FALSE
+Australia;4;DF;Jacob Italiano;(2001-07-30)30 July 2001 (aged 24);5;0;Grazer AK;Austria;FALSE
+Australia;5;DF;Jordan Bos;(2002-10-29)29 October 2002 (aged 23);27;4;Feyenoord;Netherlands;FALSE
+Australia;6;DF;Jason Geria;(1993-05-10)10 May 1993 (aged 33);14;0;Albirex Niigata;Singapore;FALSE
+Australia;7;FW;Mathew Leckie;(1991-02-04)4 February 1991 (aged 35);80;14;Melbourne City;Australia;TRUE
+Australia;8;MF;Connor Metcalfe;(1999-11-05)5 November 1999 (aged 26);36;1;FC St. Pauli;Germany;FALSE
+Australia;9;FW;Mohamed Touré;(2004-03-26)26 March 2004 (aged 22);10;2;Norwich City;England;FALSE
+Australia;10;FW;Ajdin Hrustic;(1996-07-05)5 July 1996 (aged 29);37;4;Heracles Almelo;Netherlands;FALSE
+Australia;11;FW;Awer Mabil;(1995-09-15)15 September 1995 (aged 30);38;10;Castellón;Spain;FALSE
+Australia;12;GK;Paul Izzo;(1995-01-06)6 January 1995 (aged 31);4;0;Randers;Denmark;FALSE
+Australia;13;MF;Aiden O'Neill;(1998-07-04)4 July 1998 (aged 27);31;0;New York City FC;United States;FALSE
+Australia;14;MF;Cammy Devlin;(1998-06-07)7 June 1998 (aged 28);5;0;Heart of Midlothian;Scotland;FALSE
+Australia;15;DF;Kai Trewin;(2001-05-18)18 May 2001 (aged 25);6;0;New York City FC;United States;FALSE
+Australia;16;DF;Aziz Behich;(1990-12-16)16 December 1990 (aged 35);84;3;Melbourne City;Australia;TRUE
+Australia;17;FW;Nestory Irankunda;(2006-02-09)9 February 2006 (aged 20);15;5;Watford;England;FALSE
+Australia;18;GK;Patrick Beach;(2003-08-06)6 August 2003 (aged 22);2;0;Melbourne City;Australia;TRUE
+Australia;19;DF;Harry Souttar;(1998-10-22)22 October 1998 (aged 27);38;11;Leicester City;England;FALSE
+Australia;20;FW;Cristian Volpato;(2003-11-15)15 November 2003 (aged 22);1;0;Sassuolo;Italy;FALSE
+Australia;21;DF;Cameron Burgess;(1995-10-21)21 October 1995 (aged 30);27;0;Swansea City;Wales;FALSE
+Australia;22;MF;Jackson Irvine;(1993-03-07)7 March 1993 (aged 33);82;14;FC St. Pauli;Germany;FALSE
+Australia;23;FW;Nishan Velupillay;(2001-05-07)7 May 2001 (aged 25);7;3;Melbourne Victory;Australia;TRUE
+Australia;24;MF;Paul Okon-Engstler;(2005-01-24)24 January 2005 (aged 21);6;0;Sydney FC;Australia;TRUE
+Australia;25;DF;Lucas Herrington;(2007-09-05)5 September 2007 (aged 18);4;0;Colorado Rapids;United States;FALSE
+Australia;26;FW;Tete Yengi;(2000-11-28)28 November 2000 (aged 25);1;1;Machida Zelvia;Japan;FALSE
+Paraguay;1;GK;Gatito Fernández;(1988-03-29)29 March 1988 (aged 38);31;0;Cerro Porteño;Paraguay;TRUE
+Paraguay;2;DF;Gustavo Velázquez;(1991-04-17)17 April 1991 (aged 35);13;1;Cerro Porteño;Paraguay;TRUE
+Paraguay;3;DF;Omar Alderete;(1996-12-26)26 December 1996 (aged 29);36;3;Sunderland;England;FALSE
+Paraguay;4;DF;Juan José Cáceres;(2000-06-01)1 June 2000 (aged 26);17;0;Dynamo Moscow;Russia;FALSE
+Paraguay;5;DF;Fabián Balbuena;(1991-08-23)23 August 1991 (aged 34);48;2;Grêmio;Brazil;FALSE
+Paraguay;6;DF;Júnior Alonso;(1993-02-09)9 February 1993 (aged 33);71;3;Atlético Mineiro;Brazil;FALSE
+Paraguay;7;MF;Ramón Sosa;(1999-08-31)31 August 1999 (aged 26);29;1;Palmeiras;Brazil;FALSE
+Paraguay;8;MF;Diego Gómez;(2003-03-27)27 March 2003 (aged 23);24;3;Brighton & Hove Albion;England;FALSE
+Paraguay;9;FW;Antonio Sanabria;(1996-03-04)4 March 1996 (aged 30);48;7;Cremonese;Italy;FALSE
+Paraguay;10;MF;Miguel Almirón;(1994-02-10)10 February 1994 (aged 32);76;10;Atlanta United FC;United States;FALSE
+Paraguay;11;MF;Maurício;(2001-06-22)22 June 2001 (aged 24);3;0;Palmeiras;Brazil;FALSE
+Paraguay;12;GK;Orlando Gill;(2000-06-11)11 June 2000 (aged 26);6;0;San Lorenzo;Argentina;FALSE
+Paraguay;13;DF;José Canale;(1996-07-20)20 July 1996 (aged 29);2;0;Lanús;Argentina;FALSE
+Paraguay;14;MF;Andrés Cubas;(1996-05-11)11 May 1996 (aged 30);33;0;Vancouver Whitecaps FC;Canada;FALSE
+Paraguay;15;DF;Gustavo Gómez (captain);(1993-05-06)6 May 1993 (aged 33);89;4;Palmeiras;Brazil;FALSE
+Paraguay;16;MF;Damián Bobadilla;(2001-07-11)11 July 2001 (aged 24);19;1;São Paulo;Brazil;FALSE
+Paraguay;17;FW;Kaku;(1995-01-11)11 January 1995 (aged 31);33;6;Al Ain;United Arab Emirates;FALSE
+Paraguay;18;FW;Álex Arce;(1995-06-16)16 June 1995 (aged 30);15;1;Independiente Rivadavia;Argentina;FALSE
+Paraguay;19;FW;Julio Enciso;(2004-01-23)23 January 2004 (aged 22);32;4;Strasbourg;France;FALSE
+Paraguay;20;MF;Braian Ojeda;(2000-06-27)27 June 2000 (aged 25);17;0;Orlando City SC;United States;FALSE
+Paraguay;21;FW;Gabriel Ávalos;(1991-07-09)9 July 1991 (aged 34);23;2;Independiente;Argentina;FALSE
+Paraguay;22;GK;Gastón Olveira;(1993-04-21)21 April 1993 (aged 33);1;0;Olimpia;Paraguay;TRUE
+Paraguay;23;MF;Matías Galarza;(2002-02-11)11 February 2002 (aged 24);15;3;Atlanta United FC;United States;FALSE
+Paraguay;24;MF;Gustavo Caballero;(2001-09-21)21 September 2001 (aged 24);2;1;Portsmouth;England;FALSE
+Paraguay;25;FW;Isidro Pitta;(1999-08-14)14 August 1999 (aged 26);5;0;Red Bull Bragantino;Brazil;FALSE
+Paraguay;26;DF;Alexandro Maidana;(2005-07-26)26 July 2005 (aged 20);2;1;Talleres;Argentina;FALSE
+Turkey;1;GK;Mert Günok;(1989-03-01)1 March 1989 (aged 37);37;0;Fenerbahçe;Turkey;TRUE
+Turkey;2;DF;Zeki Çelik;(1997-02-17)17 February 1997 (aged 29);61;3;Roma;Italy;FALSE
+Turkey;3;DF;Merih Demiral;(1998-03-05)5 March 1998 (aged 28);62;6;Al-Ahli;United Arab Emirates;FALSE
+Turkey;4;DF;Çağlar Söyüncü;(1996-05-23)23 May 1996 (aged 30);60;2;Fenerbahçe;Turkey;TRUE
+Turkey;5;MF;Salih Özcan;(1998-01-11)11 January 1998 (aged 28);30;1;Borussia Dortmund;Germany;FALSE
+Turkey;6;MF;Orkun Kökçü;(2000-12-29)29 December 2000 (aged 25);50;4;Beşiktaş;Turkey;TRUE
+Turkey;7;FW;Kerem Aktürkoğlu;(1998-10-21)21 October 1998 (aged 27);52;15;Fenerbahçe;Turkey;TRUE
+Turkey;8;FW;Arda Güler;(2005-02-25)25 February 2005 (aged 21);29;6;Real Madrid;Spain;FALSE
+Turkey;9;FW;Deniz Gül;(2004-07-02)2 July 2004 (aged 21);8;2;Porto;Portugal;FALSE
+Turkey;10;MF;Hakan Çalhanoğlu (captain);(1994-02-08)8 February 1994 (aged 32);105;22;Inter Milan;Italy;FALSE
+Turkey;11;FW;Kenan Yıldız;(2005-05-04)4 May 2005 (aged 21);28;5;Juventus;Italy;FALSE
+Turkey;12;GK;Altay Bayındır;(1998-04-14)14 April 1998 (aged 28);12;0;Manchester United;England;FALSE
+Turkey;13;DF;Eren Elmalı;(2000-07-07)7 July 2000 (aged 25);23;0;Galatasaray;Turkey;TRUE
+Turkey;14;DF;Abdülkerim Bardakcı;(1994-09-07)7 September 1994 (aged 31);27;2;Galatasaray;Turkey;TRUE
+Turkey;15;DF;Ozan Kabak;(2000-03-25)25 March 2000 (aged 26);30;2;TSG Hoffenheim;Germany;FALSE
+Turkey;16;MF;İsmail Yüksek;(1999-01-26)26 January 1999 (aged 27);32;1;Fenerbahçe;Turkey;TRUE
+Turkey;17;FW;İrfan Can Kahveci;(1995-07-15)15 July 1995 (aged 30);47;6;Kasımpaşa;Turkey;TRUE
+Turkey;18;DF;Mert Müldür;(1999-04-03)3 April 1999 (aged 27);45;3;Fenerbahçe;Turkey;TRUE
+Turkey;19;FW;Yunus Akgün;(2000-07-07)7 July 2000 (aged 25);19;4;Galatasaray;Turkey;TRUE
+Turkey;20;DF;Ferdi Kadıoğlu;(1999-10-07)7 October 1999 (aged 26);30;2;Brighton & Hove Albion;England;FALSE
+Turkey;21;FW;Barış Alper Yılmaz;(2000-05-23)23 May 2000 (aged 26);35;4;Galatasaray;Turkey;TRUE
+Turkey;22;MF;Kaan Ayhan;(1994-11-10)10 November 1994 (aged 31);73;5;Galatasaray;Turkey;TRUE
+Turkey;23;GK;Uğurcan Çakır;(1996-04-05)5 April 1996 (aged 30);39;0;Galatasaray;Turkey;TRUE
+Turkey;24;FW;Oğuz Aydın;(2000-10-27)27 October 2000 (aged 25);11;0;Fenerbahçe;Turkey;TRUE
+Turkey;25;DF;Samet Akaydin;(1994-03-13)13 March 1994 (aged 32);19;1;Çaykur Rizespor;Turkey;TRUE
+Turkey;26;FW;Can Uzun;(2005-11-11)11 November 2005 (aged 20);6;1;Eintracht Frankfurt;Germany;FALSE
+United States;1;GK;Matt Turner;(1994-06-24)June 24, 1994 (aged 31);54;0;New England Revolution;United States;TRUE
+United States;2;DF;Sergiño Dest;(2000-11-03)November 3, 2000 (aged 25);39;3;PSV Eindhoven;Netherlands;FALSE
+United States;3;DF;Chris Richards;(2000-03-28)March 28, 2000 (aged 26);36;3;Crystal Palace;England;FALSE
+United States;4;MF;Tyler Adams;(1999-02-14)February 14, 1999 (aged 27);54;2;Bournemouth;England;FALSE
+United States;5;DF;Antonee Robinson;(1997-08-08)August 8, 1997 (aged 28);54;5;Fulham;England;FALSE
+United States;6;DF;Auston Trusty;(1998-08-12)August 12, 1998 (aged 27);8;0;Celtic;Scotland;FALSE
+United States;7;MF;Giovanni Reyna;(2002-11-13)November 13, 2002 (aged 23);38;9;Borussia Mönchengladbach;Germany;FALSE
+United States;8;MF;Weston McKennie;(1998-08-28)August 28, 1998 (aged 27);66;12;Juventus;Italy;FALSE
+United States;9;FW;Ricardo Pepi;(2003-01-09)January 9, 2003 (aged 23);37;13;PSV Eindhoven;Netherlands;FALSE
+United States;10;FW;Christian Pulisic;(1998-09-18)September 18, 1998 (aged 27);86;33;Milan;Italy;FALSE
+United States;11;FW;Brenden Aaronson;(2000-10-22)October 22, 2000 (aged 25);58;9;Leeds United;England;FALSE
+United States;12;DF;Miles Robinson;(1997-03-14)March 14, 1997 (aged 29);40;3;FC Cincinnati;United States;TRUE
+United States;13;DF;Tim Ream (captain);(1987-10-05)October 5, 1987 (aged 38);82;1;Charlotte FC;United States;TRUE
+United States;14;MF;Sebastian Berhalter;(2001-05-10)May 10, 2001 (aged 25);13;1;Vancouver Whitecaps FC;Canada;FALSE
+United States;15;MF;Cristian Roldan;(1995-06-03)June 3, 1995 (aged 31);47;0;Seattle Sounders FC;United States;TRUE
+United States;16;DF;Alex Freeman;(2004-08-09)August 9, 2004 (aged 21);17;2;Villarreal;Spain;FALSE
+United States;17;MF;Malik Tillman;(2002-05-28)May 28, 2002 (aged 24);30;3;Bayer Leverkusen;Germany;FALSE
+United States;18;DF;Max Arfsten;(2001-04-19)April 19, 2001 (aged 25);20;1;Columbus Crew;United States;TRUE
+United States;19;FW;Haji Wright;(1998-03-27)March 27, 1998 (aged 28);20;7;Coventry City;England;FALSE
+United States;20;FW;Folarin Balogun;(2001-07-03)July 3, 2001 (aged 24);27;9;Monaco;Monaco;FALSE
+United States;21;FW;Timothy Weah;(2000-02-22)February 22, 2000 (aged 26);51;7;Marseille;France;FALSE
+United States;22;DF;Mark McKenzie;(1999-02-25)February 25, 1999 (aged 27);29;0;Toulouse;France;FALSE
+United States;23;DF;Joe Scally;(2002-12-31)December 31, 2002 (aged 23);26;0;Borussia Mönchengladbach;Germany;FALSE
+United States;24;GK;Matt Freese;(1998-09-02)September 2, 1998 (aged 27);15;0;New York City FC;United States;TRUE
+United States;25;GK;Chris Brady;(2004-03-03)March 3, 2004 (aged 22);1;0;Chicago Fire FC;United States;TRUE
+United States;26;FW;Alejandro Zendejas;(1998-02-07)February 7, 1998 (aged 28);14;2;América;Mexico;FALSE
+Curaçao;1;GK;Eloy Room;(1989-02-06)6 February 1989 (aged 37);71;0;Miami FC;United States;FALSE
+Curaçao;2;DF;Shurandy Sambo;(2001-08-19)19 August 2001 (aged 24);8;0;Sparta Rotterdam;Netherlands;FALSE
+Curaçao;3;DF;Juriën Gaari;(1993-12-23)23 December 1993 (aged 32);60;1;Abha;Saudi Arabia;FALSE
+Curaçao;4;DF;Roshon van Eijma;(1998-06-09)9 June 1998 (aged 28);28;1;RKC Waalwijk;Netherlands;FALSE
+Curaçao;5;DF;Sherel Floranus;(1998-08-23)23 August 1998 (aged 27);28;0;PEC Zwolle;Netherlands;FALSE
+Curaçao;6;MF;Godfried Roemeratoe;(1999-08-19)19 August 1999 (aged 26);28;1;RKC Waalwijk;Netherlands;FALSE
+Curaçao;7;MF;Juninho Bacuna;(1997-08-07)7 August 1997 (aged 28);49;15;Volendam;Netherlands;FALSE
+Curaçao;8;MF;Livano Comenencia;(2004-02-03)3 February 2004 (aged 22);20;2;Zürich;Switzerland;FALSE
+Curaçao;9;FW;Jürgen Locadia;(1993-11-07)7 November 1993 (aged 32);13;1;Miami FC;United States;FALSE
+Curaçao;10;MF;Leandro Bacuna (captain);(1991-08-21)21 August 1991 (aged 34);72;16;Iğdır;Turkey;FALSE
+Curaçao;11;FW;Jeremy Antonisse;(2002-03-29)29 March 2002 (aged 24);27;4;Kifisia;Greece;FALSE
+Curaçao;12;FW;Sontje Hansen;(2002-05-18)18 May 2002 (aged 24);6;1;Middlesbrough;England;FALSE
+Curaçao;13;FW;Tyrese Noslin;(2002-09-11)11 September 2002 (aged 23);7;1;Telstar;Netherlands;FALSE
+Curaçao;14;FW;Kenji Gorré;(1994-09-29)29 September 1994 (aged 31);38;6;Maccabi Haifa;Israel;FALSE
+Curaçao;15;MF;Ar'jany Martha;(2003-09-04)4 September 2003 (aged 22);9;2;Rotherham United;England;FALSE
+Curaçao;16;FW;Jearl Margaritha;(2000-04-10)10 April 2000 (aged 26);22;5;Beveren;Belgium;FALSE
+Curaçao;17;FW;Brandley Kuwas;(1992-09-19)19 September 1992 (aged 33);35;2;Volendam;Netherlands;FALSE
+Curaçao;18;DF;Armando Obispo;(1999-03-05)5 March 1999 (aged 27);6;0;PSV Eindhoven;Netherlands;FALSE
+Curaçao;19;FW;Gervane Kastaneer;(1996-06-09)9 June 1996 (aged 30);29;9;Terengganu;Malaysia;FALSE
+Curaçao;20;DF;Joshua Brenet;(1994-03-20)20 March 1994 (aged 32);18;2;Kayserispor;Turkey;FALSE
+Curaçao;21;MF;Tahith Chong;(1999-12-04)4 December 1999 (aged 26);6;3;Sheffield United;England;FALSE
+Curaçao;22;MF;Kevin Felida;(1999-11-11)11 November 1999 (aged 26);19;1;Den Bosch;Netherlands;FALSE
+Curaçao;23;DF;Riechedly Bazoer;(1996-10-12)12 October 1996 (aged 29);5;0;Konyaspor;Turkey;FALSE
+Curaçao;24;DF;Deveron Fonville;(2003-05-16)16 May 2003 (aged 23);2;0;NEC;Netherlands;FALSE
+Curaçao;25;GK;Tyrick Bodak;(2002-05-15)15 May 2002 (aged 24);4;0;Telstar;Netherlands;FALSE
+Curaçao;26;GK;Trevor Doornbusch;(1999-07-06)6 July 1999 (aged 26);8;0;VVV-Venlo;Netherlands;FALSE
+Ecuador;1;GK;Hernán Galíndez;(1987-03-30)30 March 1987 (aged 39);35;0;Huracán;Argentina;FALSE
+Ecuador;2;DF;Félix Torres;(1997-01-11)11 January 1997 (aged 29);49;5;Internacional;Brazil;FALSE
+Ecuador;3;DF;Piero Hincapié;(2002-01-09)9 January 2002 (aged 24);52;3;Arsenal;England;FALSE
+Ecuador;4;DF;Joel Ordóñez;(2004-04-21)21 April 2004 (aged 22);17;0;Club Brugge;Belgium;FALSE
+Ecuador;5;MF;Jordy Alcívar;(1999-08-05)5 August 1999 (aged 26);11;1;Independiente del Valle;Brazil;FALSE
+Ecuador;6;DF;Willian Pacho;(2001-10-16)16 October 2001 (aged 24);34;2;Paris Saint-Germain;France;FALSE
+Ecuador;7;DF;Pervis Estupiñán;(1998-01-21)21 January 1998 (aged 28);54;5;Milan;Italy;FALSE
+Ecuador;8;MF;Anthony Valencia;(2003-07-21)21 July 2003 (aged 22);3;1;Antwerp;Belgium;FALSE
+Ecuador;9;FW;John Yeboah;(2000-06-23)23 June 2000 (aged 25);23;3;Venezia;Italy;FALSE
+Ecuador;10;MF;Kendry Páez;(2007-05-04)4 May 2007 (aged 19);26;2;River Plate;Argentina;FALSE
+Ecuador;11;FW;Kevin Rodríguez;(2000-03-04)4 March 2000 (aged 26);31;2;Union Saint-Gilloise;Belgium;FALSE
+Ecuador;12;GK;Moisés Ramírez;(2000-09-09)9 September 2000 (aged 25);7;0;Kifisia;Greece;FALSE
+Ecuador;13;FW;Enner Valencia (captain);(1989-11-04)4 November 1989 (aged 36);105;49;Pachuca;Mexico;FALSE
+Ecuador;14;MF;Alan Minda;(2003-05-14)14 May 2003 (aged 23);20;2;Atlético Mineiro;Brazil;FALSE
+Ecuador;15;MF;Pedro Vite;(2002-03-09)9 March 2002 (aged 24);17;1;Pumas UNAM;Mexico;FALSE
+Ecuador;16;FW;Jordy Caicedo;(1997-11-18)18 November 1997 (aged 28);20;4;Huracán;Argentina;FALSE
+Ecuador;17;DF;Ángelo Preciado;(1998-02-18)18 February 1998 (aged 28);55;0;Atlético Mineiro;Brazil;FALSE
+Ecuador;18;MF;Denil Castillo;(2004-03-24)24 March 2004 (aged 22);5;0;Midtjylland;Denmark;FALSE
+Ecuador;19;FW;Gonzalo Plata;(2000-11-01)1 November 2000 (aged 25);50;8;Flamengo;Brazil;FALSE
+Ecuador;20;FW;Nilson Angulo;(2003-06-19)19 June 2003 (aged 22);14;2;Sunderland;England;FALSE
+Ecuador;21;MF;Alan Franco;(1998-08-21)21 August 1998 (aged 27);58;1;Atlético Mineiro;Brazil;FALSE
+Ecuador;22;GK;Gonzalo Valle;(1996-02-28)28 February 1996 (aged 30);4;0;LDU Quito;Ecuador;TRUE
+Ecuador;23;MF;Moisés Caicedo;(2001-11-02)2 November 2001 (aged 24);61;3;Chelsea;England;FALSE
+Ecuador;24;FW;Jeremy Arévalo;(2005-03-19)19 March 2005 (aged 21);4;0;VfB Stuttgart;Germany;FALSE
+Ecuador;25;DF;Jackson Porozo;(2000-08-04)4 August 2000 (aged 25);10;1;Tijuana;Mexico;FALSE
+Ecuador;26;DF;Yaimar Medina;(2004-11-05)5 November 2004 (aged 21);6;0;Genk;Belgium;FALSE
+Germany;1;GK;Manuel Neuer;(1986-03-27)27 March 1986 (aged 40);124;0;Bayern Munich;Germany;TRUE
+Germany;2;DF;Antonio Rüdiger;(1993-03-03)3 March 1993 (aged 33);82;3;Real Madrid;Spain;FALSE
+Germany;3;DF;Waldemar Anton;(1996-07-20)20 July 1996 (aged 29);13;0;Borussia Dortmund;Germany;TRUE
+Germany;4;DF;Jonathan Tah;(1996-02-11)11 February 1996 (aged 30);47;1;Bayern Munich;Germany;TRUE
+Germany;5;MF;Aleksandar Pavlović;(2004-05-03)3 May 2004 (aged 22);11;1;Bayern Munich;Germany;TRUE
+Germany;6;DF;Joshua Kimmich (captain);(1995-02-08)8 February 1995 (aged 31);110;10;Bayern Munich;Germany;TRUE
+Germany;7;FW;Kai Havertz;(1999-06-11)11 June 1999 (aged 27);58;22;Arsenal;England;FALSE
+Germany;8;MF;Leon Goretzka;(1995-02-06)6 February 1995 (aged 31);70;15;Bayern Munich;Germany;TRUE
+Germany;9;MF;Jamie Leweling;(2001-02-26)26 February 2001 (aged 25);5;1;VfB Stuttgart;Germany;TRUE
+Germany;10;MF;Jamal Musiala;(2003-02-26)26 February 2003 (aged 23);42;9;Bayern Munich;Germany;TRUE
+Germany;11;FW;Nick Woltemade;(2002-02-14)14 February 2002 (aged 24);11;4;Newcastle United;England;FALSE
+Germany;12;GK;Oliver Baumann;(1990-06-02)2 June 1990 (aged 36);13;0;TSG Hoffenheim;Germany;TRUE
+Germany;13;MF;Pascal Groß;(1991-06-15)15 June 1991 (aged 34);18;1;Brighton & Hove Albion;England;FALSE
+Germany;14;FW;Maximilian Beier;(2002-10-17)17 October 2002 (aged 23);9;0;Borussia Dortmund;Germany;TRUE
+Germany;15;DF;Nico Schlotterbeck;(1999-12-01)1 December 1999 (aged 26);27;0;Borussia Dortmund;Germany;TRUE
+Germany;16;MF;Angelo Stiller;(2001-04-04)4 April 2001 (aged 25);8;0;VfB Stuttgart;Germany;TRUE
+Germany;17;MF;Florian Wirtz;(2003-05-03)3 May 2003 (aged 23);41;11;Liverpool;England;FALSE
+Germany;18;DF;Nathaniel Brown;(2003-06-16)16 June 2003 (aged 22);5;0;Eintracht Frankfurt;Germany;TRUE
+Germany;19;MF;Leroy Sané;(1996-01-11)11 January 1996 (aged 30);76;17;Galatasaray;Turkey;FALSE
+Germany;20;MF;Nadiem Amiri;(1996-10-27)27 October 1996 (aged 29);11;1;Mainz 05;Germany;TRUE
+Germany;21;GK;Alexander Nübel;(1996-09-30)30 September 1996 (aged 29);3;0;VfB Stuttgart;Germany;TRUE
+Germany;22;DF;David Raum;(1998-04-22)22 April 1998 (aged 28);37;1;RB Leipzig;Germany;TRUE
+Germany;23;MF;Felix Nmecha;(2000-10-10)10 October 2000 (aged 25);8;1;Borussia Dortmund;Germany;TRUE
+Germany;24;DF;Malick Thiaw;(2001-08-08)8 August 2001 (aged 24);5;0;Newcastle United;England;FALSE
+Germany;25;MF;Assan Ouédraogo;(2006-05-09)9 May 2006 (aged 20);1;1;RB Leipzig;Germany;TRUE
+Germany;26;FW;Deniz Undav;(1996-07-19)19 July 1996 (aged 29);9;6;VfB Stuttgart;Germany;TRUE
+Ivory Coast;1;GK;Yahia Fofana;(2000-08-21)21 August 2000 (aged 25);35;0;Çaykur Rizespor;Turkey;FALSE
+Ivory Coast;2;DF;Ousmane Diomande;(2003-12-04)4 December 2003 (aged 22);15;1;Sporting CP;Portugal;FALSE
+Ivory Coast;3;DF;Ghislain Konan;(1995-12-27)27 December 1995 (aged 30);54;0;Gil Vicente;Portugal;FALSE
+Ivory Coast;4;MF;Jean Michaël Seri;(1991-07-19)19 July 1991 (aged 34);65;4;Maribor;Slovenia;FALSE
+Ivory Coast;5;DF;Wilfried Singo;(2000-12-25)25 December 2000 (aged 25);34;1;Galatasaray;Turkey;FALSE
+Ivory Coast;6;MF;Seko Fofana;(1995-05-07)7 May 1995 (aged 31);33;7;Porto;Portugal;FALSE
+Ivory Coast;7;DF;Odilon Kossounou;(2001-01-04)4 January 2001 (aged 25);36;0;Atalanta;Italy;FALSE
+Ivory Coast;8;MF;Franck Kessié (captain);(1996-12-19)19 December 1996 (aged 29);102;15;Al-Ahli;United Arab Emirates;FALSE
+Ivory Coast;9;FW;Ange-Yoan Bonny;(2003-10-25)25 October 2003 (aged 22);1;0;Inter Milan;Italy;FALSE
+Ivory Coast;10;FW;Simon Adingra;(2002-01-01)1 January 2002 (aged 24);29;5;Monaco;Monaco;FALSE
+Ivory Coast;11;FW;Yan Diomande;(2006-11-14)14 November 2006 (aged 19);10;3;RB Leipzig;Germany;FALSE
+Ivory Coast;12;FW;Elye Wahi;(2003-01-02)2 January 2003 (aged 23);2;0;Nice;France;FALSE
+Ivory Coast;13;DF;Christopher Opéri;(1997-04-29)29 April 1997 (aged 29);12;0;İstanbul Başakşehir;Turkey;FALSE
+Ivory Coast;14;FW;Oumar Diakité;(2003-12-20)20 December 2003 (aged 22);30;6;Cercle Brugge;Belgium;FALSE
+Ivory Coast;15;FW;Amad Diallo;(2002-07-11)11 July 2002 (aged 23);19;6;Manchester United;England;FALSE
+Ivory Coast;16;GK;Mohamed Koné;(2002-03-07)7 March 2002 (aged 24);0;0;Charleroi;Belgium;FALSE
+Ivory Coast;17;DF;Guéla Doué;(2002-10-17)17 October 2002 (aged 23);20;3;Strasbourg;France;FALSE
+Ivory Coast;18;MF;Ibrahim Sangaré;(1997-12-02)2 December 1997 (aged 28);57;12;Nottingham Forest;England;FALSE
+Ivory Coast;19;FW;Nicolas Pépé;(1995-05-29)29 May 1995 (aged 31);56;12;Villarreal;Spain;FALSE
+Ivory Coast;20;DF;Emmanuel Agbadou;(1997-06-17)17 June 1997 (aged 28);20;2;Beşiktaş;Turkey;FALSE
+Ivory Coast;21;DF;Evan Ndicka;(1999-08-20)20 August 1999 (aged 26);28;0;Roma;Italy;FALSE
+Ivory Coast;22;FW;Evann Guessand;(2001-07-01)1 July 2001 (aged 24);21;4;Crystal Palace;England;FALSE
+Ivory Coast;23;GK;Alban Lafont;(1999-01-23)23 January 1999 (aged 27);4;0;Panathinaikos;Greece;FALSE
+Ivory Coast;24;FW;Bazoumana Touré;(2006-03-02)2 March 2006 (aged 20);6;2;TSG Hoffenheim;Germany;FALSE
+Ivory Coast;25;MF;Parfait Guiagon;(2001-02-22)22 February 2001 (aged 25);5;0;Charleroi;Belgium;FALSE
+Ivory Coast;26;MF;Christ Inao Oulaï;(2006-04-06)6 April 2006 (aged 20);9;0;Trabzonspor;Turkey;FALSE
+Japan;1;GK;Zion Suzuki;(2002-08-21)21 August 2002 (aged 23);24;0;Parma;Italy;FALSE
+Japan;2;DF;Yukinari Sugawara;(2000-06-28)28 June 2000 (aged 25);21;2;Werder Bremen;Germany;FALSE
+Japan;3;DF;Shōgo Taniguchi;(1991-07-15)15 July 1991 (aged 34);38;1;Sint-Truiden;Belgium;FALSE
+Japan;4;DF;Kō Itakura (captain);(1997-01-27)27 January 1997 (aged 29);40;2;Ajax;Netherlands;FALSE
+Japan;5;DF;Yūto Nagatomo;(1986-09-12)12 September 1986 (aged 39);145;4;FC Tokyo;Japan;TRUE
+Japan;6;FW;Shūto Machino;(1999-09-30)30 September 1999 (aged 26);14;5;Borussia Mönchengladbach;Germany;FALSE
+Japan;7;MF;Ao Tanaka;(1998-09-10)10 September 1998 (aged 27);38;8;Leeds United;England;FALSE
+Japan;8;MF;Takefusa Kubo;(2001-06-04)4 June 2001 (aged 25);49;7;Real Sociedad;Spain;FALSE
+Japan;9;FW;Keisuke Gotō;(2005-06-03)3 June 2005 (aged 21);4;0;Sint-Truiden;Belgium;FALSE
+Japan;10;MF;Ritsu Dōan;(1998-06-16)16 June 1998 (aged 27);65;11;Eintracht Frankfurt;Germany;FALSE
+Japan;11;MF;Daizen Maeda;(1997-10-20)20 October 1997 (aged 28);27;4;Celtic;Scotland;FALSE
+Japan;12;GK;Keisuke Ōsako;(1999-07-28)28 July 1999 (aged 26);11;0;Sanfrecce Hiroshima;Japan;TRUE
+Japan;13;MF;Keito Nakamura;(2000-07-28)28 July 2000 (aged 25);25;10;Reims;France;FALSE
+Japan;14;MF;Junya Itō;(1993-03-09)9 March 1993 (aged 33);69;15;Genk;Belgium;FALSE
+Japan;15;MF;Daichi Kamada;(1996-08-05)5 August 1996 (aged 29);49;12;Crystal Palace;England;FALSE
+Japan;16;DF;Tsuyoshi Watanabe;(1997-02-05)5 February 1997 (aged 29);11;0;Feyenoord;Netherlands;FALSE
+Japan;17;MF;Yuito Suzuki;(2001-10-25)25 October 2001 (aged 24);6;0;SC Freiburg;Germany;FALSE
+Japan;18;FW;Ayase Ueda;(1998-08-28)28 August 1998 (aged 27);39;16;Feyenoord;Netherlands;FALSE
+Japan;19;FW;Kōki Ogawa;(1997-08-08)8 August 1997 (aged 28);15;11;NEC;Netherlands;FALSE
+Japan;20;DF;Ayumu Seko;(2000-06-07)7 June 2000 (aged 26);14;0;Le Havre;France;FALSE
+Japan;21;DF;Hiroki Itō;(1999-05-12)12 May 1999 (aged 27);24;1;Bayern Munich;Germany;FALSE
+Japan;22;DF;Takehiro Tomiyasu;(1998-11-05)5 November 1998 (aged 27);43;1;Ajax;Netherlands;FALSE
+Japan;23;GK;Tomoki Hayakawa;(1999-03-03)3 March 1999 (aged 27);4;0;Kashima Antlers;Japan;TRUE
+Japan;24;MF;Kaishū Sano;(2000-12-30)30 December 2000 (aged 25);13;0;Mainz 05;Germany;FALSE
+Japan;25;DF;Junnosuke Suzuki;(2003-07-12)12 July 2003 (aged 22);6;0;Copenhagen;Denmark;FALSE
+Japan;26;FW;Kento Shiogai;(2005-03-26)26 March 2005 (aged 21);2;0;VfL Wolfsburg;Germany;FALSE
+Netherlands;1;GK;Bart Verbruggen;(2002-08-18)18 August 2002 (aged 23);29;0;Brighton & Hove Albion;England;FALSE
+Netherlands;2;DF;Lutsharel Geertruida;(2000-07-18)18 July 2000 (aged 25);21;0;Sunderland;England;FALSE
+Netherlands;3;MF;Marten de Roon;(1991-03-29)29 March 1991 (aged 35);43;1;Atalanta;Italy;FALSE
+Netherlands;4;DF;Virgil van Dijk (captain);(1991-07-08)8 July 1991 (aged 34);92;12;Liverpool;England;FALSE
+Netherlands;5;DF;Nathan Aké;(1995-02-18)18 February 1995 (aged 31);59;5;Manchester City;England;FALSE
+Netherlands;6;DF;Jan Paul van Hecke;(2000-06-08)8 June 2000 (aged 26);12;0;Brighton & Hove Albion;England;FALSE
+Netherlands;7;MF;Justin Kluivert;(1999-05-05)5 May 1999 (aged 27);12;0;Bournemouth;England;FALSE
+Netherlands;8;MF;Ryan Gravenberch;(2002-05-16)16 May 2002 (aged 24);27;1;Liverpool;England;FALSE
+Netherlands;9;FW;Wout Weghorst;(1992-08-07)7 August 1992 (aged 33);52;14;Ajax;Netherlands;TRUE
+Netherlands;10;FW;Memphis Depay;(1994-02-13)13 February 1994 (aged 32);109;55;Corinthians;Brazil;FALSE
+Netherlands;11;FW;Cody Gakpo;(1999-05-07)7 May 1999 (aged 27);50;21;Liverpool;England;FALSE
+Netherlands;12;DF;Mats Wieffer;(1999-11-16)16 November 1999 (aged 26);15;1;Brighton & Hove Albion;England;FALSE
+Netherlands;13;GK;Robin Roefs;(2003-01-17)17 January 2003 (aged 23);1;0;Sunderland;England;FALSE
+Netherlands;14;MF;Tijjani Reijnders;(1998-07-29)29 July 1998 (aged 27);32;7;Manchester City;England;FALSE
+Netherlands;15;DF;Micky van de Ven;(2001-04-19)19 April 2001 (aged 25);21;1;Tottenham Hotspur;England;FALSE
+Netherlands;16;MF;Guus Til;(1997-12-22)22 December 1997 (aged 28);7;1;PSV Eindhoven;Netherlands;TRUE
+Netherlands;17;FW;Noa Lang;(1999-06-17)17 June 1999 (aged 26);15;3;Galatasaray;Turkey;FALSE
+Netherlands;18;FW;Donyell Malen;(1999-01-19)19 January 1999 (aged 27);53;13;Roma;Italy;FALSE
+Netherlands;19;FW;Brian Brobbey;(2002-02-01)1 February 2002 (aged 24);12;1;Sunderland;England;FALSE
+Netherlands;20;MF;Teun Koopmeiners;(1998-02-28)28 February 1998 (aged 28);28;3;Juventus;Italy;FALSE
+Netherlands;21;MF;Frenkie de Jong;(1997-05-12)12 May 1997 (aged 29);66;2;Barcelona;Spain;FALSE
+Netherlands;22;DF;Denzel Dumfries;(1996-04-18)18 April 1996 (aged 30);72;11;Inter Milan;Italy;FALSE
+Netherlands;23;GK;Mark Flekken;(1993-06-13)13 June 1993 (aged 32);12;0;Bayer Leverkusen;Germany;FALSE
+Netherlands;24;FW;Crysencio Summerville;(2001-10-30)30 October 2001 (aged 24);2;0;West Ham United;England;FALSE
+Netherlands;25;DF;Jorrel Hato;(2006-03-07)7 March 2006 (aged 20);8;0;Chelsea;England;FALSE
+Netherlands;26;MF;Quinten Timber;(2001-06-17)17 June 2001 (aged 24);11;1;Marseille;France;FALSE
+Sweden;1;GK;Jacob Widell Zetterström;(1998-07-11)11 July 1998 (aged 27);3;0;Derby County;England;FALSE
+Sweden;2;DF;Gustaf Lagerbielke;(2000-04-10)10 April 2000 (aged 26);11;2;Braga;Portugal;FALSE
+Sweden;3;DF;Victor Lindelöf (captain);(1994-07-17)17 July 1994 (aged 31);76;3;Aston Villa;England;FALSE
+Sweden;4;DF;Isak Hien;(1999-01-13)13 January 1999 (aged 27);29;0;Atalanta;Italy;FALSE
+Sweden;5;DF;Gabriel Gudmundsson;(1999-04-29)29 April 1999 (aged 27);24;0;Leeds United;England;FALSE
+Sweden;6;DF;Herman Johansson;(1997-10-16)16 October 1997 (aged 28);3;0;FC Dallas;United States;FALSE
+Sweden;7;MF;Lucas Bergvall;(2006-02-02)2 February 2006 (aged 20);10;0;Tottenham Hotspur;England;FALSE
+Sweden;8;DF;Daniel Svensson;(2002-02-12)12 February 2002 (aged 24);13;0;Borussia Dortmund;Germany;FALSE
+Sweden;9;FW;Alexander Isak;(1999-09-21)21 September 1999 (aged 26);58;17;Liverpool;England;FALSE
+Sweden;10;MF;Benjamin Nygren;(2001-07-08)8 July 2001 (aged 24);11;3;Celtic;Scotland;FALSE
+Sweden;11;FW;Anthony Elanga;(2002-04-27)27 April 2002 (aged 24);30;6;Newcastle United;England;FALSE
+Sweden;12;GK;Viktor Johansson;(1998-09-14)14 September 1998 (aged 27);12;0;Stoke City;England;FALSE
+Sweden;13;MF;Ken Sema;(1993-09-30)30 September 1993 (aged 32);33;5;Pafos;Cyprus;FALSE
+Sweden;14;DF;Hjalmar Ekdal;(1998-10-21)21 October 1998 (aged 27);13;0;Burnley;England;FALSE
+Sweden;15;DF;Carl Starfelt;(1995-06-01)1 June 1995 (aged 31);18;0;Celta Vigo;Spain;FALSE
+Sweden;16;MF;Jesper Karlström;(1995-06-21)21 June 1995 (aged 30);25;0;Udinese;Italy;FALSE
+Sweden;17;FW;Viktor Gyökeres;(1998-06-04)4 June 1998 (aged 28);33;20;Arsenal;England;FALSE
+Sweden;18;MF;Yasin Ayari;(2003-10-06)6 October 2003 (aged 22);21;3;Brighton & Hove Albion;England;FALSE
+Sweden;19;MF;Mattias Svanberg;(1999-01-05)5 January 1999 (aged 27);41;2;VfL Wolfsburg;Germany;FALSE
+Sweden;20;DF;Eric Smith;(1997-01-08)8 January 1997 (aged 29);2;0;FC St. Pauli;Germany;FALSE
+Sweden;21;DF;Alexander Bernhardsson;(1998-09-08)8 September 1998 (aged 27);11;0;Holstein Kiel;Germany;FALSE
+Sweden;22;MF;Besfort Zeneli;(2002-11-21)21 November 2002 (aged 23);8;0;Union Saint-Gilloise;Belgium;FALSE
+Sweden;23;GK;Kristoffer Nordfeldt;(1989-06-23)23 June 1989 (aged 36);21;0;AIK;Sweden;TRUE
+Sweden;24;DF;Elliot Stroud;(2002-06-22)22 June 2002 (aged 23);1;0;Mjällby AIF;Sweden;TRUE
+Sweden;25;FW;Gustaf Nilsson;(1997-05-23)23 May 1997 (aged 29);10;4;Club Brugge;Belgium;FALSE
+Sweden;26;FW;Taha Ali;(1998-07-01)1 July 1998 (aged 27);2;0;Malmö FF;Sweden;TRUE
+Tunisia;1;GK;Mouhib Chamakh;(2001-08-25)25 August 2001 (aged 24);3;0;Club Africain;Tunisia;TRUE
+Tunisia;2;DF;Ali Abdi;(1993-12-20)20 December 1993 (aged 32);46;7;Nice;France;FALSE
+Tunisia;3;DF;Montassar Talbi;(1998-05-26)26 May 1998 (aged 28);64;4;Lorient;France;FALSE
+Tunisia;4;DF;Omar Rekik;(2001-12-20)20 December 2001 (aged 24);6;0;Maribor;Slovenia;FALSE
+Tunisia;5;DF;Adem Arous;(2004-07-17)17 July 2004 (aged 21);2;0;Kasımpaşa;Turkey;FALSE
+Tunisia;6;DF;Dylan Bronn;(1995-06-19)19 June 1995 (aged 30);52;2;Servette;Switzerland;FALSE
+Tunisia;7;FW;Elias Achouri;(1999-02-10)10 February 1999 (aged 27);30;4;Copenhagen;Denmark;FALSE
+Tunisia;8;FW;Elias Saad;(1999-12-27)27 December 1999 (aged 26);15;4;Hannover 96;Germany;FALSE
+Tunisia;9;FW;Hazem Mastouri;(1997-06-18)18 June 1997 (aged 28);19;4;Dynamo Makhachkala;Russia;FALSE
+Tunisia;10;MF;Hannibal Mejbri;(2003-01-21)21 January 2003 (aged 23);45;1;Burnley;England;FALSE
+Tunisia;11;MF;Ismaël Gharbi;(2004-04-10)10 April 2004 (aged 22);17;2;FC Augsburg;Germany;FALSE
+Tunisia;12;DF;Mortadha Ben Ouanes;(1994-07-02)2 July 1994 (aged 31);18;0;Kasımpaşa;Turkey;FALSE
+Tunisia;13;MF;Rani Khedira;(1994-01-27)27 January 1994 (aged 32);3;0;Union Berlin;Germany;FALSE
+Tunisia;14;MF;Khalil Ayari;(2005-02-02)2 February 2005 (aged 21);4;0;Paris Saint-Germain;France;FALSE
+Tunisia;15;MF;Hadj Mahmoud;(2000-04-24)24 April 2000 (aged 26);9;0;Lugano;Switzerland;FALSE
+Tunisia;16;GK;Aymen Dahmen;(1997-01-28)28 January 1997 (aged 29);37;0;CS Sfaxien;Tunisia;TRUE
+Tunisia;17;MF;Ellyes Skhiri (captain);(1995-05-10)10 May 1995 (aged 31);83;4;Eintracht Frankfurt;Germany;FALSE
+Tunisia;18;FW;Rayan Elloumi;(2007-09-17)17 September 2007 (aged 18);4;0;Vancouver Whitecaps FC;Canada;FALSE
+Tunisia;19;FW;Firas Chaouat;(1996-05-08)8 May 1996 (aged 30);30;6;Club Africain;Tunisia;TRUE
+Tunisia;20;DF;Yan Valery;(1999-02-22)22 February 1999 (aged 27);22;0;Young Boys;Switzerland;FALSE
+Tunisia;21;DF;Mohamed Amine Ben Hamida;(1995-12-15)15 December 1995 (aged 30);13;0;Espérance de Tunis;Tunisia;TRUE
+Tunisia;22;GK;Sabri Ben Hessen;(1996-06-13)13 June 1996 (aged 29);2;0;Étoile du Sahel;Tunisia;TRUE
+Tunisia;23;DF;Moutaz Neffati;(2004-09-04)4 September 2004 (aged 21);5;0;IFK Norrköping;Sweden;FALSE
+Tunisia;24;DF;Raed Chikhaoui;(2004-06-09)9 June 2004 (aged 22);0;0;US Monastir;Tunisia;TRUE
+Tunisia;25;MF;Anis Ben Slimane;(2001-03-16)16 March 2001 (aged 25);41;4;Norwich City;England;FALSE
+Tunisia;26;MF;Sebastian Tounekti;(2002-07-13)13 July 2002 (aged 23);12;1;Celtic;Scotland;FALSE
+Belgium;1;GK;Thibaut Courtois;(1992-05-11)11 May 1992 (aged 34);109;0;Real Madrid;Spain;FALSE
+Belgium;2;DF;Zeno Debast;(2003-10-24)24 October 2003 (aged 22);26;1;Sporting CP;Portugal;FALSE
+Belgium;3;DF;Arthur Theate;(2000-05-25)25 May 2000 (aged 26);33;1;Eintracht Frankfurt;Germany;FALSE
+Belgium;4;DF;Brandon Mechele;(1993-01-28)28 January 1993 (aged 33);9;1;Club Brugge;Belgium;TRUE
+Belgium;5;DF;Maxim De Cuyper;(2000-12-22)22 December 2000 (aged 25);19;4;Brighton & Hove Albion;England;FALSE
+Belgium;6;MF;Axel Witsel;(1989-01-12)12 January 1989 (aged 37);138;12;Girona;Spain;FALSE
+Belgium;7;MF;Kevin De Bruyne;(1991-06-28)28 June 1991 (aged 34);119;37;Napoli;Italy;FALSE
+Belgium;8;MF;Youri Tielemans (captain);(1997-05-07)7 May 1997 (aged 29);85;13;Aston Villa;England;FALSE
+Belgium;9;FW;Romelu Lukaku;(1993-05-13)13 May 1993 (aged 33);126;90;Napoli;Italy;FALSE
+Belgium;10;FW;Leandro Trossard;(1994-12-04)4 December 1994 (aged 31);51;12;Arsenal;England;FALSE
+Belgium;11;FW;Jérémy Doku;(2002-05-27)27 May 2002 (aged 24);43;7;Manchester City;England;FALSE
+Belgium;12;GK;Senne Lammens;(2002-07-07)7 July 2002 (aged 23);2;0;Manchester United;England;FALSE
+Belgium;13;GK;Mike Penders;(2005-07-31)31 July 2005 (aged 20);0;0;Strasbourg;France;FALSE
+Belgium;14;FW;Dodi Lukébakio;(1997-09-24)24 September 1997 (aged 28);30;6;Benfica;Portugal;FALSE
+Belgium;15;DF;Thomas Meunier;(1991-09-12)12 September 1991 (aged 34);80;10;Lille;France;FALSE
+Belgium;16;DF;Koni De Winter;(2002-06-12)12 June 2002 (aged 23);8;0;Milan;Italy;FALSE
+Belgium;17;FW;Charles De Ketelaere;(2001-03-10)10 March 2001 (aged 25);30;6;Atalanta;Italy;FALSE
+Belgium;18;DF;Joaquin Seys;(2005-03-28)28 March 2005 (aged 21);5;0;Club Brugge;Belgium;TRUE
+Belgium;19;MF;Diego Moreira;(2004-08-06)6 August 2004 (aged 21);3;0;Strasbourg;France;FALSE
+Belgium;20;MF;Hans Vanaken;(1992-08-24)24 August 1992 (aged 33);34;7;Club Brugge;Belgium;TRUE
+Belgium;21;DF;Timothy Castagne;(1995-12-05)5 December 1995 (aged 30);63;2;Fulham;England;FALSE
+Belgium;22;MF;Alexis Saelemaekers;(1999-06-27)27 June 1999 (aged 26);24;2;Milan;Italy;FALSE
+Belgium;23;MF;Nicolas Raskin;(2001-02-23)23 February 2001 (aged 25);13;2;Rangers;Scotland;FALSE
+Belgium;24;MF;Amadou Onana;(2001-08-16)16 August 2001 (aged 24);29;1;Aston Villa;England;FALSE
+Belgium;25;DF;Nathan Ngoy;(2003-06-10)10 June 2003 (aged 23);4;0;Lille;France;FALSE
+Belgium;26;FW;Matias Fernandez-Pardo;(2005-02-03)3 February 2005 (aged 21);2;0;Lille;France;FALSE
+Egypt;1;GK;Mohamed El Shenawy;(1988-12-18)18 December 1988 (aged 37);76;0;Al Ahly;Egypt;TRUE
+Egypt;2;DF;Yasser Ibrahim;(1993-02-10)10 February 1993 (aged 33);17;1;Al Ahly;Egypt;TRUE
+Egypt;3;DF;Mohamed Hany;(1996-02-02)2 February 1996 (aged 30);42;0;Al Ahly;Egypt;TRUE
+Egypt;4;DF;Hossam Abdelmaguid;(2001-04-30)30 April 2001 (aged 25);13;0;Zamalek;Egypt;TRUE
+Egypt;5;DF;Ramy Rabia;(1993-05-20)20 May 1993 (aged 33);44;5;Al Ain;United Arab Emirates;FALSE
+Egypt;6;DF;Mohamed Abdelmonem;(1999-02-01)1 February 1999 (aged 27);36;3;Nice;France;FALSE
+Egypt;7;FW;Trézéguet;(1994-10-01)1 October 1994 (aged 31);96;23;Al Ahly;Egypt;TRUE
+Egypt;8;MF;Emam Ashour;(1998-02-20)20 February 1998 (aged 28);29;0;Al Ahly;Egypt;TRUE
+Egypt;9;FW;Hamza Abdelkarim;(2008-01-01)1 January 2008 (aged 18);2;0;Barcelona B;Spain;FALSE
+Egypt;10;FW;Mohamed Salah (captain);(1992-06-15)15 June 1992 (aged 33);116;67;Liverpool;England;FALSE
+Egypt;11;MF;Mostafa Ziko;(1997-04-27)27 April 1997 (aged 29);2;2;Pyramids;Egypt;TRUE
+Egypt;12;FW;Haissem Hassan;(2002-02-08)8 February 2002 (aged 24);4;0;Oviedo;Spain;FALSE
+Egypt;13;DF;Ahmed Fatouh;(1998-03-22)22 March 1998 (aged 28);39;1;Zamalek;Egypt;TRUE
+Egypt;14;MF;Hamdy Fathy;(1994-09-29)29 September 1994 (aged 31);63;3;Al-Wakrah;Qatar;FALSE
+Egypt;15;DF;Karim Hafez;(1996-03-12)12 March 1996 (aged 30);9;0;Pyramids;Egypt;TRUE
+Egypt;16;GK;El Mahdy Soliman;(1987-06-08)8 June 1987 (aged 39);0;0;Zamalek;Egypt;TRUE
+Egypt;17;MF;Mohanad Lasheen;(1996-05-29)29 May 1996 (aged 30);23;0;Pyramids;Egypt;TRUE
+Egypt;18;MF;Nabil Emad;(1996-04-06)6 April 1996 (aged 30);12;0;Al-Najma;Saudi Arabia;FALSE
+Egypt;19;MF;Marwan Attia;(1998-08-01)1 August 1998 (aged 27);34;1;Al Ahly;Egypt;TRUE
+Egypt;20;FW;Ibrahim Adel;(2001-04-23)23 April 2001 (aged 25);24;3;Nordsjælland;Denmark;FALSE
+Egypt;21;MF;Mahmoud Saber;(2001-07-30)30 July 2001 (aged 24);15;1;ZED;Egypt;TRUE
+Egypt;22;FW;Omar Marmoush;(1999-02-07)7 February 1999 (aged 27);50;11;Manchester City;England;FALSE
+Egypt;23;GK;Mostafa Shobeir;(2000-05-15)15 May 2000 (aged 26);9;0;Al Ahly;Egypt;TRUE
+Egypt;24;DF;Tarek Alaa;(2002-01-05)5 January 2002 (aged 24);3;0;ZED;Egypt;TRUE
+Egypt;25;FW;Zizo;(1996-01-10)10 January 1996 (aged 30);63;5;Al Ahly;Egypt;TRUE
+Egypt;26;GK;Mohamed Alaa;(1999-01-01)1 January 1999 (aged 27);0;0;El Gouna;Egypt;TRUE
+Iran;1;GK;Alireza Beiranvand;(1992-09-21)21 September 1992 (aged 33);86;0;Tractor;Iran;TRUE
+Iran;2;DF;Saleh Hardani;(1998-12-26)26 December 1998 (aged 27);18;1;Esteghlal;Iran;TRUE
+Iran;3;DF;Ehsan Hajsafi (captain);(1990-02-25)25 February 1990 (aged 36);146;7;Sepahan;Iran;TRUE
+Iran;4;DF;Shojae Khalilzadeh;(1989-05-14)14 May 1989 (aged 37);58;2;Tractor;Iran;TRUE
+Iran;5;DF;Milad Mohammadi;(1993-09-29)29 September 1993 (aged 32);76;1;Persepolis;Iran;TRUE
+Iran;6;MF;Saeid Ezatolahi;(1996-10-01)1 October 1996 (aged 29);83;2;Shabab Al Ahli;United Arab Emirates;FALSE
+Iran;7;MF;Alireza Jahanbakhsh;(1993-08-11)11 August 1993 (aged 32);99;17;Dender EH;Belgium;FALSE
+Iran;8;MF;Mohammad Mohebi;(1998-12-20)20 December 1998 (aged 27);37;14;Rostov;Russia;FALSE
+Iran;9;FW;Mehdi Taremi;(1992-07-18)18 July 1992 (aged 33);105;60;Olympiacos;Greece;FALSE
+Iran;10;FW;Mehdi Ghayedi;(1998-12-05)5 December 1998 (aged 27);30;10;Al Nasr;United Arab Emirates;FALSE
+Iran;11;FW;Ali Alipour;(1995-11-11)11 November 1995 (aged 30);14;1;Persepolis;Iran;TRUE
+Iran;12;GK;Payam Niazmand;(1995-04-06)6 April 1995 (aged 31);15;0;Persepolis;Iran;TRUE
+Iran;13;DF;Hossein Kanaanizadegan;(1994-03-23)23 March 1994 (aged 32);65;6;Persepolis;Iran;TRUE
+Iran;14;MF;Saman Ghoddos;(1993-09-06)6 September 1993 (aged 32);68;3;Kalba;United Arab Emirates;FALSE
+Iran;15;MF;Rouzbeh Cheshmi;(1993-07-24)24 July 1993 (aged 32);40;3;Esteghlal;Iran;TRUE
+Iran;16;MF;Mahdi Torabi;(1994-09-10)10 September 1994 (aged 31);52;7;Tractor;Iran;TRUE
+Iran;17;DF;Arya Yousefi;(2002-04-22)22 April 2002 (aged 24);14;1;Sepahan;Iran;TRUE
+Iran;18;FW;Amirhossein Hosseinzadeh;(2000-10-30)30 October 2000 (aged 25);18;5;Tractor;Iran;TRUE
+Iran;19;DF;Ali Nemati;(1996-02-08)8 February 1996 (aged 30);18;0;Foolad;Iran;TRUE
+Iran;20;FW;Shahriyar Moghanlou;(1994-12-21)21 December 1994 (aged 31);21;2;Kalba;United Arab Emirates;FALSE
+Iran;21;MF;Mohammad Ghorbani;(2001-10-07)7 October 2001 (aged 24);16;0;Al Wahda;United Arab Emirates;FALSE
+Iran;22;GK;Hossein Hosseini;(1992-06-30)30 June 1992 (aged 33);13;0;Sepahan;Iran;TRUE
+Iran;23;DF;Ramin Rezaeian;(1990-03-21)21 March 1990 (aged 36);74;8;Foolad;Iran;TRUE
+Iran;24;FW;Dennis Eckert;(1997-01-09)9 January 1997 (aged 29);0;0;Standard Liège;Belgium;FALSE
+Iran;25;DF;Danial Eiri;(2003-10-26)26 October 2003 (aged 22);0;0;Malavan;Iran;TRUE
+Iran;26;MF;Amirmohammad Razzaghinia;(2006-04-11)11 April 2006 (aged 20);4;0;Esteghlal;Iran;TRUE
+New Zealand;1;GK;Max Crocombe;(1993-08-12)12 August 1993 (aged 32);24;0;Millwall;England;FALSE
+New Zealand;2;DF;Tim Payne;(1994-01-10)10 January 1994 (aged 32);51;3;Wellington Phoenix;New Zealand;TRUE
+New Zealand;3;DF;Francis de Vries;(1994-11-28)28 November 1994 (aged 31);20;1;Auckland FC;New Zealand;TRUE
+New Zealand;4;DF;Tyler Bindon;(2005-01-27)27 January 2005 (aged 21);25;3;Sheffield United;England;FALSE
+New Zealand;5;DF;Michael Boxall;(1988-08-18)18 August 1988 (aged 37);63;1;Minnesota United FC;United States;FALSE
+New Zealand;6;MF;Joe Bell;(1999-04-27)27 April 1999 (aged 27);32;1;Viking;Norway;FALSE
+New Zealand;7;FW;Logan Rogerson;(1998-05-28)28 May 1998 (aged 28);18;2;Auckland FC;New Zealand;TRUE
+New Zealand;8;MF;Marko Stamenić;(2002-02-19)19 February 2002 (aged 24);39;3;Swansea City;Wales;FALSE
+New Zealand;9;FW;Chris Wood (captain);(1991-12-07)7 December 1991 (aged 34);90;45;Nottingham Forest;England;FALSE
+New Zealand;10;MF;Sarpreet Singh;(1999-02-20)20 February 1999 (aged 27);28;3;Wellington Phoenix;New Zealand;TRUE
+New Zealand;11;MF;Elijah Just;(2000-05-01)1 May 2000 (aged 26);44;9;Motherwell;Scotland;FALSE
+New Zealand;12;GK;Alex Paulsen;(2002-07-04)4 July 2002 (aged 23);8;0;Lechia Gdańsk;Poland;FALSE
+New Zealand;13;DF;Liberato Cacace;(2000-09-27)27 September 2000 (aged 25);37;1;Wrexham;Wales;FALSE
+New Zealand;14;MF;Alex Rufer;(1996-06-12)12 June 1996 (aged 29);26;0;Wellington Phoenix;New Zealand;TRUE
+New Zealand;15;DF;Nando Pijnaker;(1999-02-25)25 February 1999 (aged 27);25;0;Auckland FC;New Zealand;TRUE
+New Zealand;16;DF;Finn Surman;(2003-09-23)23 September 2003 (aged 22);19;2;Portland Timbers;United States;FALSE
+New Zealand;17;FW;Kosta Barbarouses;(1990-02-19)19 February 1990 (aged 36);76;10;Western Sydney Wanderers;Australia;FALSE
+New Zealand;18;FW;Ben Waine;(2001-06-11)11 June 2001 (aged 25);31;9;Port Vale;England;FALSE
+New Zealand;19;MF;Ben Old;(2002-08-13)13 August 2002 (aged 23);24;2;Saint-Étienne;France;FALSE
+New Zealand;20;MF;Callum McCowatt;(1999-04-30)30 April 1999 (aged 27);32;4;Silkeborg;Denmark;FALSE
+New Zealand;21;FW;Jesse Randall;(2002-08-19)19 August 2002 (aged 23);11;2;Auckland FC;New Zealand;TRUE
+New Zealand;22;GK;Michael Woud;(1999-01-16)16 January 1999 (aged 27);6;0;Auckland FC;New Zealand;TRUE
+New Zealand;23;MF;Ryan Thomas;(1994-12-20)20 December 1994 (aged 31);25;3;PEC Zwolle;Netherlands;FALSE
+New Zealand;24;DF;Callan Elliot;(1999-07-07)7 July 1999 (aged 26);11;0;Auckland FC;New Zealand;TRUE
+New Zealand;25;MF;Lachlan Bayliss;(2002-07-24)24 July 2002 (aged 23);4;0;Newcastle Jets;Australia;FALSE
+New Zealand;26;DF;Tommy Smith;(1990-03-31)31 March 1990 (aged 36);56;2;Braintree Town;England;FALSE
+Cape Verde;1;GK;Vozinha;(1986-06-03)3 June 1986 (aged 40);90;0;Chaves;Portugal;FALSE
+Cape Verde;2;DF;Stopira;(1988-05-20)20 May 1988 (aged 38);61;4;Torreense;Portugal;FALSE
+Cape Verde;3;DF;Diney;(1995-01-17)17 January 1995 (aged 31);32;2;Al Bataeh;United Arab Emirates;FALSE
+Cape Verde;4;DF;Pico;(1992-06-17)17 June 1992 (aged 33);45;0;Shamrock Rovers;Ireland;FALSE
+Cape Verde;5;DF;Logan Costa;(2001-04-01)1 April 2001 (aged 25);28;0;Villarreal;Spain;FALSE
+Cape Verde;6;MF;Kevin Pina;(1997-01-27)27 January 1997 (aged 29);31;3;Krasnodar;Russia;FALSE
+Cape Verde;7;MF;Jovane Cabral;(1998-06-14)14 June 1998 (aged 27);29;3;Estrela Amadora;Portugal;FALSE
+Cape Verde;8;MF;João Paulo;(1998-05-26)26 May 1998 (aged 28);41;1;FCSB;Romania;FALSE
+Cape Verde;9;FW;Gilson Benchimol;(2001-12-29)29 December 2001 (aged 24);21;6;Akron Tolyatti;Russia;FALSE
+Cape Verde;10;MF;Jamiro Monteiro;(1993-11-23)23 November 1993 (aged 32);55;5;PEC Zwolle;Netherlands;FALSE
+Cape Verde;11;MF;Garry Rodrigues;(1990-11-27)27 November 1990 (aged 35);61;10;Apollon Limassol;Cyprus;FALSE
+Cape Verde;12;GK;Márcio Rosa;(1997-02-23)23 February 1997 (aged 29);11;0;Montana;Bulgaria;FALSE
+Cape Verde;13;DF;Sidny Lopes Cabral;(2002-09-18)18 September 2002 (aged 23);11;3;Benfica;Portugal;FALSE
+Cape Verde;14;MF;Deroy Duarte;(1999-07-04)4 July 1999 (aged 26);33;0;Ludogorets Razgrad;Bulgaria;FALSE
+Cape Verde;15;MF;Laros Duarte;(1997-02-28)28 February 1997 (aged 29);20;1;Puskás Akadémia;Hungary;FALSE
+Cape Verde;16;MF;Yannick Semedo;(1995-12-29)29 December 1995 (aged 30);11;1;Farense;Portugal;FALSE
+Cape Verde;17;MF;Willy Semedo;(1994-04-27)27 April 1994 (aged 32);38;3;Omonia;Cyprus;FALSE
+Cape Verde;18;MF;Telmo Arcanjo;(2001-06-21)21 June 2001 (aged 24);16;1;Vitória de Guimarães;Portugal;FALSE
+Cape Verde;19;FW;Dailon Livramento;(2001-05-04)4 May 2001 (aged 25);22;7;Casa Pia;Portugal;FALSE
+Cape Verde;20;FW;Ryan Mendes (captain);(1990-01-08)8 January 1990 (aged 36);96;22;Iğdır;Turkey;FALSE
+Cape Verde;21;MF;Nuno da Costa;(1991-02-10)10 February 1991 (aged 35);9;2;İstanbul Başakşehir;Turkey;FALSE
+Cape Verde;22;DF;Steven Moreira;(1994-08-13)13 August 1994 (aged 31);20;0;Columbus Crew;United States;FALSE
+Cape Verde;23;GK;CJ dos Santos;(2000-08-24)24 August 2000 (aged 25);1;0;San Diego FC;United States;FALSE
+Cape Verde;24;DF;Wagner Pina;(2002-11-03)3 November 2002 (aged 23);14;0;Trabzonspor;Turkey;FALSE
+Cape Verde;25;DF;Kelvin Pires;(2000-06-05)5 June 2000 (aged 26);6;1;SJK;Finland;FALSE
+Cape Verde;26;MF;Hélio Varela;(2002-05-03)3 May 2002 (aged 24);21;0;Maccabi Tel Aviv;Israel;FALSE
+Saudi Arabia;1;GK;Nawaf Al-Aqidi;(2000-05-10)10 May 2000 (aged 26);24;0;Al-Nassr;Saudi Arabia;TRUE
+Saudi Arabia;2;DF;Ali Majrashi;(1999-10-02)2 October 1999 (aged 26);21;0;Al-Ahli;United Arab Emirates;FALSE
+Saudi Arabia;3;DF;Ali Lajami;(1996-04-24)24 April 1996 (aged 30);24;1;Al-Hilal;Saudi Arabia;TRUE
+Saudi Arabia;4;DF;Abdulelah Al-Amri;(1997-01-15)15 January 1997 (aged 29);44;1;Al-Nassr;Saudi Arabia;TRUE
+Saudi Arabia;5;DF;Hassan Al-Tambakti;(1999-02-09)9 February 1999 (aged 27);54;1;Al-Hilal;Saudi Arabia;TRUE
+Saudi Arabia;6;MF;Nasser Al-Dawsari;(1998-12-19)19 December 1998 (aged 27);47;1;Al-Hilal;Saudi Arabia;TRUE
+Saudi Arabia;7;MF;Musab Al-Juwayr;(2003-06-20)20 June 2003 (aged 22);37;6;Al-Qadsiah;Saudi Arabia;TRUE
+Saudi Arabia;8;FW;Ayman Yahya;(2001-05-14)14 May 2001 (aged 25);26;0;Al-Nassr;Saudi Arabia;TRUE
+Saudi Arabia;9;FW;Firas Al-Buraikan;(2000-05-14)14 May 2000 (aged 26);72;16;Al-Ahli;United Arab Emirates;FALSE
+Saudi Arabia;10;FW;Salem Al-Dawsari (captain);(1991-08-19)19 August 1991 (aged 34);111;27;Al-Hilal;Saudi Arabia;TRUE
+Saudi Arabia;11;FW;Saleh Al-Shehri;(1993-11-01)1 November 1993 (aged 32);59;17;Al-Ittihad;Saudi Arabia;TRUE
+Saudi Arabia;12;DF;Saud Abdulhamid;(1999-07-18)18 July 1999 (aged 26);55;1;Lens;France;FALSE
+Saudi Arabia;13;DF;Nawaf Boushal;(1999-09-16)16 September 1999 (aged 26);27;0;Al-Nassr;Saudi Arabia;TRUE
+Saudi Arabia;14;DF;Hassan Kadesh;(1992-09-26)26 September 1992 (aged 33);21;2;Al-Ittihad;Saudi Arabia;TRUE
+Saudi Arabia;15;MF;Abdullah Al-Khaibari;(1996-08-16)16 August 1996 (aged 29);42;0;Al-Nassr;Saudi Arabia;TRUE
+Saudi Arabia;16;MF;Ziyad Al-Johani;(2001-11-11)11 November 2001 (aged 24);12;0;Al-Ahli;United Arab Emirates;FALSE
+Saudi Arabia;17;FW;Khalid Al-Ghannam;(2000-11-08)8 November 2000 (aged 25);7;0;Al-Ettifaq;Saudi Arabia;TRUE
+Saudi Arabia;18;MF;Alaa Al-Hejji;(1995-12-03)3 December 1995 (aged 30);3;0;Neom;Saudi Arabia;TRUE
+Saudi Arabia;19;FW;Abdullah Al-Hamdan;(1999-09-13)13 September 1999 (aged 26);52;13;Al-Nassr;Saudi Arabia;TRUE
+Saudi Arabia;20;FW;Sultan Mandash;(1994-10-17)17 October 1994 (aged 31);7;2;Al-Hilal;Saudi Arabia;TRUE
+Saudi Arabia;21;GK;Mohammed Al-Owais;(1991-10-10)10 October 1991 (aged 34);65;0;Al-Ula;Saudi Arabia;TRUE
+Saudi Arabia;22;GK;Ahmed Al-Kassar;(1991-05-08)8 May 1991 (aged 35);9;0;Al-Qadsiah;Saudi Arabia;TRUE
+Saudi Arabia;23;MF;Mohamed Kanno;(1994-09-22)22 September 1994 (aged 31);79;8;Al-Hilal;Saudi Arabia;TRUE
+Saudi Arabia;24;DF;Moteb Al-Harbi;(2000-02-20)20 February 2000 (aged 26);13;0;Al-Hilal;Saudi Arabia;TRUE
+Saudi Arabia;25;DF;Jehad Thakri;(2001-07-21)21 July 2001 (aged 24);8;0;Al-Qadsiah;Saudi Arabia;TRUE
+Saudi Arabia;26;DF;Mohammed Abu Al-Shamat;(2002-08-11)11 August 2002 (aged 23);8;0;Al-Qadsiah;Saudi Arabia;TRUE
+Spain;1;GK;David Raya;(1995-09-15)15 September 1995 (aged 30);13;0;Arsenal;England;FALSE
+Spain;2;DF;Marc Pubill;(2003-06-20)20 June 2003 (aged 22);2;0;Atlético Madrid;Spain;TRUE
+Spain;3;DF;Álex Grimaldo;(1995-09-20)20 September 1995 (aged 30);14;0;Bayer Leverkusen;Germany;FALSE
+Spain;4;DF;Eric García;(2001-01-09)9 January 2001 (aged 25);21;0;Barcelona;Spain;TRUE
+Spain;5;DF;Marcos Llorente;(1995-01-30)30 January 1995 (aged 31);24;0;Atlético Madrid;Spain;TRUE
+Spain;6;MF;Mikel Merino;(1996-06-22)22 June 1996 (aged 29);43;10;Arsenal;England;FALSE
+Spain;7;FW;Ferran Torres;(2000-02-29)29 February 2000 (aged 26);57;24;Barcelona;Spain;TRUE
+Spain;8;MF;Fabián Ruiz;(1996-04-03)3 April 1996 (aged 30);42;6;Paris Saint-Germain;France;FALSE
+Spain;9;MF;Gavi;(2004-08-05)5 August 2004 (aged 21);30;5;Barcelona;Spain;TRUE
+Spain;10;FW;Dani Olmo;(1998-05-07)7 May 1998 (aged 28);50;12;Barcelona;Spain;TRUE
+Spain;11;FW;Yéremy Pino;(2002-10-20)20 October 2002 (aged 23);23;4;Crystal Palace;England;FALSE
+Spain;12;DF;Pedro Porro;(1999-09-13)13 September 1999 (aged 26);18;0;Tottenham Hotspur;England;FALSE
+Spain;13;GK;Joan Garcia;(2001-05-04)4 May 2001 (aged 25);2;0;Barcelona;Spain;TRUE
+Spain;14;DF;Aymeric Laporte;(1994-05-27)27 May 1994 (aged 32);46;2;Athletic Bilbao;Spain;TRUE
+Spain;15;MF;Álex Baena;(2001-07-20)20 July 2001 (aged 24);17;2;Atlético Madrid;Spain;TRUE
+Spain;16;MF;Rodri (captain);(1996-06-22)22 June 1996 (aged 29);62;4;Manchester City;England;FALSE
+Spain;17;FW;Nico Williams;(2002-07-12)12 July 2002 (aged 23);30;6;Athletic Bilbao;Spain;TRUE
+Spain;18;MF;Martín Zubimendi;(1999-02-02)2 February 1999 (aged 27);26;3;Arsenal;England;FALSE
+Spain;19;FW;Lamine Yamal;(2007-07-13)13 July 2007 (aged 18);25;6;Barcelona;Spain;TRUE
+Spain;20;MF;Pedri;(2002-11-25)25 November 2002 (aged 23);41;6;Barcelona;Spain;TRUE
+Spain;21;FW;Mikel Oyarzabal;(1997-04-21)21 April 1997 (aged 29);53;25;Real Sociedad;Spain;TRUE
+Spain;22;DF;Pau Cubarsí;(2007-01-22)22 January 2007 (aged 19);12;0;Barcelona;Spain;TRUE
+Spain;23;GK;Unai Simón;(1997-06-11)11 June 1997 (aged 29);58;0;Athletic Bilbao;Spain;TRUE
+Spain;24;DF;Marc Cucurella;(1998-07-22)22 July 1998 (aged 27);24;1;Chelsea;England;FALSE
+Spain;25;FW;Víctor Muñoz;(2003-07-13)13 July 2003 (aged 22);2;1;Osasuna;Spain;TRUE
+Spain;26;FW;Borja Iglesias;(1993-01-17)17 January 1993 (aged 33);8;0;Celta Vigo;Spain;TRUE
+Uruguay;1;GK;Sergio Rochet;(1993-03-23)23 March 1993 (aged 33);35;0;Internacional;Brazil;FALSE
+Uruguay;2;DF;José María Giménez (captain);(1995-01-20)20 January 1995 (aged 31);99;8;Atlético Madrid;Spain;FALSE
+Uruguay;3;DF;Sebastián Cáceres;(1999-08-18)18 August 1999 (aged 26);24;0;América;Mexico;FALSE
+Uruguay;4;DF;Ronald Araújo;(1999-03-07)7 March 1999 (aged 27);27;1;Barcelona;Spain;FALSE
+Uruguay;5;MF;Manuel Ugarte;(2001-04-11)11 April 2001 (aged 25);36;1;Manchester United;England;FALSE
+Uruguay;6;MF;Rodrigo Bentancur;(1997-06-25)25 June 1997 (aged 28);74;3;Tottenham Hotspur;England;FALSE
+Uruguay;7;MF;Nicolás de la Cruz;(1997-06-01)1 June 1997 (aged 29);34;5;Flamengo;Brazil;FALSE
+Uruguay;8;MF;Federico Valverde;(1998-07-22)22 July 1998 (aged 27);73;9;Real Madrid;Spain;FALSE
+Uruguay;9;FW;Darwin Núñez;(1999-06-24)24 June 1999 (aged 26);38;13;Al-Hilal;Saudi Arabia;FALSE
+Uruguay;10;MF;Giorgian de Arrascaeta;(1994-06-01)1 June 1994 (aged 32);60;13;Flamengo;Brazil;FALSE
+Uruguay;11;FW;Facundo Pellistri;(2001-12-20)20 December 2001 (aged 24);39;2;Panathinaikos;Greece;FALSE
+Uruguay;12;GK;Santiago Mele;(1997-09-06)6 September 1997 (aged 28);8;0;Monterrey;Mexico;FALSE
+Uruguay;13;DF;Guillermo Varela;(1993-03-24)24 March 1993 (aged 33);28;0;Flamengo;Brazil;FALSE
+Uruguay;14;MF;Agustín Canobbio;(1998-10-01)1 October 1998 (aged 27);15;1;Fluminense;Brazil;FALSE
+Uruguay;15;MF;Emiliano Martínez;(1999-08-17)17 August 1999 (aged 26);10;0;Palmeiras;Brazil;FALSE
+Uruguay;16;DF;Mathías Olivera;(1997-10-31)31 October 1997 (aged 28);35;2;Napoli;Italy;FALSE
+Uruguay;17;DF;Matías Viña;(1997-11-09)9 November 1997 (aged 28);43;1;River Plate;Argentina;FALSE
+Uruguay;18;FW;Brian Rodríguez;(2000-05-20)20 May 2000 (aged 26);32;4;América;Mexico;FALSE
+Uruguay;19;FW;Rodrigo Aguirre;(1994-10-01)1 October 1994 (aged 31);10;3;Tigres UANL;Mexico;FALSE
+Uruguay;20;MF;Maximiliano Araújo;(2000-02-15)15 February 2000 (aged 26);28;3;Sporting CP;Portugal;FALSE
+Uruguay;21;FW;Federico Viñas;(1998-06-30)30 June 1998 (aged 27);11;2;Oviedo;Spain;FALSE
+Uruguay;22;MF;Joaquín Piquerez;(1998-08-24)24 August 1998 (aged 27);19;0;Palmeiras;Brazil;FALSE
+Uruguay;23;GK;Fernando Muslera;(1986-06-16)16 June 1986 (aged 39);134;0;Estudiantes;Argentina;FALSE
+Uruguay;24;DF;Santiago Bueno;(1998-11-09)9 November 1998 (aged 27);8;0;Wolverhampton Wanderers;England;FALSE
+Uruguay;25;MF;Juan Manuel Sanabria;(2000-03-29)29 March 2000 (aged 26);5;1;Real Salt Lake;United States;FALSE
+Uruguay;26;MF;Rodrigo Zalazar;(1999-08-12)12 August 1999 (aged 26);8;2;Braga;Portugal;FALSE
+France;1;GK;Brice Samba;(1994-04-25)25 April 1994 (aged 32);4;0;Rennes;France;TRUE
+France;2;DF;Malo Gusto;(2003-05-19)19 May 2003 (aged 23);11;0;Chelsea;England;FALSE
+France;3;DF;Lucas Digne;(1993-07-20)20 July 1993 (aged 32);58;0;Aston Villa;England;FALSE
+France;4;DF;Dayot Upamecano;(1998-10-27)27 October 1998 (aged 27);38;2;Bayern Munich;Germany;FALSE
+France;5;DF;Jules Koundé;(1998-11-12)12 November 1998 (aged 27);48;0;Barcelona;Spain;FALSE
+France;6;MF;Manu Koné;(2001-05-17)17 May 2001 (aged 25);14;0;Roma;Italy;FALSE
+France;7;FW;Ousmane Dembélé;(1997-05-15)15 May 1997 (aged 29);59;7;Paris Saint-Germain;France;TRUE
+France;8;MF;Aurélien Tchouaméni;(2000-01-27)27 January 2000 (aged 26);46;3;Real Madrid;Spain;FALSE
+France;9;FW;Marcus Thuram;(1997-08-06)6 August 1997 (aged 28);34;3;Inter Milan;Italy;FALSE
+France;10;FW;Kylian Mbappé (captain);(1998-12-20)20 December 1998 (aged 27);98;56;Real Madrid;Spain;FALSE
+France;11;FW;Michael Olise;(2001-12-12)12 December 2001 (aged 24);17;7;Bayern Munich;Germany;FALSE
+France;12;FW;Bradley Barcola;(2002-09-02)2 September 2002 (aged 23);20;3;Paris Saint-Germain;France;TRUE
+France;13;MF;N'Golo Kanté;(1991-03-29)29 March 1991 (aged 35);69;2;Fenerbahçe;Turkey;FALSE
+France;14;MF;Adrien Rabiot;(1995-04-03)3 April 1995 (aged 31);59;7;Milan;Italy;FALSE
+France;15;DF;Ibrahima Konaté;(1999-05-25)25 May 1999 (aged 27);28;0;Liverpool;England;FALSE
+France;16;GK;Mike Maignan;(1995-07-03)3 July 1995 (aged 30);40;0;Milan;Italy;FALSE
+France;17;DF;William Saliba;(2001-03-24)24 March 2001 (aged 25);32;0;Arsenal;England;FALSE
+France;18;MF;Warren Zaïre-Emery;(2006-03-08)8 March 2006 (aged 20);11;1;Paris Saint-Germain;France;TRUE
+France;19;DF;Théo Hernandez;(1997-10-06)6 October 1997 (aged 28);44;2;Al-Hilal;Saudi Arabia;FALSE
+France;20;FW;Désiré Doué;(2005-06-03)3 June 2005 (aged 21);7;2;Paris Saint-Germain;France;TRUE
+France;21;DF;Lucas Hernandez;(1996-02-14)14 February 1996 (aged 30);42;0;Paris Saint-Germain;France;TRUE
+France;22;FW;Jean-Philippe Mateta;(1997-06-28)28 June 1997 (aged 28);4;2;Crystal Palace;England;FALSE
+France;23;GK;Robin Risser;(2004-12-02)2 December 2004 (aged 21);0;0;Lens;France;TRUE
+France;24;MF;Rayan Cherki;(2003-08-17)17 August 2003 (aged 22);7;2;Manchester City;England;FALSE
+France;25;MF;Maghnes Akliouche;(2002-02-25)25 February 2002 (aged 24);9;1;Monaco;Monaco;FALSE
+France;26;DF;Maxence Lacroix;(2000-04-06)6 April 2000 (aged 26);4;0;Crystal Palace;England;FALSE
+Iraq;1;GK;Fahad Talib;(1994-10-21)21 October 1994 (aged 31);21;0;Al-Talaba;Iraq;TRUE
+Iraq;2;DF;Rebin Sulaka;(1992-04-12)12 April 1992 (aged 34);56;1;Port;China;FALSE
+Iraq;3;DF;Hussein Ali;(2002-03-01)1 March 2002 (aged 24);27;1;Pogoń Szczecin;Poland;FALSE
+Iraq;4;DF;Zaid Tahseen;(2001-01-29)29 January 2001 (aged 25);28;1;Pakhtakor;Uzbekistan;FALSE
+Iraq;5;DF;Akam Hashim;(1998-08-16)16 August 1998 (aged 27);14;1;Al-Zawraa;Iraq;TRUE
+Iraq;6;DF;Manaf Younis;(1996-11-16)16 November 1996 (aged 29);34;1;Al-Shorta;Iraq;TRUE
+Iraq;7;MF;Youssef Amyn;(2003-08-21)21 August 2003 (aged 22);27;2;AEK Larnaca;Cyprus;FALSE
+Iraq;8;MF;Ibrahim Bayesh;(2000-05-01)1 May 2000 (aged 26);76;8;Al Dhafra;United Arab Emirates;FALSE
+Iraq;9;FW;Ali Al-Hamadi;(2002-03-01)1 March 2002 (aged 24);20;5;Luton Town;England;FALSE
+Iraq;10;FW;Mohanad Ali;(2000-06-20)20 June 2000 (aged 25);72;27;Dibba;United Arab Emirates;FALSE
+Iraq;11;FW;Ahmed Qasem;(2003-07-12)12 July 2003 (aged 22);3;0;Nashville SC;United States;FALSE
+Iraq;12;GK;Jalal Hassan (captain);(1991-05-18)18 May 1991 (aged 35);102;0;Al-Zawraa;Iraq;TRUE
+Iraq;13;FW;Ali Yousif;(1996-01-19)19 January 1996 (aged 30);7;1;Al-Talaba;Iraq;TRUE
+Iraq;14;MF;Zidane Iqbal;(2003-04-27)27 April 2003 (aged 23);25;2;Utrecht;Netherlands;FALSE
+Iraq;15;DF;Ahmed Maknzi;(2001-09-24)24 September 2001 (aged 24);7;0;Al-Karma;Iraq;TRUE
+Iraq;16;MF;Amir Al-Ammari;(1997-07-27)27 July 1997 (aged 28);51;3;Cracovia;Poland;FALSE
+Iraq;17;FW;Ali Jasim;(2004-01-20)20 January 2004 (aged 22);36;2;Al-Najma;Saudi Arabia;FALSE
+Iraq;18;FW;Aymen Hussein;(1996-03-22)22 March 1996 (aged 30);95;33;Al-Karma;Iraq;TRUE
+Iraq;19;MF;Kevin Yakob;(2000-10-10)10 October 2000 (aged 25);9;0;AGF;Denmark;FALSE
+Iraq;20;MF;Aimar Sher;(2002-12-20)20 December 2002 (aged 23);7;0;Sarpsborg 08;Denmark;FALSE
+Iraq;21;FW;Marko Farji;(2004-03-16)16 March 2004 (aged 22);12;0;Venezia;Italy;FALSE
+Iraq;22;GK;Ahmed Basil;(1996-08-19)19 August 1996 (aged 29);16;0;Al-Shorta;Iraq;TRUE
+Iraq;23;DF;Merchas Doski;(1999-12-07)7 December 1999 (aged 26);31;1;Viktoria Plzeň;Czech Republic;FALSE
+Iraq;24;MF;Zaid Ismail;(2002-01-03)3 January 2002 (aged 24);6;0;Al-Talaba;Iraq;TRUE
+Iraq;25;DF;Mustafa Saadoon;(2001-05-25)25 May 2001 (aged 25);17;0;Al-Shorta;Iraq;TRUE
+Iraq;26;DF;Frans Putros;(1993-07-14)14 July 1993 (aged 32);28;0;Persib;Indonesia;FALSE
+Norway;1;GK;Ørjan Nyland;(1990-09-10)10 September 1990 (aged 35);71;0;Sevilla;Spain;FALSE
+Norway;2;MF;Morten Thorsby;(1996-05-05)5 May 1996 (aged 30);31;0;Cremonese;Italy;FALSE
+Norway;3;DF;Kristoffer Ajer;(1998-04-17)17 April 1998 (aged 28);52;2;Brentford;England;FALSE
+Norway;4;DF;Leo Østigård;(1999-11-28)28 November 1999 (aged 26);38;1;Genoa;Italy;FALSE
+Norway;5;DF;David Møller Wolfe;(2002-04-23)23 April 2002 (aged 24);22;1;Wolverhampton Wanderers;England;FALSE
+Norway;6;MF;Patrick Berg;(1997-11-24)24 November 1997 (aged 28);43;0;Bodø/Glimt;Norway;TRUE
+Norway;7;FW;Alexander Sørloth;(1995-12-05)5 December 1995 (aged 30);72;26;Atlético Madrid;Spain;FALSE
+Norway;8;MF;Sander Berge;(1998-02-14)14 February 1998 (aged 28);66;1;Fulham;England;FALSE
+Norway;9;FW;Erling Haaland;(2000-07-21)21 July 2000 (aged 25);50;55;Manchester City;England;FALSE
+Norway;10;MF;Martin Ødegaard (captain);(1998-12-17)17 December 1998 (aged 27);68;5;Arsenal;England;FALSE
+Norway;11;FW;Jørgen Strand Larsen;(2000-02-06)6 February 2000 (aged 26);28;6;Crystal Palace;England;FALSE
+Norway;12;GK;Sander Tangvik;(2002-11-29)29 November 2002 (aged 23);0;0;Hamburger SV;Germany;FALSE
+Norway;13;GK;Egil Selvik;(1997-07-30)30 July 1997 (aged 28);7;0;Watford;England;FALSE
+Norway;14;MF;Fredrik Aursnes;(1995-12-10)10 December 1995 (aged 30);22;1;Benfica;Portugal;FALSE
+Norway;15;DF;Fredrik André Bjørkan;(1998-08-21)21 August 1998 (aged 27);21;1;Bodø/Glimt;Norway;TRUE
+Norway;16;DF;Marcus Holmgren Pedersen;(2000-07-16)16 July 2000 (aged 25);32;0;Torino;Italy;FALSE
+Norway;17;DF;Torbjørn Heggem;(1999-01-12)12 January 1999 (aged 27);15;0;Bologna;Italy;FALSE
+Norway;18;MF;Kristian Thorstvedt;(1999-03-13)13 March 1999 (aged 27);37;4;Sassuolo;Italy;FALSE
+Norway;19;MF;Thelo Aasgaard;(2002-05-02)2 May 2002 (aged 24);8;5;Rangers;Scotland;FALSE
+Norway;20;MF;Antonio Nusa;(2005-04-17)17 April 2005 (aged 21);24;8;RB Leipzig;Germany;FALSE
+Norway;21;MF;Andreas Schjelderup;(2004-06-01)1 June 2004 (aged 22);12;1;Benfica;Portugal;FALSE
+Norway;22;MF;Oscar Bobb;(2003-07-12)12 July 2003 (aged 22);20;2;Fulham;England;FALSE
+Norway;23;MF;Jens Petter Hauge;(1999-10-12)12 October 1999 (aged 26);15;1;Bodø/Glimt;Norway;TRUE
+Norway;24;DF;Sondre Langås;(2001-02-02)2 February 2001 (aged 25);3;0;Derby County;England;FALSE
+Norway;25;DF;Henrik Falchener;(2003-05-08)8 May 2003 (aged 23);1;0;Viking;Norway;TRUE
+Norway;26;DF;Julian Ryerson;(1997-11-17)17 November 1997 (aged 28);43;1;Borussia Dortmund;Germany;FALSE
+Senegal;1;GK;Yehvann Diouf;(1999-11-16)16 November 1999 (aged 26);2;0;Nice;France;FALSE
+Senegal;2;DF;Mamadou Sarr;(2005-08-29)29 August 2005 (aged 20);8;0;Chelsea;England;FALSE
+Senegal;3;DF;Kalidou Koulibaly (captain);(1991-06-20)20 June 1991 (aged 34);104;2;Al-Hilal;Saudi Arabia;FALSE
+Senegal;4;DF;Abdoulaye Seck;(1992-06-04)4 June 1992 (aged 34);25;4;Maccabi Haifa;Israel;FALSE
+Senegal;5;MF;Idrissa Gueye;(1989-09-26)26 September 1989 (aged 36);132;7;Everton;England;FALSE
+Senegal;6;MF;Pathé Ciss;(1994-03-16)16 March 1994 (aged 32);30;0;Rayo Vallecano;Spain;FALSE
+Senegal;7;FW;Assane Diao;(2005-09-07)7 September 2005 (aged 20);5;0;Como;Italy;FALSE
+Senegal;8;MF;Lamine Camara;(2004-01-01)1 January 2004 (aged 22);45;7;Monaco;Monaco;FALSE
+Senegal;9;FW;Bamba Dieng;(2000-03-23)23 March 2000 (aged 26);23;2;Lorient;France;FALSE
+Senegal;10;FW;Sadio Mané;(1992-04-10)10 April 1992 (aged 34);128;55;Al-Nassr;Saudi Arabia;FALSE
+Senegal;11;FW;Nicolas Jackson;(2001-06-20)20 June 2001 (aged 24);33;8;Bayern Munich;Germany;FALSE
+Senegal;12;FW;Cherif Ndiaye;(1996-01-23)23 January 1996 (aged 30);19;4;Samsunspor;Turkey;FALSE
+Senegal;13;FW;Iliman Ndiaye;(2000-03-06)6 March 2000 (aged 26);41;4;Everton;England;FALSE
+Senegal;14;DF;Ismail Jakobs;(1999-08-17)17 August 1999 (aged 26);31;0;Galatasaray;Turkey;FALSE
+Senegal;15;DF;Krépin Diatta;(1999-02-25)25 February 1999 (aged 27);62;2;Monaco;Monaco;FALSE
+Senegal;16;GK;Édouard Mendy;(1992-03-01)1 March 1992 (aged 34);58;0;Al-Ahli;United Arab Emirates;FALSE
+Senegal;17;MF;Pape Matar Sarr;(2002-09-14)14 September 2002 (aged 23);40;4;Tottenham Hotspur;England;FALSE
+Senegal;18;FW;Ismaïla Sarr;(1998-02-25)25 February 1998 (aged 28);84;19;Crystal Palace;England;FALSE
+Senegal;19;DF;Moussa Niakhaté;(1996-03-08)8 March 1996 (aged 30);32;0;Lyon;France;FALSE
+Senegal;20;FW;Ibrahim Mbaye;(2008-01-24)24 January 2008 (aged 18);11;3;Paris Saint-Germain;France;FALSE
+Senegal;21;MF;Habib Diarra;(2004-01-03)3 January 2004 (aged 22);21;4;Sunderland;England;FALSE
+Senegal;22;MF;Bara Sapoko Ndiaye;(2007-12-31)31 December 2007 (aged 18);1;0;Bayern Munich;Germany;FALSE
+Senegal;23;GK;Mory Diaw;(1993-06-22)22 June 1993 (aged 32);5;0;Le Havre;France;FALSE
+Senegal;24;DF;Antoine Mendy;(2004-05-27)27 May 2004 (aged 22);7;0;Nice;France;FALSE
+Senegal;25;DF;El Hadji Malick Diouf;(2004-12-29)29 December 2004 (aged 21);20;1;West Ham United;England;FALSE
+Senegal;26;MF;Pape Gueye;(1999-01-24)24 January 1999 (aged 27);42;5;Villarreal;Spain;FALSE
+Algeria;1;GK;Melvin Mastil;(2000-02-19)19 February 2000 (aged 26);2;0;Stade Nyonnais;Switzerland;FALSE
+Algeria;2;DF;Aïssa Mandi;(1991-10-22)22 October 1991 (aged 34);119;8;Lille;France;FALSE
+Algeria;3;DF;Achref Abada;(1999-06-15)15 June 1999 (aged 26);9;1;USM Alger;Algeria;TRUE
+Algeria;4;DF;Mohamed Amine Tougai;(2000-01-22)22 January 2000 (aged 26);30;2;Espérance de Tunis;Tunisia;FALSE
+Algeria;5;DF;Zineddine Belaïd;(1999-03-20)20 March 1999 (aged 27);18;1;JS Kabylie;Algeria;TRUE
+Algeria;6;MF;Ramiz Zerrouki;(1998-05-26)26 May 1998 (aged 28);53;3;Twente;Netherlands;FALSE
+Algeria;7;FW;Riyad Mahrez (captain);(1991-02-21)21 February 1991 (aged 35);116;38;Al-Ahli;United Arab Emirates;FALSE
+Algeria;8;MF;Houssem Aouar;(1998-06-30)30 June 1998 (aged 27);22;6;Al-Ittihad;Saudi Arabia;FALSE
+Algeria;9;FW;Amine Gouiri;(2000-02-16)16 February 2000 (aged 26);23;10;Marseille;France;FALSE
+Algeria;10;MF;Farès Chaïbi;(2002-11-28)28 November 2002 (aged 23);31;3;Eintracht Frankfurt;Germany;FALSE
+Algeria;11;FW;Anis Hadj Moussa;(2002-02-11)11 February 2002 (aged 24);15;2;Feyenoord;Netherlands;FALSE
+Algeria;12;FW;Nadhir Benbouali;(2000-04-17)17 April 2000 (aged 26);4;1;Győri ETO;Hungary;FALSE
+Algeria;13;DF;Jaouen Hadjam;(2003-03-26)26 March 2003 (aged 23);18;3;Young Boys;Switzerland;FALSE
+Algeria;14;MF;Hicham Boudaoui;(1999-09-23)23 September 1999 (aged 26);34;0;Nice;France;FALSE
+Algeria;15;DF;Rayan Aït-Nouri;(2001-06-06)6 June 2001 (aged 25);30;0;Manchester City;England;FALSE
+Algeria;16;GK;Oussama Benbot;(1994-10-11)11 October 1994 (aged 31);5;0;USM Alger;Algeria;TRUE
+Algeria;17;DF;Rafik Belghali;(2002-06-07)7 June 2002 (aged 24);13;1;Hellas Verona;Italy;FALSE
+Algeria;18;FW;Mohamed Amoura;(2000-05-09)9 May 2000 (aged 26);47;19;VfL Wolfsburg;Germany;FALSE
+Algeria;19;MF;Nabil Bentaleb;(1994-11-24)24 November 1994 (aged 31);60;6;Lille;France;FALSE
+Algeria;20;FW;Adil Boulbina;(2003-05-02)2 May 2003 (aged 23);12;6;Al-Duhail;Qatar;FALSE
+Algeria;21;DF;Ramy Bensebaini;(1995-04-16)16 April 1995 (aged 31);82;9;Borussia Dortmund;Germany;FALSE
+Algeria;22;MF;Ibrahim Maza;(2005-11-24)24 November 2005 (aged 20);17;2;Bayer Leverkusen;Germany;FALSE
+Algeria;23;GK;Luca Zidane;(1998-05-13)13 May 1998 (aged 28);7;0;Granada;Spain;FALSE
+Algeria;24;MF;Yacine Titraoui;(2003-07-26)26 July 2003 (aged 22);5;0;Charleroi;Belgium;FALSE
+Algeria;25;FW;Farès Ghedjemis;(2002-09-06)6 September 2002 (aged 23);1;1;Frosinone;Italy;FALSE
+Algeria;26;DF;Samir Chergui;(1999-02-06)6 February 1999 (aged 27);5;0;Paris FC;France;FALSE
+Argentina;1;GK;Juan Musso;(1994-05-06)6 May 1994 (aged 32);4;0;Atlético Madrid;Spain;FALSE
+Argentina;2;DF;Marcos Senesi;(1997-05-10)10 May 1997 (aged 29);3;0;Bournemouth;England;FALSE
+Argentina;3;DF;Nicolás Tagliafico;(1992-08-31)31 August 1992 (aged 33);76;1;Lyon;France;FALSE
+Argentina;4;DF;Gonzalo Montiel;(1997-01-01)1 January 1997 (aged 29);39;2;River Plate;Argentina;TRUE
+Argentina;5;MF;Leandro Paredes;(1994-06-29)29 June 1994 (aged 31);77;5;Boca Juniors;Argentina;TRUE
+Argentina;6;DF;Lisandro Martínez;(1998-01-18)18 January 1998 (aged 28);28;1;Manchester United;England;FALSE
+Argentina;7;MF;Rodrigo De Paul;(1994-05-24)24 May 1994 (aged 32);87;2;Inter Miami CF;United States;FALSE
+Argentina;8;MF;Valentín Barco;(2004-07-23)23 July 2004 (aged 21);4;2;Strasbourg;France;FALSE
+Argentina;9;FW;Julián Alvarez;(2000-01-31)31 January 2000 (aged 26);51;14;Atlético Madrid;Spain;FALSE
+Argentina;10;FW;Lionel Messi (captain);(1987-06-24)24 June 1987 (aged 38);199;117;Inter Miami CF;United States;FALSE
+Argentina;11;MF;Giovani Lo Celso;(1996-04-09)9 April 1996 (aged 30);67;4;Real Betis;Spain;FALSE
+Argentina;12;GK;Gerónimo Rulli;(1992-05-20)20 May 1992 (aged 34);8;0;Marseille;France;FALSE
+Argentina;13;DF;Cristian Romero;(1998-04-27)27 April 1998 (aged 28);51;3;Tottenham Hotspur;England;FALSE
+Argentina;14;MF;Exequiel Palacios;(1998-10-05)5 October 1998 (aged 27);40;0;Bayer Leverkusen;Germany;FALSE
+Argentina;15;MF;Nicolás González;(1998-04-06)6 April 1998 (aged 28);51;6;Atlético Madrid;Spain;FALSE
+Argentina;16;FW;Thiago Almada;(2001-04-26)26 April 2001 (aged 25);16;5;Atlético Madrid;Spain;FALSE
+Argentina;17;FW;Giuliano Simeone;(2002-12-18)18 December 2002 (aged 23);13;2;Atlético Madrid;Spain;FALSE
+Argentina;18;FW;Nico Paz;(2004-09-08)8 September 2004 (aged 21);9;1;Como;Italy;FALSE
+Argentina;19;DF;Nicolás Otamendi;(1988-02-12)12 February 1988 (aged 38);132;8;Benfica;Portugal;FALSE
+Argentina;20;MF;Alexis Mac Allister;(1998-12-24)24 December 1998 (aged 27);46;6;Liverpool;England;FALSE
+Argentina;21;FW;José Manuel López;(2000-12-06)6 December 2000 (aged 25);5;0;Palmeiras;Brazil;FALSE
+Argentina;22;FW;Lautaro Martínez;(1997-08-22)22 August 1997 (aged 28);77;37;Inter Milan;Italy;FALSE
+Argentina;23;GK;Emiliano Martínez;(1992-09-02)2 September 1992 (aged 33);59;0;Aston Villa;England;FALSE
+Argentina;24;MF;Enzo Fernández;(2001-01-17)17 January 2001 (aged 25);42;6;Chelsea;England;FALSE
+Argentina;25;DF;Facundo Medina;(1999-05-28)28 May 1999 (aged 27);9;0;Marseille;France;FALSE
+Argentina;26;DF;Nahuel Molina;(1998-04-06)6 April 1998 (aged 28);58;1;Atlético Madrid;Spain;FALSE
+Austria;1;GK;Alexander Schlager;(1996-02-01)1 February 1996 (aged 30);26;0;Red Bull Salzburg;Austria;TRUE
+Austria;2;DF;David Affengruber;(2001-03-19)19 March 2001 (aged 25);1;0;Elche;Spain;FALSE
+Austria;3;DF;Kevin Danso;(1998-09-19)19 September 1998 (aged 27);32;0;Tottenham Hotspur;England;FALSE
+Austria;4;MF;Xaver Schlager;(1997-09-28)28 September 1997 (aged 28);51;4;RB Leipzig;Germany;FALSE
+Austria;5;DF;Stefan Posch;(1997-05-14)14 May 1997 (aged 29);52;5;Mainz 05;Germany;FALSE
+Austria;6;MF;Nicolas Seiwald;(2001-05-04)4 May 2001 (aged 25);47;1;RB Leipzig;Germany;FALSE
+Austria;7;FW;Marko Arnautović;(1989-04-19)19 April 1989 (aged 37);133;47;Red Star Belgrade;Serbia;FALSE
+Austria;8;DF;David Alaba (captain);(1992-06-24)24 June 1992 (aged 33);113;15;Real Madrid;Spain;FALSE
+Austria;9;MF;Marcel Sabitzer;(1994-03-17)17 March 1994 (aged 32);98;26;Borussia Dortmund;Germany;FALSE
+Austria;10;MF;Florian Grillitsch;(1995-08-07)7 August 1995 (aged 30);58;1;Braga;Portugal;FALSE
+Austria;11;FW;Michael Gregoritsch;(1994-04-18)18 April 1994 (aged 32);75;24;FC Augsburg;Germany;FALSE
+Austria;12;GK;Florian Wiegele;(2001-03-21)21 March 2001 (aged 25);1;0;Viktoria Plzeň;Czech Republic;FALSE
+Austria;13;GK;Patrick Pentz;(1997-01-02)2 January 1997 (aged 29);18;0;Brøndby;Denmark;FALSE
+Austria;14;FW;Saša Kalajdžić;(1997-07-07)7 July 1997 (aged 28);22;4;LASK;Austria;TRUE
+Austria;15;DF;Philipp Lienhart;(1996-07-11)11 July 1996 (aged 29);41;3;SC Freiburg;Germany;FALSE
+Austria;16;DF;Phillipp Mwene;(1994-01-29)29 January 1994 (aged 32);30;0;Mainz 05;Germany;FALSE
+Austria;17;MF;Carney Chukwuemeka;(2003-10-20)20 October 2003 (aged 22);3;1;Borussia Dortmund;Germany;FALSE
+Austria;18;MF;Romano Schmid;(2000-01-27)27 January 2000 (aged 26);34;3;Werder Bremen;Germany;FALSE
+Austria;19;MF;Dejan Ljubičić;(1997-10-08)8 October 1997 (aged 28);9;1;Schalke 04;Germany;FALSE
+Austria;20;MF;Konrad Laimer;(1997-05-27)27 May 1997 (aged 29);57;7;Bayern Munich;Germany;FALSE
+Austria;21;FW;Patrick Wimmer;(2001-05-30)30 May 2001 (aged 25);30;1;VfL Wolfsburg;Germany;FALSE
+Austria;22;MF;Alexander Prass;(2001-05-26)26 May 2001 (aged 25);19;0;TSG Hoffenheim;Germany;FALSE
+Austria;23;DF;Marco Friedl;(1998-03-16)16 March 1998 (aged 28);11;0;Werder Bremen;Germany;FALSE
+Austria;24;MF;Paul Wanner;(2005-12-23)23 December 2005 (aged 20);3;0;PSV Eindhoven;Netherlands;FALSE
+Austria;25;DF;Michael Svoboda;(1998-10-15)15 October 1998 (aged 27);4;0;Venezia;Italy;FALSE
+Austria;26;MF;Alessandro Schöpf;(1994-02-07)7 February 1994 (aged 32);35;6;Wolfsberger AC;Austria;TRUE
+Jordan;1;GK;Yazeed Abulaila;(1993-01-08)8 January 1993 (aged 33);76;0;Al-Hussein;Jordan;TRUE
+Jordan;2;DF;Mohammad Abu Hashish;(1995-05-09)9 May 1995 (aged 31);56;1;Al-Karma;Iraq;FALSE
+Jordan;3;DF;Abdallah Nasib;(1994-02-25)25 February 1994 (aged 32);65;3;Al-Zawraa;Iraq;FALSE
+Jordan;4;DF;Husam Abu Dahab;(2000-05-13)13 May 2000 (aged 26);18;0;Al-Faisaly;Jordan;TRUE
+Jordan;5;DF;Yazan Al-Arab;(1996-01-31)31 January 1996 (aged 30);80;3;FC Seoul;South Korea;FALSE
+Jordan;6;MF;Amer Jamous;(2002-07-03)3 July 2002 (aged 23);19;1;Al-Zawraa;Iraq;FALSE
+Jordan;7;FW;Mohammad Abu Zrayq;(1997-12-30)30 December 1997 (aged 28);41;5;Raja Casablanca;Morocco;FALSE
+Jordan;8;MF;Noor Al-Rawabdeh;(1997-02-24)24 February 1997 (aged 29);68;3;Selangor;Morocco;FALSE
+Jordan;9;FW;Ali Olwan;(2000-03-26)26 March 2000 (aged 26);66;29;Al-Sailiya;Qatar;FALSE
+Jordan;10;FW;Musa Al-Taamari;(1997-06-10)10 June 1997 (aged 29);92;24;Rennes;France;FALSE
+Jordan;11;FW;Odeh Al-Fakhouri;(2005-11-22)22 November 2005 (aged 20);10;1;Pyramids;Egypt;FALSE
+Jordan;12;GK;Nour Bani Attiah;(1993-01-25)25 January 1993 (aged 33);5;0;Al-Faisaly;Jordan;TRUE
+Jordan;13;FW;Mahmoud Al-Mardi;(1993-10-06)6 October 1993 (aged 32);89;9;Al-Hussein;Jordan;TRUE
+Jordan;14;MF;Rajaei Ayed;(1993-07-25)25 July 1993 (aged 32);72;0;Al-Hussein;Jordan;TRUE
+Jordan;15;MF;Ibrahim Sadeh;(2000-04-27)27 April 2000 (aged 26);57;3;Al-Karma;Iraq;FALSE
+Jordan;16;DF;Mo Abualnadi;(2001-02-08)8 February 2001 (aged 25);18;0;Selangor;Morocco;FALSE
+Jordan;17;DF;Salim Obaid;(1992-01-17)17 January 1992 (aged 34);11;0;Al-Hussein;Jordan;TRUE
+Jordan;18;MF;Mohammad Taha;(2005-07-13)13 July 2005 (aged 20);2;0;Al-Hussein;Jordan;TRUE
+Jordan;19;DF;Saed Al-Rosan;(1997-02-01)1 February 1997 (aged 29);21;2;Al-Hussein;Jordan;TRUE
+Jordan;20;MF;Mohannad Abu Taha;(2003-02-02)2 February 2003 (aged 23);29;1;Al-Quwa Al-Jawiya;Iraq;FALSE
+Jordan;21;MF;Nizar Al-Rashdan;(1999-03-23)23 March 1999 (aged 27);47;4;Qatar SC;Qatar;FALSE
+Jordan;22;GK;Abdallah Al-Fakhouri;(2000-01-22)22 January 2000 (aged 26);11;0;Al-Wehdat;Jordan;TRUE
+Jordan;23;DF;Ihsan Haddad (captain);(1994-02-05)5 February 1994 (aged 32);92;2;Al-Hussein;Jordan;TRUE
+Jordan;24;FW;Ali Azaizeh;(2004-04-13)13 April 2004 (aged 22);4;0;Al-Shabab;Saudi Arabia;FALSE
+Jordan;25;MF;Mohammad Al-Dawoud;(1992-04-12)12 April 1992 (aged 34);13;1;Al-Wehdat;Jordan;TRUE
+Jordan;26;DF;Anas Badawi;(1997-09-13)13 September 1997 (aged 28);1;0;Al-Faisaly;Jordan;TRUE
+Colombia;1;GK;David Ospina;(1988-08-31)31 August 1988 (aged 37);130;0;Atlético Nacional;Colombia;TRUE
+Colombia;2;DF;Daniel Muñoz;(1996-05-26)26 May 1996 (aged 30);46;3;Crystal Palace;England;FALSE
+Colombia;3;DF;Jhon Lucumí;(1998-06-26)26 June 1998 (aged 27);37;1;Bologna;Italy;FALSE
+Colombia;4;DF;Santiago Arias;(1992-01-13)13 January 1992 (aged 34);68;0;Independiente;Argentina;FALSE
+Colombia;5;MF;Kevin Castaño;(2000-09-29)29 September 2000 (aged 25);25;0;River Plate;Argentina;FALSE
+Colombia;6;MF;Richard Ríos;(2000-06-02)2 June 2000 (aged 26);32;2;Benfica;Portugal;FALSE
+Colombia;7;FW;Luis Díaz;(1997-01-13)13 January 1997 (aged 29);74;22;Bayern Munich;Germany;FALSE
+Colombia;8;MF;Jorge Carrascal;(1998-05-25)25 May 1998 (aged 28);24;2;Flamengo;Brazil;FALSE
+Colombia;9;FW;Jhon Córdoba;(1993-05-11)11 May 1993 (aged 33);21;6;Krasnodar;Russia;FALSE
+Colombia;10;MF;James Rodríguez (captain);(1991-07-12)12 July 1991 (aged 34);126;31;Minnesota United FC;United States;FALSE
+Colombia;11;MF;Jhon Arias;(1997-09-21)21 September 1997 (aged 28);38;6;Palmeiras;Brazil;FALSE
+Colombia;12;GK;Camilo Vargas;(1989-03-09)9 March 1989 (aged 37);42;0;Atlas;Mexico;FALSE
+Colombia;13;DF;Yerry Mina;(1994-09-23)23 September 1994 (aged 31);54;8;Cagliari;Italy;FALSE
+Colombia;14;DF;Gustavo Puerta;(2003-07-23)23 July 2003 (aged 22);6;1;Racing Santander;Spain;FALSE
+Colombia;15;MF;Juan Portilla;(1998-09-12)12 September 1998 (aged 27);10;0;Athletico Paranaense;Brazil;FALSE
+Colombia;16;MF;Jefferson Lerma;(1994-10-25)25 October 1994 (aged 31);65;5;Crystal Palace;England;FALSE
+Colombia;17;DF;Johan Mojica;(1992-08-21)21 August 1992 (aged 33);45;1;Mallorca;Spain;FALSE
+Colombia;18;DF;Willer Ditta;(1998-01-23)23 January 1998 (aged 28);5;0;Cruz Azul;Mexico;FALSE
+Colombia;19;FW;Cucho Hernández;(1999-04-20)20 April 1999 (aged 27);9;2;Real Betis;Spain;FALSE
+Colombia;20;MF;Juan Fernando Quintero;(1993-01-18)18 January 1993 (aged 33);49;6;River Plate;Argentina;FALSE
+Colombia;21;FW;Jaminton Campaz;(2000-05-24)24 May 2000 (aged 26);10;1;Rosario Central;Argentina;FALSE
+Colombia;22;DF;Deiver Machado;(1993-09-02)2 September 1993 (aged 32);15;0;Nantes;France;FALSE
+Colombia;23;DF;Davinson Sánchez;(1996-06-12)12 June 1996 (aged 29);79;4;Galatasaray;Turkey;FALSE
+Colombia;24;GK;Álvaro Montero;(1995-03-29)29 March 1995 (aged 31);12;0;Vélez Sarsfield;Argentina;FALSE
+Colombia;25;FW;Luis Suárez;(1997-12-02)2 December 1997 (aged 28);12;5;Sporting CP;Portugal;FALSE
+Colombia;26;FW;Andrés Gómez;(2002-09-12)12 September 2002 (aged 23);8;2;Vasco da Gama;Brazil;FALSE
+DR Congo;1;GK;Lionel Mpasi;(1994-08-01)1 August 1994 (aged 31);29;0;Le Havre;France;FALSE
+DR Congo;2;DF;Aaron Wan-Bissaka;(1997-11-26)26 November 1997 (aged 28);12;0;West Ham United;England;FALSE
+DR Congo;3;DF;Steve Kapuadi;(1998-04-30)30 April 1998 (aged 28);4;0;Widzew Łódź;Poland;FALSE
+DR Congo;4;DF;Axel Tuanzebe;(1997-11-14)14 November 1997 (aged 28);14;1;Burnley;England;FALSE
+DR Congo;5;DF;Dylan Batubinsika;(1996-02-15)15 February 1996 (aged 30);14;1;AEL;Cyprus;FALSE
+DR Congo;6;MF;Ngal'ayel Mukau;(2004-11-03)3 November 2004 (aged 21);14;0;Lille;France;FALSE
+DR Congo;7;MF;Nathanaël Mbuku;(2002-03-16)16 March 2002 (aged 24);19;2;Montpellier;France;FALSE
+DR Congo;8;MF;Samuel Moutoussamy;(1996-08-12)12 August 1996 (aged 29);58;0;Atromitos;Greece;FALSE
+DR Congo;9;FW;Brian Cipenga;(1998-03-11)11 March 1998 (aged 28);8;0;Castellón;Spain;FALSE
+DR Congo;10;MF;Théo Bongonda;(1995-11-20)20 November 1995 (aged 30);38;7;Spartak Moscow;Russia;FALSE
+DR Congo;11;FW;Gaël Kakuta;(1991-06-21)21 June 1991 (aged 34);31;5;AEL;Cyprus;FALSE
+DR Congo;12;DF;Joris Kayembe;(1994-08-08)8 August 1994 (aged 31);26;1;Genk;Belgium;FALSE
+DR Congo;13;FW;Meschak Elia;(1997-08-06)6 August 1997 (aged 28);69;12;Alanyaspor;Turkey;FALSE
+DR Congo;14;MF;Noah Sadiki;(2004-12-17)17 December 2004 (aged 21);20;0;Sunderland;England;FALSE
+DR Congo;15;MF;Aaron Tshibola;(1995-01-02)2 January 1995 (aged 31);17;1;Kilmarnock;Scotland;FALSE
+DR Congo;16;GK;Timothy Fayulu;(1999-07-24)24 July 1999 (aged 26);3;0;Noah;Armenia;FALSE
+DR Congo;17;FW;Cédric Bakambu;(1991-04-11)11 April 1991 (aged 35);70;21;Real Betis;Spain;FALSE
+DR Congo;18;MF;Charles Pickel;(1997-05-15)15 May 1997 (aged 29);34;1;Espanyol;Spain;FALSE
+DR Congo;19;FW;Fiston Mayele;(1994-06-24)24 June 1994 (aged 31);37;6;Pyramids;Egypt;FALSE
+DR Congo;20;FW;Yoane Wissa;(1996-09-03)3 September 1996 (aged 29);38;9;Newcastle United;England;FALSE
+DR Congo;21;GK;Matthieu Epolo;(2005-01-15)15 January 2005 (aged 21);1;0;Standard Liège;Belgium;FALSE
+DR Congo;22;DF;Chancel Mbemba (captain);(1994-08-08)8 August 1994 (aged 31);109;7;Lille;France;FALSE
+DR Congo;23;FW;Simon Banza;(1996-08-13)13 August 1996 (aged 29);15;2;Al Jazira;United Arab Emirates;FALSE
+DR Congo;24;DF;Gédéon Kalulu;(1997-08-29)29 August 1997 (aged 28);28;0;Aris Limassol;Cyprus;FALSE
+DR Congo;25;MF;Edo Kayembe;(1998-06-03)3 June 1998 (aged 28);43;2;Watford;England;FALSE
+DR Congo;26;DF;Arthur Masuaku;(1993-11-07)7 November 1993 (aged 32);45;4;Lens;France;FALSE
+Portugal;1;GK;Diogo Costa;(1999-09-19)19 September 1999 (aged 26);43;0;Porto;Portugal;TRUE
+Portugal;2;DF;Nélson Semedo;(1993-11-16)16 November 1993 (aged 32);50;0;Fenerbahçe;Turkey;FALSE
+Portugal;3;DF;Rúben Dias;(1997-05-14)14 May 1997 (aged 29);76;3;Manchester City;England;FALSE
+Portugal;4;DF;Tomás Araújo;(2002-05-16)16 May 2002 (aged 24);5;0;Benfica;Portugal;TRUE
+Portugal;5;DF;Diogo Dalot;(1999-03-18)18 March 1999 (aged 27);35;3;Manchester United;England;FALSE
+Portugal;6;MF;Matheus Nunes;(1998-08-27)27 August 1998 (aged 27);20;2;Manchester City;England;FALSE
+Portugal;7;FW;Cristiano Ronaldo (captain);(1985-02-05)5 February 1985 (aged 41);228;143;Al-Nassr;Saudi Arabia;FALSE
+Portugal;8;MF;Bruno Fernandes;(1994-09-08)8 September 1994 (aged 31);89;29;Manchester United;England;FALSE
+Portugal;9;FW;Gonçalo Ramos;(2001-06-20)20 June 2001 (aged 24);25;10;Paris Saint-Germain;France;FALSE
+Portugal;10;MF;Bernardo Silva;(1994-08-10)10 August 1994 (aged 31);109;14;Manchester City;England;FALSE
+Portugal;11;FW;João Félix;(1999-11-10)10 November 1999 (aged 26);54;12;Al-Nassr;Saudi Arabia;FALSE
+Portugal;12;GK;José Sá;(1993-01-17)17 January 1993 (aged 33);5;0;Wolverhampton Wanderers;England;FALSE
+Portugal;13;DF;Renato Veiga;(2003-07-29)29 July 2003 (aged 22);13;1;Villarreal;Spain;FALSE
+Portugal;14;DF;Gonçalo Inácio;(2001-08-25)25 August 2001 (aged 24);22;2;Sporting CP;Portugal;TRUE
+Portugal;15;MF;João Neves;(2004-09-27)27 September 2004 (aged 21);22;3;Paris Saint-Germain;France;FALSE
+Portugal;16;FW;Francisco Trincão;(1999-12-29)29 December 1999 (aged 26);18;3;Sporting CP;Portugal;TRUE
+Portugal;17;FW;Rafael Leão;(1999-06-10)10 June 1999 (aged 27);44;5;Milan;Italy;FALSE
+Portugal;18;FW;Pedro Neto;(2000-03-09)9 March 2000 (aged 26);25;3;Chelsea;England;FALSE
+Portugal;19;FW;Gonçalo Guedes;(1996-11-29)29 November 1996 (aged 29);34;8;Real Sociedad;Spain;FALSE
+Portugal;20;DF;João Cancelo;(1994-05-27)27 May 1994 (aged 32);68;12;Barcelona;Spain;FALSE
+Portugal;21;MF;Rúben Neves;(1997-03-13)13 March 1997 (aged 29);67;1;Al-Hilal;Saudi Arabia;FALSE
+Portugal;22;GK;Rui Silva;(1994-02-07)7 February 1994 (aged 32);3;0;Sporting CP;Portugal;TRUE
+Portugal;23;MF;Vitinha;(2000-02-13)13 February 2000 (aged 26);38;0;Paris Saint-Germain;France;FALSE
+Portugal;24;DF;Samú Costa;(2000-11-27)27 November 2000 (aged 25);6;0;Mallorca;Spain;FALSE
+Portugal;25;DF;Nuno Mendes;(2002-06-19)19 June 2002 (aged 23);44;1;Paris Saint-Germain;France;FALSE
+Portugal;26;FW;Francisco Conceição;(2002-12-14)14 December 2002 (aged 23);17;4;Juventus;Italy;FALSE
+Uzbekistan;1;GK;Utkir Yusupov;(1991-01-04)4 January 1991 (aged 35);40;0;Navbahor Namangan;Uzbekistan;TRUE
+Uzbekistan;2;DF;Abdukodir Khusanov;(2004-02-29)29 February 2004 (aged 22);27;0;Manchester City;England;FALSE
+Uzbekistan;3;DF;Khojiakbar Alijonov;(1997-04-19)19 April 1997 (aged 29);40;2;Pakhtakor;Uzbekistan;TRUE
+Uzbekistan;4;DF;Farrukh Sayfiev;(1991-01-17)17 January 1991 (aged 35);46;1;Neftchi Fergana;Uzbekistan;TRUE
+Uzbekistan;5;DF;Rustam Ashurmatov;(1996-07-07)7 July 1996 (aged 29);49;1;Esteghlal;Iran;FALSE
+Uzbekistan;6;MF;Akmal Mozgovoy;(1999-04-02)2 April 1999 (aged 27);25;1;Pakhtakor;Uzbekistan;TRUE
+Uzbekistan;7;MF;Otabek Shukurov;(1996-06-22)22 June 1996 (aged 29);84;9;Baniyas;United Arab Emirates;FALSE
+Uzbekistan;8;MF;Jamshid Iskanderov;(1993-10-16)16 October 1993 (aged 32);38;4;Neftchi Fergana;Uzbekistan;TRUE
+Uzbekistan;9;MF;Odiljon Hamrobekov;(1996-02-13)13 February 1996 (aged 30);72;1;Tractor;Iran;FALSE
+Uzbekistan;10;MF;Ruslanbek Jiyanov;(2001-06-05)5 June 2001 (aged 25);5;0;Navbahor Namangan;Uzbekistan;TRUE
+Uzbekistan;11;MF;Oston Urunov;(2000-12-19)19 December 2000 (aged 25);42;10;Persepolis;Iran;FALSE
+Uzbekistan;12;GK;Abduvohid Nematov;(2001-03-20)20 March 2001 (aged 25);8;0;Nasaf;Uzbekistan;TRUE
+Uzbekistan;13;DF;Sherzod Nasrullaev;(1998-07-23)23 July 1998 (aged 27);31;2;Nasaf;Uzbekistan;TRUE
+Uzbekistan;14;FW;Eldor Shomurodov (captain);(1995-06-29)29 June 1995 (aged 30);92;44;İstanbul Başakşehir;Turkey;FALSE
+Uzbekistan;15;DF;Umar Eshmurodov;(1992-11-30)30 November 1992 (aged 33);29;0;Nasaf;Uzbekistan;TRUE
+Uzbekistan;16;GK;Botirali Ergashev;(1995-06-23)23 June 1995 (aged 30);2;0;Neftchi Fergana;Uzbekistan;TRUE
+Uzbekistan;17;MF;Dostonbek Khamdamov;(1996-07-24)24 July 1996 (aged 29);34;5;Pakhtakor;Uzbekistan;TRUE
+Uzbekistan;18;DF;Abdulla Abdullaev;(1997-09-01)1 September 1997 (aged 28);17;0;Dibba;United Arab Emirates;FALSE
+Uzbekistan;19;MF;Azizjon Ganiev;(1998-02-22)22 February 1998 (aged 28);19;0;Al Bataeh;United Arab Emirates;FALSE
+Uzbekistan;20;FW;Azizbek Amonov;(1997-10-30)30 October 1997 (aged 28);12;2;Dinamo Samarqand;Russia;FALSE
+Uzbekistan;21;FW;Igor Sergeev;(1993-04-30)30 April 1993 (aged 33);83;25;Persepolis;Iran;FALSE
+Uzbekistan;22;MF;Abbosbek Fayzullaev;(2003-10-03)3 October 2003 (aged 22);32;9;İstanbul Başakşehir;Turkey;FALSE
+Uzbekistan;23;MF;Sherzod Esanov;(2003-02-01)1 February 2003 (aged 23);1;0;Bukhara;Uzbekistan;TRUE
+Uzbekistan;24;DF;Bekhruz Karimov;(2007-08-07)7 August 2007 (aged 18);2;0;Surkhon Termiz;Uzbekistan;TRUE
+Uzbekistan;25;DF;Avazbek Ulmasaliev;(2000-03-27)27 March 2000 (aged 26);0;0;AGMK;Uzbekistan;TRUE
+Uzbekistan;26;DF;Jakhongir Urozov;(2004-01-18)18 January 2004 (aged 22);4;0;Dinamo Samarqand;Russia;FALSE
+Croatia;1;GK;Dominik Livaković;(1995-01-09)9 January 1995 (aged 31);75;0;Dinamo Zagreb;Croatia;TRUE
+Croatia;2;DF;Josip Stanišić;(2000-04-02)2 April 2000 (aged 26);31;0;Bayern Munich;Germany;FALSE
+Croatia;3;DF;Marin Pongračić;(1997-09-11)11 September 1997 (aged 28);20;0;Fiorentina;Italy;FALSE
+Croatia;4;DF;Joško Gvardiol;(2002-01-23)23 January 2002 (aged 24);48;4;Manchester City;England;FALSE
+Croatia;5;DF;Duje Ćaleta-Car;(1996-09-17)17 September 1996 (aged 29);38;1;Real Sociedad;Spain;FALSE
+Croatia;6;DF;Josip Šutalo;(2000-02-28)28 February 2000 (aged 26);33;0;Ajax;Netherlands;FALSE
+Croatia;7;MF;Nikola Moro;(1998-03-12)12 March 1998 (aged 28);10;0;Bologna;Italy;FALSE
+Croatia;8;MF;Mateo Kovačić;(1994-05-06)6 May 1994 (aged 32);113;5;Manchester City;England;FALSE
+Croatia;9;FW;Andrej Kramarić;(1991-06-19)19 June 1991 (aged 34);116;36;TSG Hoffenheim;Germany;FALSE
+Croatia;10;MF;Luka Modrić (captain);(1985-09-09)9 September 1985 (aged 40);198;29;Milan;Italy;FALSE
+Croatia;11;FW;Ante Budimir;(1991-07-22)22 July 1991 (aged 34);38;6;Osasuna;Spain;FALSE
+Croatia;12;GK;Ivor Pandur;(2000-03-25)25 March 2000 (aged 26);0;0;Hull City;England;FALSE
+Croatia;13;MF;Nikola Vlašić;(1997-10-04)4 October 1997 (aged 28);63;10;Torino;Italy;FALSE
+Croatia;14;FW;Ivan Perišić;(1989-02-02)2 February 1989 (aged 37);154;38;PSV Eindhoven;Netherlands;FALSE
+Croatia;15;MF;Mario Pašalić;(1995-02-09)9 February 1995 (aged 31);85;12;Atalanta;Italy;FALSE
+Croatia;16;MF;Martin Baturina;(2003-02-16)16 February 2003 (aged 23);19;1;Como;Italy;FALSE
+Croatia;17;MF;Petar Sučić;(2003-10-25)25 October 2003 (aged 22);17;1;Inter Milan;Italy;FALSE
+Croatia;18;DF;Kristijan Jakić;(1997-05-14)14 May 1997 (aged 29);17;2;FC Augsburg;Germany;FALSE
+Croatia;19;MF;Toni Fruk;(2001-03-09)9 March 2001 (aged 25);7;1;Rijeka;Croatia;TRUE
+Croatia;20;FW;Igor Matanović;(2003-03-31)31 March 2003 (aged 23);9;2;SC Freiburg;Germany;FALSE
+Croatia;21;MF;Luka Sučić;(2002-09-08)8 September 2002 (aged 23);21;1;Real Sociedad;Spain;FALSE
+Croatia;22;DF;Luka Vušković;(2007-02-24)24 February 2007 (aged 19);5;1;Hamburger SV;Germany;FALSE
+Croatia;23;GK;Dominik Kotarski;(2000-02-10)10 February 2000 (aged 26);4;0;Copenhagen;Denmark;FALSE
+Croatia;24;FW;Marco Pašalić;(2000-09-14)14 September 2000 (aged 25);15;1;Orlando City SC;United States;FALSE
+Croatia;25;DF;Martin Erlić;(1998-01-24)24 January 1998 (aged 28);13;1;Midtjylland;Denmark;FALSE
+Croatia;26;FW;Petar Musa;(1998-03-04)4 March 1998 (aged 28);11;1;FC Dallas;United States;FALSE
+England;1;GK;Jordan Pickford;(1994-03-07)7 March 1994 (aged 32);84;0;Everton;England;TRUE
+England;2;DF;Ezri Konsa;(1997-10-23)23 October 1997 (aged 28);20;1;Aston Villa;England;TRUE
+England;3;DF;Nico O'Reilly;(2005-03-21)21 March 2005 (aged 21);5;0;Manchester City;England;TRUE
+England;4;MF;Declan Rice;(1999-01-14)14 January 1999 (aged 27);73;7;Arsenal;England;TRUE
+England;5;DF;John Stones;(1994-05-28)28 May 1994 (aged 32);89;3;Manchester City;England;TRUE
+England;6;DF;Marc Guéhi;(2000-07-13)13 July 2000 (aged 25);29;1;Manchester City;England;TRUE
+England;7;FW;Bukayo Saka;(2001-09-05)5 September 2001 (aged 24);49;14;Arsenal;England;TRUE
+England;8;MF;Elliot Anderson;(2002-11-06)6 November 2002 (aged 23);9;0;Nottingham Forest;England;TRUE
+England;9;FW;Harry Kane (captain);(1993-07-28)28 July 1993 (aged 32);114;79;Bayern Munich;Germany;FALSE
+England;10;MF;Jude Bellingham;(2003-06-29)29 June 2003 (aged 22);48;6;Real Madrid;Spain;FALSE
+England;11;FW;Marcus Rashford;(1997-10-31)31 October 1997 (aged 28);72;18;Barcelona;Spain;FALSE
+England;12;DF;Trevoh Chalobah;(1999-07-05)5 July 1999 (aged 26);1;0;Chelsea;England;TRUE
+England;13;GK;Dean Henderson;(1997-03-12)12 March 1997 (aged 29);5;0;Crystal Palace;England;TRUE
+England;14;MF;Jordan Henderson;(1990-06-17)17 June 1990 (aged 35);90;3;Brentford;England;TRUE
+England;15;DF;Dan Burn;(1992-05-09)9 May 1992 (aged 34);8;0;Newcastle United;England;TRUE
+England;16;MF;Kobbie Mainoo;(2005-04-19)19 April 2005 (aged 21);14;0;Manchester United;England;TRUE
+England;17;MF;Morgan Rogers;(2002-07-26)26 July 2002 (aged 23);15;1;Aston Villa;England;TRUE
+England;18;FW;Anthony Gordon;(2001-02-24)24 February 2001 (aged 25);19;3;Newcastle United;England;TRUE
+England;19;FW;Ollie Watkins;(1995-12-30)30 December 1995 (aged 30);22;7;Aston Villa;England;TRUE
+England;20;FW;Noni Madueke;(2002-03-10)10 March 2002 (aged 24);11;1;Arsenal;England;TRUE
+England;21;MF;Eberechi Eze;(1998-06-29)29 June 1998 (aged 27);17;3;Arsenal;England;TRUE
+England;22;FW;Ivan Toney;(1996-03-16)16 March 1996 (aged 30);8;1;Al-Ahli;United Arab Emirates;FALSE
+England;23;GK;James Trafford;(2002-10-10)10 October 2002 (aged 23);2;0;Manchester City;England;TRUE
+England;24;DF;Reece James;(1999-12-08)8 December 1999 (aged 26);24;1;Chelsea;England;TRUE
+England;25;DF;Djed Spence;(2000-08-09)9 August 2000 (aged 25);6;0;Tottenham Hotspur;England;TRUE
+England;26;DF;Jarell Quansah;(2003-01-29)29 January 2003 (aged 23);3;0;Bayer Leverkusen;Germany;FALSE
+Ghana;1;GK;Lawrence Ati-Zigi;(1996-11-29)29 November 1996 (aged 29);29;0;St. Gallen;Switzerland;FALSE
+Ghana;2;DF;Alidu Seidu;(2000-06-04)4 June 2000 (aged 26);24;1;Rennes;France;FALSE
+Ghana;3;MF;Caleb Yirenkyi;(2006-01-15)15 January 2006 (aged 20);11;1;Nordsjælland;Denmark;FALSE
+Ghana;4;DF;Jonas Adjetey;(2003-12-13)13 December 2003 (aged 22);10;0;VfL Wolfsburg;Germany;FALSE
+Ghana;5;MF;Thomas Partey;(1993-06-13)13 June 1993 (aged 32);57;15;Villarreal;Spain;FALSE
+Ghana;6;DF;Abdul Mumin;(1998-06-06)6 June 1998 (aged 28);5;0;Rayo Vallecano;Spain;FALSE
+Ghana;7;FW;Abdul Fatawu;(2004-03-08)8 March 2004 (aged 22);28;3;Leicester City;England;FALSE
+Ghana;8;MF;Kwasi Sibo;(1998-06-24)24 June 1998 (aged 27);8;0;Oviedo;Spain;FALSE
+Ghana;9;FW;Jordan Ayew (captain);(1991-09-11)11 September 1991 (aged 34);120;34;Leicester City;England;FALSE
+Ghana;10;FW;Brandon Thomas-Asante;(1998-12-29)29 December 1998 (aged 27);8;1;Coventry City;England;FALSE
+Ghana;11;MF;Antoine Semenyo;(2000-01-07)7 January 2000 (aged 26);34;3;Manchester City;England;FALSE
+Ghana;12;GK;Joseph Anang;(2000-06-08)8 June 2000 (aged 26);1;0;St Patrick's Athletic;Ireland;FALSE
+Ghana;13;FW;Christopher Bonsu Baah;(2004-12-14)14 December 2004 (aged 21);9;0;Al-Qadsiah;Saudi Arabia;FALSE
+Ghana;14;DF;Gideon Mensah;(1998-07-18)18 July 1998 (aged 27);40;0;Auxerre;France;FALSE
+Ghana;15;MF;Elisha Owusu;(1997-11-07)7 November 1997 (aged 28);20;0;Auxerre;France;FALSE
+Ghana;16;GK;Benjamin Asare;(1992-07-13)13 July 1992 (aged 33);11;0;Hearts of Oak;Ghana;TRUE
+Ghana;17;DF;Abdul Rahman Baba;(1994-07-02)2 July 1994 (aged 31);51;1;PAOK;Greece;FALSE
+Ghana;18;DF;Jerome Opoku;(1998-10-14)14 October 1998 (aged 27);11;1;İstanbul Başakşehir;Turkey;FALSE
+Ghana;19;FW;Iñaki Williams;(1994-06-15)15 June 1994 (aged 31);26;2;Athletic Bilbao;Spain;FALSE
+Ghana;20;MF;Augustine Boakye;(2000-11-03)3 November 2000 (aged 25);0;0;Saint-Étienne;France;FALSE
+Ghana;21;DF;Kojo Peprah Oppong;(2004-06-04)4 June 2004 (aged 22);4;0;Nice;France;FALSE
+Ghana;22;FW;Kamaldeen Sulemana;(2002-02-15)15 February 2002 (aged 24);28;1;Atalanta;Italy;FALSE
+Ghana;23;DF;Derrick Luckassen;(1995-07-03)3 July 1995 (aged 30);1;0;Pafos;Cyprus;FALSE
+Ghana;24;FW;Ernest Nuamah;(2003-11-01)1 November 2003 (aged 22);18;4;Lyon;France;FALSE
+Ghana;25;FW;Prince Kwabena Adu;(2003-09-23)23 September 2003 (aged 22);5;0;Viktoria Plzeň;Czech Republic;FALSE
+Ghana;26;DF;Marvin Senaya;(2001-01-28)28 January 2001 (aged 25);2;0;Auxerre;France;FALSE
+Panama;1;GK;Luis Mejía;(1991-03-16)16 March 1991 (aged 35);56;0;Nacional;Paraguay;FALSE
+Panama;2;DF;César Blackman;(1998-04-02)2 April 1998 (aged 28);40;3;Slovan Bratislava;Slovakia;FALSE
+Panama;3;DF;José Córdoba;(2001-06-03)3 June 2001 (aged 25);32;1;Norwich City;England;FALSE
+Panama;4;DF;Fidel Escobar;(1995-01-09)9 January 1995 (aged 31);99;4;Saprissa;Costa Rica;FALSE
+Panama;5;DF;Edgardo Fariña;(2001-10-19)19 October 2001 (aged 24);18;0;Pari Nizhny Novgorod;Russia;FALSE
+Panama;6;MF;Cristian Martínez;(1997-02-06)6 February 1997 (aged 29);66;2;Ironi Kiryat Shmona;Israel;FALSE
+Panama;7;MF;José Luis Rodríguez;(1998-06-19)19 June 1998 (aged 27);70;8;Juárez;Israel;FALSE
+Panama;8;MF;Adalberto Carrasquilla;(1998-11-28)28 November 1998 (aged 27);73;3;Pumas UNAM;Mexico;FALSE
+Panama;9;FW;Tomás Rodríguez;(1999-03-09)9 March 1999 (aged 27);13;4;Saprissa;Costa Rica;FALSE
+Panama;10;MF;Ismael Díaz;(1997-05-12)12 May 1997 (aged 29);57;17;León;Mexico;FALSE
+Panama;11;MF;Yoel Bárcenas;(1993-10-23)23 October 1993 (aged 32);104;10;Mazatlán;Mexico;FALSE
+Panama;12;GK;César Samudio;(1994-02-23)23 February 1994 (aged 32);5;0;Marathón;Honduras;FALSE
+Panama;13;DF;Jiovany Ramos;(1997-01-26)26 January 1997 (aged 29);23;2;Puerto Cabello;Venezuela;FALSE
+Panama;14;DF;Carlos Harvey;(2000-02-03)3 February 2000 (aged 26);28;3;Minnesota United FC;United States;FALSE
+Panama;15;DF;Eric Davis;(1991-03-31)31 March 1991 (aged 35);107;9;Plaza Amador;Panama;TRUE
+Panama;16;DF;Andrés Andrade;(1998-10-16)16 October 1998 (aged 27);50;1;LASK;Austria;FALSE
+Panama;17;FW;José Fajardo;(1993-08-18)18 August 1993 (aged 32);68;17;Universidad Católica;Chile;FALSE
+Panama;18;FW;Cecilio Waterman;(1991-04-13)13 April 1991 (aged 35);55;15;Universidad de Concepción;Chile;FALSE
+Panama;19;MF;Alberto Quintero;(1987-12-18)18 December 1987 (aged 38);141;7;Plaza Amador;Panama;TRUE
+Panama;20;MF;Aníbal Godoy (captain);(1990-02-10)10 February 1990 (aged 36);159;4;San Diego FC;United States;FALSE
+Panama;21;MF;César Yanis;(1996-01-28)28 January 1996 (aged 30);56;5;Cobresal;Chile;FALSE
+Panama;22;GK;Orlando Mosquera;(1994-12-25)25 December 1994 (aged 31);48;0;Al-Fayha;Saudi Arabia;FALSE
+Panama;23;DF;Michael Amir Murillo;(1996-02-11)11 February 1996 (aged 30);94;9;Beşiktaş;Turkey;FALSE
+Panama;24;FW;Azarias Londoño;(2001-06-21)21 June 2001 (aged 24);11;0;Universidad Católica;Chile;FALSE
+Panama;25;DF;Roderick Miller;(1992-04-03)3 April 1992 (aged 34);50;2;Turan Tovuz;Azerbaijan;FALSE
+Panama;26;DF;Jorge Gutiérrez;(1998-09-01)1 September 1998 (aged 27);18;0;Deportivo La Guaira;Venezuela;FALSE
