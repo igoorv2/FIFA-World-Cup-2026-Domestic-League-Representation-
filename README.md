@@ -84,7 +84,7 @@ danych korzystano ze wsparcia modelu językowego Claude Sonnet 5 (Anthropic).
 
 ## Druga hipoteza: top 5 lig europejskich
 
-Oprócz wskaźnika "gra w rodzimej lidze" policzono analogiczny wskaźnik `Top5_Pct` — odsetek
+Oprócz wskaźnika "gra w rodzimej lidze" policzono analogiczny wskaźnik `Top5_Pct` - odsetek
 zawodników danej reprezentacji grających w klubie z Anglii, Hiszpanii, Niemiec, Włoch lub Francji
 (niezależnie od tego, czy to kraj macierzysty zawodnika). Policzony w Power BI jako kolumna DAX na
 podstawie `Club_country`, zagregowana per drużyna i zestawiona z `Finish` (numeryczna reprezentacja
@@ -96,6 +96,6 @@ City. Świadome uproszczenie, analogiczne do wskaźnika rodzimej ligi.
 
 ## Narzędzia
 
-R (`rvest`, `dplyr`, `httr`, `janitor`, `stringr`) — scraping i przygotowanie danych.
-Power BI (Power Query, DAX) — model danych, wskaźniki, wizualizacja.
-Excel — ręczna korekta słownika klub→kraj.
+R (`rvest`, `dplyr`, `httr`, `janitor`, `stringr`) - scraping i przygotowanie danych.
+Power BI (Power Query, DAX) - model danych, wskaźniki, wizualizacja.
+Excel - ręczna korekta słownika klub→kraj.
