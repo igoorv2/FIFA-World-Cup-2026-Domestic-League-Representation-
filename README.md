@@ -23,20 +23,22 @@ Projekt konkursowy: Data Acolyte x KajoDataSpace.
 **Overview**
 ![Overview](dashboard/01_overview.png)
 
+KPI ogólne (48 drużyn, 1248 zawodników, 339/909 w rodzimej lidze/za granicą),
+wykres udziału rodzimej ligi wg etapu turnieju, diagram Sankey przepływu zawodników między
+krajem klubu a reprezentacją, karta ze współczynnikiem korelacji.
+
 **Team Explorer**
 ![Team Explorer](dashboard/02_team_explorer.png)
+
+Interaktywna tabela wszystkich 48 reprezentacji z wyszukiwarką i filtrami
+(etap turnieju, kontynent), z panelem szczegółów (pełny skład + kluby) aktualizującym się po
+kliknięciu wybranej drużyny.
 
 **TOP 5**
 ![TOP 5](dashboard/03_top5.png)
 
-1. **Overview** - KPI ogólne (48 drużyn, 1248 zawodników, 339/909 w rodzimej lidze/za granicą),
-   wykres udziału rodzimej ligi wg etapu turnieju, diagram Sankey przepływu zawodników między
-   krajem klubu a reprezentacją, karta ze współczynnikiem korelacji.
-2. **Team Explorer** - interaktywna tabela wszystkich 48 reprezentacji z wyszukiwarką i filtrami
-   (etap turnieju, kontynent), z panelem szczegółów (pełny skład + kluby) aktualizującym się po
-   kliknięciu wybranej drużyny.
-3. **TOP 5** - analiza drugiej hipotezy: wykres punktowy `Top5_Pct` vs `Finish` z linią trendu,
-   ranking top 5 klubów wg liczby reprezentantów na turnieju, `Top5_Pct` wg kontynentu.
+Analiza drugiej hipotezy: wykres punktowy `Top5_Pct` vs `Finish` z linią trendu,
+ranking top 5 klubów wg liczby reprezentantów na turnieju, `Top5_Pct` wg kontynentu.
 
 ## Źródła danych
 
