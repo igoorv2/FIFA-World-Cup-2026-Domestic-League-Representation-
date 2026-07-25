@@ -96,9 +96,7 @@ City. Świadome uproszczenie, analogiczne do wskaźnika rodzimej ligi.
 
 ## Narzędzia
 
-R (`rvest`, `dplyr`, `httr`, `janitor`, `stringr`) - scraping i przygotowanie danych.
-
-Power BI (Power Query, DAX) - model danych, wskaźniki, wizualizacja.
-
-Excel - ręczna korekta słownika klub→kraj.
+- R (`rvest`, `dplyr`, `httr`, `janitor`, `stringr`) - scraping i przygotowanie danych.
+- Power BI (Power Query, DAX) - model danych, wskaźniki, wizualizacja.
+- Excel - ręczna korekta słownika klub→kraj.
 
