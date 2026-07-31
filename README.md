@@ -4,7 +4,9 @@ Analiza tego, czy odsetek zawodników grających w klubach z kraju, który repre
 zawodników grających w klubach z top 5 lig europejskich (Premier League, La Liga, Bundesliga,
 Serie A, Ligue 1) przekłada się na wynik reprezentacji na Mistrzostwach Świata 2026.
 
-Projekt konkursowy: Data Acolyte x KajoDataSpace.
+🏆 **TOP 3 konkursu Data Acolyte × KajoDataSpace (2026)**
+
+Projekt został wyróżniony w konkursie na najlepszy dashboard dotyczący Mistrzostw Świata 2026.
 
 **Dashboard (Power BI):** 3 strony - Overview, Team Explorer, TOP 5.
 **Post na LinkedIn:** [https://www.linkedin.com/feed/update/urn:li:activity:7486152453487443968/]
