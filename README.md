@@ -8,17 +8,9 @@ Serie A, Ligue 1) przekłada się na wynik reprezentacji na Mistrzostwach Świat
 
 Projekt został wyróżniony w konkursie na najlepszy dashboard dotyczący Mistrzostw Świata 2026.
 
-**Dashboard (Power BI):** 3 strony - Overview, Team Explorer, TOP 5.
-**Post na LinkedIn:** [https://www.linkedin.com/feed/update/urn:li:activity:7486152453487443968/]
+🔗 **Ogłoszenie wyników konkursu:** [https://www.linkedin.com/feed/update/urn:li:activity:7488837045730164737/]
 
-## Kluczowe wnioski
-
-- **Odsetek zawodników w rodzimej lidze praktycznie nie koreluje z wynikiem w turnieju**
-  (r = -0,002) - brak wykrywalnej zależności liniowej w tej próbie (48 drużyn).
-- **Odsetek zawodników w top 5 lig europejskich koreluje znacznie wyraźniej z wynikiem** -
-  reprezentacje z większym udziałem graczy z czołowych lig osiągały lepsze miejsca w turnieju.
-- Wniosek: nie chodzi o to, *gdzie* zawodnik gra (kraj macierzysty czy zagranica), tylko o *jak
-  mocna* jest liga, w której gra.
+🔗 **Post prezentujący projekt na LinkedIn:** [https://www.linkedin.com/feed/update/urn:li:activity:7486152453487443968/]
 
 ## Dashboard (Power BI)
 
@@ -41,6 +33,15 @@ kliknięciu wybranej drużyny.
 
 Analiza drugiej hipotezy: wykres punktowy `Top5_Pct` vs `Finish` z linią trendu,
 ranking top 5 klubów wg liczby reprezentantów na turnieju, `Top5_Pct` wg kontynentu.
+
+## Kluczowe wnioski
+
+- **Odsetek zawodników w rodzimej lidze praktycznie nie koreluje z wynikiem w turnieju**
+  (r = -0,002) - brak wykrywalnej zależności liniowej w tej próbie (48 drużyn).
+- **Odsetek zawodników w top 5 lig europejskich koreluje znacznie wyraźniej z wynikiem** -
+  reprezentacje z większym udziałem graczy z czołowych lig osiągały lepsze miejsca w turnieju.
+- Wniosek: nie chodzi o to, *gdzie* zawodnik gra (kraj macierzysty czy zagranica), tylko o *jak
+  mocna* jest liga, w której gra.
 
 ## Źródła danych
 
