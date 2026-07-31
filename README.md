@@ -8,9 +8,9 @@ Serie A, Ligue 1) przekłada się na wynik reprezentacji na Mistrzostwach Świat
 
 Projekt został wyróżniony w konkursie na najlepszy dashboard dotyczący Mistrzostw Świata 2026.
 
-🔗 **Ogłoszenie wyników konkursu:** [https://www.linkedin.com/feed/update/urn:li:activity:7488837045730164737/]
+🔗 **Ogłoszenie wyników konkursu:** https://www.linkedin.com/feed/update/urn:li:activity:7488837045730164737/
 
-🔗 **Post prezentujący projekt na LinkedIn:** [https://www.linkedin.com/feed/update/urn:li:activity:7486152453487443968/]
+🔗 **Post prezentujący projekt na LinkedIn:** https://www.linkedin.com/feed/update/urn:li:activity:7486152453487443968/
 
 ## Dashboard (Power BI)
 
